@@ -1,0 +1,31 @@
+---
+title: "Vice-Coordenador do INTERAS participará de prestigiado programa sobre Física Cardíaca na UC Santa Barbara"
+author: "Mário O. de Menezes"
+date: "2026-03-05"
+categories: [internacionalização, pesquisa, física médica]
+image: "image.jpg"
+---
+
+O Prof. Emiliano, vice-coordenador do **INTERAS (INCT de Radiações na Saúde)**, foi selecionado para participar do programa internacional *"Multi-Scale Physics of Normal and Diseased Heart: from Ion Channels to Whole Organ"*, que ocorrerá no renomado **Kavli Institute for Theoretical Physics (KITP)**, na Universidade da Califórnia - Santa Barbara (UCSB).
+
+A escolha do Prof. Emiliano é um marco significativo, visto que o programa reúne um grupo seleto de pesquisadores globais, com raros representantes da América Latina, para uma imersão de 30 dias em uma das fronteiras mais complexas da biofísica contemporânea.
+
+### O Desafio das Arritmias Cardíacas
+Embora a arritmia cardíaca seja uma das principais causas de mortalidade mundial, seus mecanismos biológicos ainda carecem de compreensão plena. A dificuldade reside na natureza do coração como um sistema multiescalar: o que ocorre no nível molecular (canais iônicos) reverbera em interações não lineares que afetam o órgão como um todo.
+
+O programa na UCSB propõe uma abordagem transdisciplinar, integrando clínica, física, matemática e engenharia para modelar esses fenômenos em diferentes escalas de tempo e espaço. A estrutura do evento está dividida em quatro pilares fundamentais:
+
+1.  **Nível Molecular:** Análise de bases genéticas e moleculares.
+2.  **Fenômenos Celulares:** Estudo da sinalização de cálcio e excitações elétricas anormais.
+3.  **Nível Tecidual:** Investigação de processos de reentrada e excitações ectópicas.
+4.  **Aplicação Clínica:** Desenvolvimento de novas ferramentas de diagnóstico, previsão e tratamento.
+
+### Impacto para o INTERAS e Internacionalização
+Para o Prof. Emiliano, a participação representa uma oportunidade ímpar de intercâmbio com centros de excelência global. Mais do que uma conquista individual, a iniciativa visa fortalecer o papel do INTERAS no cenário científico internacional.
+
+> "Almejo contribuir para ampliar os horizontes dentro do INCT-INTERAS, fomentando colaborações internacionais que nos permitam evoluir não apenas no conhecimento teórico, mas também na formação de recursos humanos", afirma o pesquisador.
+
+Espera-se que essa imersão resulte em novas frentes de cooperação para os programas de pós-graduação vinculados ao INTERAS, proporcionando aos jovens pesquisadores e alunos de doutorado acesso a metodologias e redes de contatos fundamentais para o avanço da ciência brasileira em saúde.
+
+---
+*Para mais detalhes sobre o programa, acesse a página oficial do [KITP/UCSB](https://www.kitp.ucsb.edu/activities/cardio26).*
