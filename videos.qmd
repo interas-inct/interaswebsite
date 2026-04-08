@@ -1,0 +1,15 @@
+---
+title: "Produções Audiovisuais"
+subtitle: "Documentação e Divulgação Científica INTERAS"
+listing:
+  contents: 
+    - "videos_arqs/*.qmd"
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  fields: [image, date, title, description]
+---
+
+Nesta seção, disponibilizamos vídeos institucionais, registros de eventos e materiais de divulgação produzidos pelo INTERAS.

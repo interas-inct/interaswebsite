@@ -14,9 +14,17 @@ project:
     - "grupos"
     - "contato.qmd"
     - "sobre-o-interas.qmd"
+    - "videos.qmd"
+    - "videos_arqs/*.qmd"
 
 website:
   title: "INTERAS"
+  announcement:
+    id: news-braqui-2026
+    icon: play-btn
+    dismissable: true
+    content: "📢 **Novo Vídeo:** Avanços em Nanobraquiterapia. [Assista aqui](videos.qmd)"
+    type: primary
   page-navigation: true
   favicon: images/favicon.ico
   navbar:
@@ -46,6 +54,8 @@ website:
 #        - text: "PREPRINTS"
 #          href: preprints.qmd
       - noticias/index.qmd
+      - href: videos.qmd
+        text: VÍDEOS
 #      - mulheresinteras/index.qmd
   page-footer: 
     left: 
@@ -64,7 +74,8 @@ resources:
   - "pessoas/*/fotos/"
   - "images/*"
   - "images/grupos/*"
-
+  - "videos_arqs/*.png"
+  - "CNAME"
   
 format:
   html:
@@ -73,6 +84,7 @@ format:
       - custom.scss
     css-vars:
       hero-bg: "url('images/topo_desvanecendo_sem_texto.jpeg')"
+    link-external-newwindow: true
 
 lang: pt-BR
 

@@ -146,6 +146,9 @@ window.Quarto = {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <div id="quarto-announcement" data-announcement-id="edfdc75ecc03bc746cf41aa54c442ac7" class="alert alert-primary hidden"><i class="bi bi-play-btn quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p>📢 <strong>Novo Vídeo:</strong> Avanços em Nanobraquiterapia. <a href="./videos.html">Assista aqui</a></p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -204,6 +207,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./noticias/index.html"> 
 <span class="menu-text">NOTÍCIAS</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./videos.html"> 
+<span class="menu-text">VÍDEOS</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -463,6 +470,11 @@ Laboratório de Investigação Médica 28 (Cirurgia de Cabeça e Pescoço)
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

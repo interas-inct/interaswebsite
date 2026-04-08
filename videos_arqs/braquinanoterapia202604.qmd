@@ -1,0 +1,16 @@
+---
+title: "Braquiterapia e Nanobraquiterapia - INTERAS 2026"
+date: "2026-04-08"
+description: "Apresentação do desenvolvimento da Nanobraquiterapia no INTERAS."
+image: "screenshotnanobraqui.jpg"
+categories: [Braquiterapia, Nanobraquiterapia]
+---
+
+### Descrição
+
+Este vídeo apresenta o trabalho do pesquisador **Noé Gabriel P. Machado**, doutorando orientado pelo **Prof. Dr. Wagner de Rossi**. A pesquisa, intitulada *'Síntese de nanopartículas de ouro via ablação por laser de femtossegundos, visando aplicações em nanobraquiterapia'*, foca na integração entre física médica e aplicações clínicas da radiação.
+
+### Acesso ao Conteúdo
+
+* [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1Q1aS3130I8cg0oirlv5kdQyMiJoCDRyV/view?usp=sharing){target="_blank"}
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/zCCcrJma7tFjTPj){target="_blank"}
