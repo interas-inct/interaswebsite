@@ -1,0 +1,16 @@
+---
+title: "Diversas aplicações de lasers como coadjuvante em processos clínicos -- INTERAS 2026"
+date: "2026-04-10"
+description: "Apresentação do trabalho da Dra Martha Simões"
+image: "INTERAS_Martha.png"
+categories: [Dosimetria, Fotônica, Ótica]
+---
+
+### Descrição
+
+Este vídeo apresenta alguns resultados de trabalhos do Grupo de Pesquisas em Biofotônica do Centro de Lasers e Aplicações (CELAP) do IPEN-CNEN/SP; em especial, o vídeo mostra a aceleração da cicatrização como resultado da aplicação do laser; também a aplicação do laser para prevenção de mucosite oral e pacientes de radio e quimioterapia; outra aplicação é a remoção de lesões bucais em paciente HIV positivo.
+
+### Acesso ao Conteúdo
+
+* [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1G3hjypTGzVfdrkuCtNv_-Zb-nwAsCIRp/view){target="_blank"}
+<!-- * [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/){target="_blank"} -->

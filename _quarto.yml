@@ -23,7 +23,7 @@ website:
     id: news-braqui-2026
     icon: play-btn
     dismissable: true
-    content: "📢 **Novo Vídeo:** Avanços em Nanobraquiterapia. [Assista aqui](videos.qmd)"
+    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](videos.qmd)"
     type: primary
   page-navigation: true
   favicon: images/favicon.ico
@@ -75,6 +75,7 @@ resources:
   - "images/*"
   - "images/grupos/*"
   - "videos_arqs/*.png"
+  - "videos_arqs/*.jpg"
   - "CNAME"
   
 format:
