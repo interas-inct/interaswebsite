@@ -13,4 +13,4 @@ Este vídeo apresenta alguns resultados de trabalhos do Grupo de Pesquisas em Bi
 ### Acesso ao Conteúdo
 
 * [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1G3hjypTGzVfdrkuCtNv_-Zb-nwAsCIRp/view){target="_blank"}
-<!-- * [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/){target="_blank"} -->
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/sQy8psnbsHLgmmb){target="_blank"}

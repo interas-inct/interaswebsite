@@ -13,4 +13,4 @@ Este vídeo apresenta o trabalho do pesquisador **Murilo Sanches Sampaio**, dout
 ### Acesso ao Conteúdo
 
 * [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1H-VNwv39QBXRXdT0AEbh8D4UsE8e9N5j/view){target="_blank"}
-<!-- * [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/){target="_blank"} -->
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/APyTCNDE944BMfB){target="_blank"}
