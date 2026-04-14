@@ -1,5 +1,5 @@
 ---
-pagetitle: "PUBLICAÇÕES"
+pagetitle: "Produção Científica e Tecnológica"
 toc: false
 listing:
   - id: articles
@@ -12,4 +12,27 @@ listing:
       - "author desc"
     sort-ui: [title,author,publication,year]
     filter-ui: [title,author,publication,year]
+  - id: patents
+    contents: "patentes/*.qmd"
+    type: default
+    fields: [title, author, date, description]
+    field-display-names:
+      description: "Registro"
+    categories: true
+    sort: "date desc"
+    filter-ui: true
+    sort-ui: true
 ---
+
+
+# Artigos Originais {#articles}
+
+::: {#articles}
+:::
+
+<br>
+
+# Propriedade Intelectual (Patentes e Softwares) {#patents}
+
+::: {#patents}
+:::

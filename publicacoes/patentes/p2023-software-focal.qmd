@@ -1,0 +1,14 @@
+---
+title: "Software FOCAL"
+author: "Telles, L. F. K.; Oliveira, L. S. S.; Santos Filho, M. L.; Souza, D. N."
+date: "2023-11-24"
+description: "Nº 512023003626-9 | INPI - Programa de Computador"
+categories: [Software, INPI]
+---
+
+### Detalhes do Registro
+
+- **Autores:** Telles, L. F. K.; Oliveira, L. S. S.; Santos Filho, M. L.; Souza, D. N.
+- **Número do Registro:** 512023003626-9
+- **Data de Registro:** 24/11/2023
+- **Instituição:** INPI - Instituto Nacional da Propriedade Industrial

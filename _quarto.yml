@@ -16,6 +16,7 @@ project:
     - "sobre-o-interas.qmd"
     - "videos.qmd"
     - "videos_arqs/*.qmd"
+    - "publicacoes/patentes/*.qmd"
 
 website:
   title: "INTERAS"
@@ -23,7 +24,7 @@ website:
     id: news-braqui-2026
     icon: play-btn
     dismissable: true
-    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](videos.qmd)"
+    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](/videos.qmd)"
     type: primary
   page-navigation: true
   favicon: images/favicon.ico
@@ -50,11 +51,13 @@ website:
       - text: "PRODUÇÃO"
         menu:
         - text: "ARTIGOS"
-          href: publicacoes/index.qmd
+          href: publicacoes/index.qmd#articles
+        - text: "PATENTES"
+          href: publicacoes/index.qmd#patents
 #        - text: "PREPRINTS"
 #          href: preprints.qmd
       - noticias/index.qmd
-      - href: videos.qmd
+      - href: /videos.qmd
         text: VÍDEOS
 #      - mulheresinteras/index.qmd
   page-footer: 
@@ -91,4 +94,5 @@ lang: pt-BR
 
 execute: 
   freeze: auto
+  cache: true
   

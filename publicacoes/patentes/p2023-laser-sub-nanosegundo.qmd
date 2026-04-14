@@ -1,0 +1,14 @@
+---
+title: "Laser chaveado de estado sólido gerando pulsos de sub-nanosegundo com 41 mJ de energia"
+author: "Wetter, Niklaus Ursus"
+date: "2023-03-31"
+description: "Nº BR1020230061575 | INPI - Privilégio de Inovação (Depósito)"
+categories: [Privilégio de Inovação, Depósito]
+---
+
+### Detalhes da Patente
+
+- **Inventores:** Wetter, Niklaus Ursus
+- **Número do Registro:** BR1020230061575
+- **Data de Depósito:** 31/03/2023
+- **Instituição:** INPI - Instituto Nacional da Propriedade Industrial
