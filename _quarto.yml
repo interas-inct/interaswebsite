@@ -19,12 +19,12 @@ project:
 
 website:
   title: "INTERAS"
-#  announcement:
-#    id: news-braqui-2026
-#    icon: play-btn
-#    dismissable: true
-#    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](videos/index.qmd)"
-#    type: primary
+  announcement:
+    id: news-braqui-2026
+    icon: play-btn
+    dismissable: true
+    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](/videos/index.qmd)"
+    type: primary
   page-navigation: true
   favicon: images/favicon.ico
   navbar:

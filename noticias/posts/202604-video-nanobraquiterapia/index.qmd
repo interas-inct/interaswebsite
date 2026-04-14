@@ -3,7 +3,7 @@ title: "INTERAS lança vídeo sobre avanços em Nanobraquiterapia"
 author: "Mário O. de Menezes"
 date: "2026-04-08"
 categories: [divulgação, pesquisa, vídeos]
-image: "/videos_arqs/screenshotnanobraqui.jpg"
+image: "screenshotnanobraqui.jpg"
 ---
 
 O INTERAS acaba de disponibilizar uma nova produção audiovisual detalhando as pesquisas de fronteira em **Nanobraquiterapia**. 
