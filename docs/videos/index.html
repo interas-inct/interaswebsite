@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Apresentação do trabalho da Dra Martha Simões">
 
-<title>Diversas aplicações de lasers como coadjuvante em processos clínicos – INTERAS 2026 – INTERAS</title>
+<title>Produções Audiovisuais – INTERAS</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,6 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../images/favicon.ico" rel="icon">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -70,6 +71,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-GSTPFS7CEE"></script>
 
 <script type="text/javascript">
@@ -80,16 +110,42 @@ gtag('js', new Date());
 gtag('config', 'G-GSTPFS7CEE', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <div id="quarto-announcement" data-announcement-id="5ecdb442fddc19bdae55c4f258c7fd25" class="alert alert-primary hidden"><i class="bi bi-play-btn quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>📢 <strong>Novos Vídeos divulgando pesquisas realizadas no INTERAS</strong>. <a href="videos.qmd">Assista aqui</a></p>
-</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -140,7 +196,7 @@ gtag('config', 'G-GSTPFS7CEE', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-produção">    
         <li>
-    <a class="dropdown-item" href="../publicacoes/index.html">
+    <a class="dropdown-item" href="../publicacoes/index.html#articles">
  <span class="dropdown-text">ARTIGOS</span></a>
   </li>  
         <li>
@@ -154,7 +210,7 @@ gtag('config', 'G-GSTPFS7CEE', { 'anonymize_ip': true});
 <span class="menu-text">NOTÍCIAS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../videos.html"> 
+    <a class="nav-link active" href="../videos/index.html" aria-current="page"> 
 <span class="menu-text">VÍDEOS</span></a>
   </li>  
 </ul>
@@ -168,36 +224,23 @@ gtag('config', 'G-GSTPFS7CEE', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(4)</span></div><div class="category" data-category="QnJhcXVpdGVyYXBpYQ==">Braquiterapia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RG9zaW1ldHJpYQ==">Dosimetria <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Rm90JUMzJUI0bmljYQ==">Fotônica <span class="quarto-category-count">(3)</span></div><div class="category" data-category="TmFub2JyYXF1aXRlcmFwaWE=">Nanobraquiterapia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUMzJTkzdGljYQ==">Ótica <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Diversas aplicações de lasers como coadjuvante em processos clínicos – INTERAS 2026</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Dosimetria</div>
-    <div class="quarto-category">Fotônica</div>
-    <div class="quarto-category">Ótica</div>
-  </div>
-  </div>
-
-<div>
-  <div class="description">
-    Apresentação do trabalho da Dra Martha Simões
-  </div>
+<h1 class="title">Produções Audiovisuais</h1>
+<p class="subtitle lead">Documentação e Divulgação Científica INTERAS</p>
 </div>
+
 
 
 <div class="quarto-title-meta">
 
     
-    <div>
-    <div class="quarto-title-meta-heading">Data de Publicação</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">10 de abril de 2026</p>
-    </div>
-  </div>
   
     
   </div>
@@ -207,21 +250,100 @@ gtag('config', 'G-GSTPFS7CEE', { 'anonymize_ip': true});
 </header>
 
 
-<section id="descrição" class="level3">
-<h3 class="anchored" data-anchor-id="descrição">Descrição</h3>
-<p>Este vídeo apresenta alguns resultados de trabalhos do Grupo de Pesquisas em Biofotônica do Centro de Lasers e Aplicações (CELAP) do IPEN-CNEN/SP; em especial, o vídeo mostra a aceleração da cicatrização como resultado da aplicação do laser; também a aplicação do laser para prevenção de mucosite oral e pacientes de radio e quimioterapia; outra aplicação é a remoção de lesões bucais em paciente HIV positivo.</p>
-</section>
-<section id="acesso-ao-conteúdo" class="level3">
-<h3 class="anchored" data-anchor-id="acesso-ao-conteúdo">Acesso ao Conteúdo</h3>
-<ul>
-<li><a href="https://drive.google.com/file/d/1G3hjypTGzVfdrkuCtNv_-Zb-nwAsCIRp/view" target="_blank"><strong>Servidor Principal (Google Drive)</strong></a></li>
-<li><a href="https://cloud.cinas.ipen.br/s/sQy8psnbsHLgmmb" target="_blank"><strong>Servidor Alternativo (NextCloud CINAS-IPEN)</strong></a></li>
-</ul>
+<p>Nesta seção, disponibilizamos vídeos institucionais, registros de eventos e materiais de divulgação produzidos pelo INTERAS.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RG9zaW1ldHJpYSUyQ0ZvdCVDMyVCNG5pY2ElMkMlQzMlOTN0aWNh" data-listing-date-sort="1775790000000" data-listing-file-modified-sort="1776105248157" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="53">
+<a href="../videos/videos_arqs/interascla.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../videos/videos_arqs/INTERAS_CLA.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Centro de Lasers e Aplicações do IPEN-CNEN
+</h5>
+<div class="card-text listing-description delink">
+<p>Apresentação de algumas pesquisas do CELAP</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+10 de abr. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="RG9zaW1ldHJpYSUyQ0ZvdCVDMyVCNG5pY2ElMkMlQzMlOTN0aWNh" data-listing-date-sort="1775790000000" data-listing-file-modified-sort="1776105277490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="76">
+<a href="../videos/videos_arqs/marthainteras.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../videos/videos_arqs/INTERAS_Martha.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Diversas aplicações de lasers como coadjuvante em processos clínicos – INTERAS 2026
+</h5>
+<div class="card-text listing-description delink">
+<p>Apresentação do trabalho da Dra Martha Simões</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+10 de abr. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="RG9zaW1ldHJpYSUyQ0ZvdCVDMyVCNG5pY2ElMkMlQzMlOTN0aWNh" data-listing-date-sort="1775790000000" data-listing-file-modified-sort="1776105220918" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
+<a href="../videos/videos_arqs/murilosampaio.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../videos/videos_arqs/INTERAS_AlunoLuciano.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dosimetria Ótica em Tecidos Biológicos - INTERAS 2026
+</h5>
+<div class="card-text listing-description delink">
+<p>Apresentação da pesquisa de doutorado do Murilo</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+10 de abr. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="QnJhcXVpdGVyYXBpYSUyQ05hbm9icmFxdWl0ZXJhcGlh" data-listing-date-sort="1775617200000" data-listing-file-modified-sort="1776105173669" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="59">
+<a href="../videos/videos_arqs/braquinanoterapia202604.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../videos/videos_arqs/screenshotnanobraqui.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Braquiterapia e Nanobraquiterapia - INTERAS 2026
+</h5>
+<div class="card-text listing-description delink">
+<p>Apresentação do desenvolvimento da Nanobraquiterapia no INTERAS.</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+8 de abr. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">Sem itens correspondentes</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

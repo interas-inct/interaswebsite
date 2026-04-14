@@ -1,11 +1,11 @@
 [
   {
-    "listing": "/videos.html",
+    "listing": "/videos/index.html",
     "items": [
-      "/videos_arqs/interascla.html",
-      "/videos_arqs/marthainteras.html",
-      "/videos_arqs/murilosampaio.html",
-      "/videos_arqs/braquinanoterapia202604.html"
+      "/videos/videos_arqs/interascla.html",
+      "/videos/videos_arqs/marthainteras.html",
+      "/videos/videos_arqs/murilosampaio.html",
+      "/videos/videos_arqs/braquinanoterapia202604.html"
     ]
   },
   {

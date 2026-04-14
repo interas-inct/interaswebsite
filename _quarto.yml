@@ -14,18 +14,17 @@ project:
     - "grupos"
     - "contato.qmd"
     - "sobre-o-interas.qmd"
-    - "videos.qmd"
-    - "videos_arqs/*.qmd"
+    - "videos"
     - "publicacoes/patentes/*.qmd"
 
 website:
   title: "INTERAS"
-  announcement:
-    id: news-braqui-2026
-    icon: play-btn
-    dismissable: true
-    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](/videos.qmd)"
-    type: primary
+#  announcement:
+#    id: news-braqui-2026
+#    icon: play-btn
+#    dismissable: true
+#    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](videos/index.qmd)"
+#    type: primary
   page-navigation: true
   favicon: images/favicon.ico
   navbar:
@@ -57,8 +56,8 @@ website:
 #        - text: "PREPRINTS"
 #          href: preprints.qmd
       - noticias/index.qmd
-      - href: /videos.qmd
-        text: VÍDEOS
+      - text: VÍDEOS
+        href: videos/index.qmd
 #      - mulheresinteras/index.qmd
   page-footer: 
     left: 
@@ -77,8 +76,8 @@ resources:
   - "pessoas/*/fotos/"
   - "images/*"
   - "images/grupos/*"
-  - "videos_arqs/*.png"
-  - "videos_arqs/*.jpg"
+  - "videos/videos_arqs/*.png"
+  - "videos/videos_arqs/*.jpg"
   - "CNAME"
   
 format:

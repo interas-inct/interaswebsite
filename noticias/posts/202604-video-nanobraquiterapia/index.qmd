@@ -15,5 +15,5 @@ O material faz parte do conjunto de vídeos institucionais que documentam o prog
 Você pode conferir o vídeo completo, com opções de acesso via Google Drive e NextCloud, em nossa nova seção dedicada:
 
 ::: {.callout-tip appearance="simple"}
-### [Acesse aqui a Galeria de Vídeos do INTERAS](/videos.qmd)
+### [Acesse aqui a Galeria de Vídeos do INTERAS](/videos/index.qmd)
 :::
