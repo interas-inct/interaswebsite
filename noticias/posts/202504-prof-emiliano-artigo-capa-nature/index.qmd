@@ -10,9 +10,20 @@ image: "heart-atrial-fibrillation-artistic.jpg"
 
 A Fibrilação Atrial (FA) é a arritmia cardíaca mais frequente na prática clínica, aumentando significativamente o risco de AVC e insuficiência cardíaca. Mas o que realmente causa esse "descompasso" no átrio do coração? O grupo de pesquisa do [Prof. Emiliano Medei](/pessoas/coordenacao/emiliano-horacio-medei.qmd) publicou um estudo de impacto global que traz uma resposta inovadora: a culpa pode estar em nossas células de defesa.
 
+::: {.columns}
+::: {.column width="40%"}
+
+![](3.png){width="80%"}
+
+:::
+::: {.column width="60%"}
+
 ## O Vilão Invisível: A Interleucina-1β
 
 Os cientistas já sabiam que pacientes com altos níveis de uma proteína inflamatória chamada IL-1β tinham mais chances de desenvolver arritmias. O estudo do Prof. Emiliano provou essa conexão de forma direta: a exposição contínua a essa proteína cria um ciclo vicioso de inflamação que "cicatriza" (fibrose) o tecido do coração e altera sua parte elétrica.
+
+:::
+:::
 
 ## A Surpresa: O Coração não é o único culpado
 
