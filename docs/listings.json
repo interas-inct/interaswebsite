@@ -3,6 +3,7 @@
     "listing": "/videos/index.html",
     "items": [
       "/videos/videos_arqs/interascla.html",
+      "/videos/videos_arqs/kaio_luciano.html",
       "/videos/videos_arqs/marthainteras.html",
       "/videos/videos_arqs/murilosampaio.html",
       "/videos/videos_arqs/braquinanoterapia202604.html"
@@ -235,12 +236,14 @@
       "/publicacoes/artigos/matos_training_2023.html",
       "/publicacoes/artigos/el_achkar_treatment_2023.html",
       "/publicacoes/artigos/andrade_comparison_2022.html",
+      "/noticias/posts/202604-videos-interas/index.html",
       "/noticias/posts/202604-video-nanobraquiterapia/index.html",
       "/noticias/posts/202603-prof-emiliano-programa-ucsb/index.html",
       "/noticias/posts/202603-mcti-webinars-mes-mulher-denise/index.html",
       "/noticias/posts/202510-pesquisadores-influentes/index.html",
       "/noticias/posts/202509-premio-dissertacao-martha-juliana/index.html",
-      "/noticias/posts/202509-academia-ciencias-denise/index.html"
+      "/noticias/posts/202509-academia-ciencias-denise/index.html",
+      "/noticias/posts/202504-prof-emiliano-artigo-capa-nature/index.html"
     ]
   },
   {
@@ -593,12 +596,14 @@
   {
     "listing": "/noticias/index.html",
     "items": [
+      "/noticias/posts/202604-videos-interas/index.html",
       "/noticias/posts/202604-video-nanobraquiterapia/index.html",
       "/noticias/posts/202603-prof-emiliano-programa-ucsb/index.html",
       "/noticias/posts/202603-mcti-webinars-mes-mulher-denise/index.html",
       "/noticias/posts/202510-pesquisadores-influentes/index.html",
       "/noticias/posts/202509-premio-dissertacao-martha-juliana/index.html",
-      "/noticias/posts/202509-academia-ciencias-denise/index.html"
+      "/noticias/posts/202509-academia-ciencias-denise/index.html",
+      "/noticias/posts/202504-prof-emiliano-artigo-capa-nature/index.html"
     ]
   }
 ]

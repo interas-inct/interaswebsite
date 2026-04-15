@@ -1,0 +1,19 @@
+---
+title: "INTERAS lança série de vídeos sobre as diversas pesquisas em andamento"
+author: "Mário O. de Menezes"
+date: "2026-04-15"
+categories: [divulgação, pesquisa, vídeos]
+image: "noticia-videos.png"
+---
+
+O INTERAS acaba de disponibilizar uma série de vídeos divulgando algumas de suas pesquisas e laboratórios integrantes do Instituto. 
+
+Assista e saiba o que temos feito e como isso poderá impactar nossas vidas.
+
+O material faz parte do conjunto de vídeos institucionais que documentam o progresso do INCT para o nosso relatório de atividades.
+
+Você pode conferir os vídeos, com opções de acesso via Google Drive e NextCloud, em nossa nova seção dedicada:
+
+::: {.callout-tip appearance="simple"}
+### [Acesse aqui a Galeria de Vídeos do INTERAS](/videos/index.qmd)
+:::

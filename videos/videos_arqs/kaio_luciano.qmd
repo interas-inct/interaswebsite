@@ -1,0 +1,18 @@
+---
+title: "Precisão de Oxímetros de Pulso em Pacientes de UTI - INTERAS 2026"
+date: "2026-04-10"
+description: "Apresentação da pesquisa de doutorado do Kaio"
+image: "INTERAS_KaioOximetros_redim.png"
+categories: [Dosimetria, Fotônica, Ótica]
+---
+
+### Descrição
+
+
+O pesquisador **Kaio**, doutorando orientado pelo [Prof. Dr. Luciano Bachmann](/pessoas/lider-de-laboratorio-associado/luciano-bachmann.qmd), estuda a precisão dos oxímetros de pulso em pacientes reais de UTI. Ele compara os dados desses aparelhos com exames de sangue para verificar se fatores como cor da pele, idade e elasticidade afetam os resultados. O objetivo é descobrir se o tom de pele pode causar erros de leitura que prejudiquem o tratamento médico. Assim, a pesquisa busca garantir que esses equipamentos sejam justos e precisos para qualquer tipo de paciente.
+
+
+### Acesso ao Conteúdo
+
+* [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1DvhEOIFCTmAXQyfHQ1tEk8N209i0KfvC/view){target="_blank"}
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/JtnwMcNkiDEbLfm){target="_blank"}
