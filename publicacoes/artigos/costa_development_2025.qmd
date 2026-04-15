@@ -30,4 +30,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Development and performance of a low-cost, solid-state, thermal neutron sensor with a 10B converter</li>
   </ol>
 </nav>
-```

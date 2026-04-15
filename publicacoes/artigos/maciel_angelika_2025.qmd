@@ -1,0 +1,24 @@
+---
+title: "Angelika phantom: a three-dimensional tool for quality control in gynecologic brachytherapy"
+date: 2025-11-03
+author:
+  - name: Maciel, J. O.
+  - name: Silva, R. M. V.
+  - name: Araujo, A. S.
+  - name: Souza, D. N.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "The European Physical Journal Special Topics"
+  doi: "10.1140/epjs/s11734-025-02054-4"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Angelika phantom: a three-dimensional tool for quality control in gynecologic brachytherapy</li>
+  </ol>
+</nav>

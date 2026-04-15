@@ -21,4 +21,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Editorial: Technological innovations for improved prevention and diagnosis of oral disease</li>
   </ol>
 </nav>
-```

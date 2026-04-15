@@ -1,0 +1,28 @@
+---
+title: "Prognostic significance of minimal extrathyroidal extension in differentiated thyroid carcinoma: a retrospective cohort study"
+date: 2026-05-01
+author:
+  - name: Cavalheiro, Beatriz G.
+  - name: De Araújo Filho, Vergilius José Furtado
+  - name: Matos, Leandro Luongo
+  - name: Leite, Ana Kober
+  - name: Cernea, Claudio Roberto
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 92
+  issue: 3
+  doi: "10.1016/j.bjorl.2026.101780"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Prognostic significance of minimal extrathyroidal extension in differentiated thyroid carcinoma: a retrospective cohort study</li>
+  </ol>
+</nav>

@@ -1,0 +1,27 @@
+---
+title: "Computational investigation of the optical and electronic properties of europium-doped lead phosphate"
+date: 2025-09-10
+author:
+  - name: Rodrigues, Aldimar Machado
+  - name: Rodrigues, Jocelia Silva Machado
+  - name: De Novais, Érico Raimundo Pereira
+  - name: De Lima Ferreira Novais, Andréa
+  - name: Do Nascimento Souza, Divanizia
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Optical and Quantum Electronics"
+  volume: 57
+  issue: 9
+  doi: "10.1007/s11082-025-08439-y"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Computational investigation of the optical and electronic properties of europium-doped lead phosphate</li>
+  </ol>
+</nav>

@@ -9,7 +9,7 @@ author:
   - name: Kitakawa, Dárcio
   - name: Peralta, Felipe
   - name: e Silva, Luis Felipe das Chagas
-  - name: {others}
+  - name: others
 abstract: > 
   Resumo não disponível.
 categories: [article]
@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">TREATMENT OF ORAL VASCULAR MALFORMATIONS WITH ETHAMOLIN: A REPORT OF TWO CASES</li>
   </ol>
 </nav>
-```

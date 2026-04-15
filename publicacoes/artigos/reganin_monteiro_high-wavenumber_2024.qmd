@@ -28,4 +28,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">High-Wavenumber Infrared Spectroscopy of Blood Plasma for Pre-Eclampsia Detection with Machine Learning</li>
   </ol>
 </nav>
-```

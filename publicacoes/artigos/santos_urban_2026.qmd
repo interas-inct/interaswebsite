@@ -1,0 +1,31 @@
+---
+title: "Urban River Microplastics as Vectors for Pharmaceutical Contaminants in a Savannah Region (Caatinga Biome)"
+date: 2026-01-16
+author:
+  - name: Santos, Yannice Tatiane Da Costa
+  - name: Ferreira, Anderson Targino Da Silva
+  - name: Martins, Lyndyanne Dias
+  - name: Sousa, Hellen Da Silva
+  - name: Faustino, Francisco Wedson
+  - name: Ribeiro, Maria Carolina Hernandez
+  - name: Kuznetsova, Maria
+  - name: Freitas, Anderson Zanardi De
+  - name: Wetter, Niklaus Ursus
+abstract: > 
+  The study investigates the presence of emerging contaminants in a river within a watershed located in the Brazilian semiarid region, specifically within the Caatinga biome, emphasizing the importance of environmental monitoring in areas that have historically been underrepresented in scientific research. The analysis focused on the associations between microplastics and pharmaceutical compounds, demonstrating that the discharge of untreated domestic effluents and the low efficiency of sanitation systems increase water resource contamination and threaten water security. The interdependence between these variables underscores the need for integrated public policies for waste management, complemented by environmental education strategies and technological innovations. The work makes an unprecedented contribution to expanding knowledge about emerging pollutants in semiarid environments, highlighting the urgency of holistic approaches, continuous monitoring, and strengthening environmental governance to ensure the sustainability and resilience of ecosystems like the Caatinga in the face of the challenges posed by global environmental change, urban growth, and those outlined in the Sustainable Development Goals.
+categories: [article]
+citation: 
+  container-title: "Microplastics"
+  volume: 5
+  issue: 1
+  doi: "10.3390/microplastics5010013"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Urban River Microplastics as Vectors for Pharmaceutical Contaminants in a Savannah Region (Caatinga Biome)</li>
+  </ol>
+</nav>

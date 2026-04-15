@@ -28,4 +28,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Optical coherence tomography (OCT) for the analysis of zirconia crystalline phase transformation</li>
   </ol>
 </nav>
-```

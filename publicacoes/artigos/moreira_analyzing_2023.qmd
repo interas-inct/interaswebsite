@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Analyzing the Influence of Vehicular Traffic on the Concentration of Pollutants in the City of São Paulo: An Approach Based on Pandemic SARS-CoV-2 Data and Deep Learning</li>
   </ol>
 </nav>
-```

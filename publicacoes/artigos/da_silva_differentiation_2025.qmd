@@ -1,0 +1,28 @@
+---
+title: "Differentiation of Clay Content in Soil Samples Containing Clay, Silt, and Sand Using the Speckle Methodology"
+date: 2025-10-01
+author:
+  - name: Da Silva, Sidney
+  - name: Faulin, Gustavo
+  - name: Zamariolli, Luis
+  - name: Souza, Pedro
+  - name: Prado, Felipe
+  - name: Wetter, Niklaus
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Physics"
+  volume: 55
+  issue: 5
+  doi: "10.1007/s13538-025-01843-5"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Differentiation of Clay Content in Soil Samples Containing Clay, Silt, and Sand Using the Speckle Methodology</li>
+  </ol>
+</nav>

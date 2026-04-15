@@ -33,4 +33,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Investigation for Monte Carlo simulation with geometric simplification of the GammaCell 220 irradiator with experimental measurements using Fricke xylenol gel (FXG)</li>
   </ol>
 </nav>
-```

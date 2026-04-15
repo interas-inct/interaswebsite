@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Total laryngectomy vs. non-surgical organ preservation in advanced laryngeal cancer: a metanalysis</li>
   </ol>
 </nav>
-```

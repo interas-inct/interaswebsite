@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Morphodynamics drive the transport and accumulation of anthropogenic microparticles in tropical coastal depositional systems in southeastern Brazil</li>
   </ol>
 </nav>
-```

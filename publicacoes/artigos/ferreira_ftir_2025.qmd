@@ -1,0 +1,29 @@
+---
+title: "FTIR Spectroscopy Analysis of Bound Water in Dried Saliva Samples: Differentiation of Smoking and Non-Smoking Groups and Implications for Oral Cancer Risk"
+date: 2025-06-01
+author:
+  - name: Ferreira, Maria Clara Coelho
+  - name: Magalhães, Vitórya Carvalho Pádua De
+  - name: Morais, Thayná Melo De Lima
+  - name: Peralta, Felipe
+  - name: Castro, Pedro Arthur Augusto
+  - name: Zezell, Denise Maria
+  - name: Nogueira, Marcelo Saito
+  - name: Carvalho, Luis Felipe Cs
+abstract: > 
+  Background: According to the WHO, oral cancer is the thirteenth most common cancer worldwide, with tobacco use being one of the primary causes of oral cancer. This study aimed to characterize and differentiate the saliva and bound water using FTIR spectroscopy in smoking and non-smoking individuals. Materials and Methods: This prospective observational study analyzed dried saliva samples from control, smoking, and occasional smoking groups using an attenuated total reflectance Fourier Transform Infrared (ATR-FTIR) spectrometer. The high wavenumber spectral region of 2800–3600 cm-¹ was selected for analysis. Results: The results indicate that standard variance normalization (SNV) reduced intragroup variability and highlighted differences in smokers’ spectra within the 3250–3500 cm-¹ region, associated with the absorption of water bound to saliva molecules. Cubic SVM models using SNV spectra demonstrated higher classification accuracy between groups, achieving 15.6% greater sensitivity and 1.3% lower specificity compared to models based on the second-order derivative. RUSBoosted Trees addressed data imbalances, enhancing both sensitivity and specificity. The study suggests that spectral changes may reflect salivary biochemistry linked to smoking and potentially to oral cancer risk. Conclusions: We conclude that differentiation between normal individuals and smokers can be achieved using high wavenumber FTIR spectral analysis. Additionally, we demonstrate the relationship between bound water molecules and salivary biomolecules in control, smoking, and occasional smoking groups. This technique has potential applications in elucidating OH vibrations within biological systems.
+categories: [article]
+citation: 
+  container-title: "Technology in Cancer Research & Treatment"
+  volume: 24
+  doi: "10.1177/15330338251317304"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">FTIR Spectroscopy Analysis of Bound Water in Dried Saliva Samples: Differentiation of Smoking and Non-Smoking Groups and Implications for Oral Cancer Risk</li>
+  </ol>
+</nav>

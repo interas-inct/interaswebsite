@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">The need to include older patients with head and neck cancer in clinical trials</li>
   </ol>
 </nav>
-```

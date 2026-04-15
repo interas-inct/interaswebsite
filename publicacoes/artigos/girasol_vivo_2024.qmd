@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">In vivo attenuation profile of 660 nm and 830 nm wavelengths on human elbow skin and calcaneus tendon of different phototypes</li>
   </ol>
 </nav>
-```

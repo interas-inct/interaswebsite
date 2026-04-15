@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Fibroma ossificante periférico maxilar gigante: relato de caso</li>
   </ol>
 </nav>
-```

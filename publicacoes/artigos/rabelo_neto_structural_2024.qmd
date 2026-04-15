@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Structural changes in the crystal lattice in enamel under Er,Cr:YSGG laser irradiation and oven heated by Rietveld analysis</li>
   </ol>
 </nav>
-```

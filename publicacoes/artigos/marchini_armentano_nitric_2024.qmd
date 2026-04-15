@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Nitric Oxide Plays a Dual Role in Cardiorenal Syndrome in Vitro Model</li>
   </ol>
 </nav>
-```

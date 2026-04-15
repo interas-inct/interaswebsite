@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">DFT and DFPT calculations of the structural, electronic, optical, vibrational and thermodynamic properties of silicon tetraborate</li>
   </ol>
 </nav>
-```

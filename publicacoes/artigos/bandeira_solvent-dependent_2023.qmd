@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Solvent-dependent formation kinetics of L,L-diphenylalanine micro/nanotubes</li>
   </ol>
 </nav>
-```

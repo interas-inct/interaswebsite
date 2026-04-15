@@ -36,4 +36,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Cardiac remodeling and inflammation detected by magnetic resonance imaging in COVID-19 survivors</li>
   </ol>
 </nav>
-```

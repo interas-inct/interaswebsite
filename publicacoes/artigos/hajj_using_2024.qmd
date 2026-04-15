@@ -32,4 +32,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Using a Monte Carlo simulation to analyze the ideal activity for a phosphorus-32 polymeric brachytherapy source for paraspinal tumors</li>
   </ol>
 </nav>
-```

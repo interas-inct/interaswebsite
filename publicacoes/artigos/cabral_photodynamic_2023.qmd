@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Photodynamic therapy mediated by a red LED and methylene blue inactivates resistant Leishmania amazonensis</li>
   </ol>
 </nav>
-```

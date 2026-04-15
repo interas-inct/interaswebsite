@@ -1,0 +1,27 @@
+---
+title: "Analysis of iodine-126 contamination in the production of iodine-125 at the IEA-R1 reactor for brachytherapy applications"
+date: 2026-03-05
+author:
+  - name: Medeiros, Ilca Marli Moitinho Amaral
+  - name: Moura, João Augusto
+  - name: Medeiros, José Agostinho Gonçalves De
+  - name: Koka, Ana Catarina Souza Silva
+  - name: Angelocci, Lucas Verdi
+  - name: Rostelato, Maria Elisa Chuery Martins
+  - name: Zeituni, Carlos Alberto
+abstract: > 
+  Abstract This work developed a method to determine the contamination rates of iodine-126 ( 126 I) in the sodium iodide (NaI) solution used in the production of iodine-125 ( 125 I) seeds for brachytherapy. The production of 125 I is carried out at the IEA-R1 Reactor of the Nuclear and Energy Research Institute (IPEN-CNEN/SP) by irradiation with natural xenon. For the radionuclide analysis, a High-Purity Germanium (HPGe) radiation detector (ORTEC model GEM-C5970-B, coaxial detection system and beryllium window, nominal efficiency of 43% at 1333 keV of cobalt-60) was used, in which the activity of 125 I was determined by the sum-peak method and the activity of 126 I by an efficiency curve using a 166 m Ho calibration source (A = (1832 ± 2) Bq, T 1/2 = 1.20 × 10 3 years and reference date: Feb 23rd 2024). The results demonstrated the predictions of 125 I production in the IEA-R1 Reactor with 126 I contamination levels below 0.005%, meeting the production requirements for clinical use.
+categories: [article]
+citation: 
+  container-title: "Journal of Radioanalytical and Nuclear Chemistry"
+  doi: "10.1007/s10967-026-10781-8"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Analysis of iodine-126 contamination in the production of iodine-125 at the IEA-R1 reactor for brachytherapy applications</li>
+  </ol>
+</nav>

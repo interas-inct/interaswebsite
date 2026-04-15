@@ -1,0 +1,26 @@
+---
+title: "Novel chemometric Raman approach for spatially resolved quantification of graft distribution in anion exchange membranes"
+date: 2026-05-01
+author:
+  - name: Bereczki, Allan
+  - name: Da Silva Barbosa, Andrey
+  - name: Wetter, Niklaus Ursus
+  - name: Dekel, Dario R.
+  - name: Santiago, Elisabete Inacio
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+  volume: 353
+  doi: "10.1016/j.saa.2026.127558"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Novel chemometric Raman approach for spatially resolved quantification of graft distribution in anion exchange membranes</li>
+  </ol>
+</nav>

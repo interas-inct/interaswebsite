@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Endoscopic and videofluoroscopic evaluations of swallowing for dysphagia: a systematic review</li>
   </ol>
 </nav>
-```

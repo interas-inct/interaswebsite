@@ -1,0 +1,29 @@
+---
+title: "Staging of oral cavity cancer in the 8th edition of the TNM classification: The role of computed tomography in the assessment of depth of invasion and extranodal extension"
+date: 2025-07-01
+author:
+  - name: Franceschi, Leticia De
+  - name: Santo, João Manoel Miranda Magalhães
+  - name: Abreu, Anniely Mourão De
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Cernea, Claudio Roberto
+  - name: Garcia, Marcio Ricardo Taveira
+  - name: Dedivitis, Rogerio Aparecido
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101645"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Staging of oral cavity cancer in the 8th edition of the TNM classification: The role of computed tomography in the assessment of depth of invasion and extranodal extension</li>
+  </ol>
+</nav>

@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Plant-derived polyphenolic compounds: nanodelivery through polysaccharide-based systems to improve the biological properties</li>
   </ol>
 </nav>
-```

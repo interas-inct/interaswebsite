@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Evaluation of the Microbiota and Integrity of Respirators Reused by Health Professionals in a Hospital Environment</li>
   </ol>
 </nav>
-```

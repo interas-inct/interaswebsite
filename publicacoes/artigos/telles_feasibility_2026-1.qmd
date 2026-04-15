@@ -1,0 +1,31 @@
+---
+title: "Feasibility of using MOSFET to measure output factors of small radiotherapy fields"
+date: 2026-07-01
+author:
+  - name: Telles, Luiz Flávio Kalil
+  - name: Fontana, Thiago S.
+  - name: Ludwig, Jaime Luiz
+  - name: Correia, Laura Maria S.
+  - name: Delbem, Lucas
+  - name: Geronimo, Nallyanne M.D.G.
+  - name: Gomes, Gustavo B.
+  - name: Benevides, Clayton
+  - name: Souza, Divanizia N.
+  - name: Santos, Luiz Antonio P.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 244
+  doi: "10.1016/j.radphyschem.2026.113792"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Feasibility of using MOSFET to measure output factors of small radiotherapy fields</li>
+  </ol>
+</nav>

@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Linfoma Plasmablástico de Cavidade Oral em Paciente sem Infecção pelo Vírus da Imunodeficiência Humana: Relato de Caso</li>
   </ol>
 </nav>
-```

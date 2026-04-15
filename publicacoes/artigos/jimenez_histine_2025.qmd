@@ -1,0 +1,30 @@
+---
+title: "Histine, carbohydrates/polysaccharides, and proteins with β -sheet conformation as promising staging markers for oral squamous cell carcinoma"
+date: 2025-11-01
+author:
+  - name: Jimenez, Gabrielle
+  - name: Foiani, Letícia
+  - name: Figueiredo, Julia Toledo
+  - name: Sá Alves, Mariana
+  - name: Sá Rodrigues, Nayara
+  - name: Bandeira, Celso Muller
+  - name: Alves, Mônica Ghislaine Oliveira
+  - name: Dias Almeida, Janete
+  - name: Da Silva Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+  volume: 340
+  doi: "10.1016/j.saa.2025.126296"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Histine, carbohydrates/polysaccharides, and proteins with β -sheet conformation as promising staging markers for oral squamous cell carcinoma</li>
+  </ol>
+</nav>

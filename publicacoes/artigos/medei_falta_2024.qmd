@@ -37,4 +37,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Falta de Uso de Anticoagulantes em Pacientes com Fibrilação Atrial e Risco Aumentado de Eventos Tromboembólicos de Acordo com o Sexo: Insights de um Estudo Multicêntrico Brasileiro</li>
   </ol>
 </nav>
-```

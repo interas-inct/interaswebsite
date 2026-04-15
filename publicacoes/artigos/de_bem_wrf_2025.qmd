@@ -1,0 +1,30 @@
+---
+title: "WRF Simulations of Passive Tracer Transport from Biomass Burning in South America: Sensitivity to PBL Schemes"
+date: 2025-10-19
+author:
+  - name: De Bem, Douglas Lima
+  - name: Anabor, Vagner
+  - name: Pinheiro, Damaris Kirsch
+  - name: Steffenel, Luiz Angelo
+  - name: Bencherif, Hassan
+  - name: Bittencourt, Gabriela Dornelles
+  - name: Landulfo, Eduardo
+  - name: Rizza, Umberto
+abstract: > 
+  This single high-impact case study investigates the impact of planetary boundary layer (PBL) representation on long-range transport of Amazon fire smoke that reached the Metropolitan Area of São Paulo (MASP) from 15 to 20 August 2019, using the WRF model to compare three PBL schemes (MYNN 2.5, YSU, and BouLac) and three source-tagged tracers. The simulations are evaluated against MODIS-derived aerosol optical depth (AOD), the Light Detection and Ranging (LiDAR) time–height curtain over MASP, and HYSPLIT forward trajectories. Transport is diagnosed along the source-to-MASP pathway using six-hourly cross-sections and two integrative metrics: the projected mean wind in the 700–600 hPa layer and the vertical moment of tracer mass above the boundary layer. Outflow and downwind impact are strongest when a persistent reservoir between 2 and 4 km coexists with projected winds for several hours. In this episode, MYNN maintains an elevated 2–5 km transport layer and matches the observed arrival time and altitude, YSU yields a denser but delayed column, and BouLac produces discontinuous pulses with reduced coherence over the city. A negatively tilted trough, jet coupling, and a nearly stationary front establish a northwest-to-southeast corridor consistent across model fields, trajectories, and satellite signal. Seasonal robustness should be assessed with multi-event, multi-model analyses.
+categories: [article]
+citation: 
+  container-title: "Remote Sensing"
+  volume: 17
+  issue: 20
+  doi: "10.3390/rs17203483"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">WRF Simulations of Passive Tracer Transport from Biomass Burning in South America: Sensitivity to PBL Schemes</li>
+  </ol>
+</nav>

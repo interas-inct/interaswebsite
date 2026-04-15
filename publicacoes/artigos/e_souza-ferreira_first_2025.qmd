@@ -1,0 +1,30 @@
+---
+title: "First record of microplastic contamination in adult endemic amazonian anuran species"
+date: 2025-01-18
+author:
+  - name: E Souza-Ferreira, Maria Luiza Cunha
+  - name: Dos Reis, Adrian José Oliveira
+  - name: Ferreira, Erikson Bruno Loseiro
+  - name: Dipold, Jessica
+  - name: Freitas, Anderson Z.
+  - name: Wetter, Niklaus U.
+  - name: De Oliveira-Bahia, Verônica Regina Lobato
+  - name: Vieira, Thiago Bernardi
+abstract: > 
+  Abstract The microplastics (MPs), due to their high dispersion and bioaccumulation rates, have been identified in various animal groups, such as anuran amphibians during both larval and adult stages. However, current studies on adult anuran amphibians focus on assessing only one exposure route, the digestive system, while other routes remain underestimated. Therefore, this present study aimed to evaluate the degree of contamination in the digestive, respiratory, and integumentary systems, in situ, of two endemic Amazonian adult anuran species ( Physalaemus ephippifer and Boana multifasciata ). From this, we identified and characterized microplastic particles for each exposure route, assessed the effects of morphometric measures on the total MP contamination level and in the gastrointestinal tract (GIT). Additionally, we determined different contamination indices and how they vary according to species and systems. Based on our data, the digestive and integumentary exposure routes showed the highest contamination levels for both species. Additionally, variations in MP contamination levels indicated that P. ephippifer had a higher level of MP contamination. Thus, this study provides the first evidence of microplastic exposure through respiratory and integumentary routes in adult anurans in situ, and it is the first to identify MP contamination in terrestrial biomonitors in the Amazon.
+categories: [article]
+citation: 
+  container-title: "Scientific Reports"
+  volume: 15
+  issue: 1
+  doi: "10.1038/s41598-025-86434-9"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">First record of microplastic contamination in adult endemic amazonian anuran species</li>
+  </ol>
+</nav>

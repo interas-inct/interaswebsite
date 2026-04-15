@@ -1,0 +1,26 @@
+---
+title: "Changes to the configuration of angiography equipment to reduce exposure to ionizing radiation in FGI procedures"
+date: 2025-12-01
+author:
+  - name: Da Silva Jornada, Tiago
+  - name: Campos, Laélia
+  - name: Santos, Esdras
+  - name: Leyton, Fernando
+  - name: Souza, Divanízia N.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Applied Radiation and Isotopes"
+  volume: 226
+  doi: "10.1016/j.apradiso.2025.112141"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Changes to the configuration of angiography equipment to reduce exposure to ionizing radiation in FGI procedures</li>
+  </ol>
+</nav>

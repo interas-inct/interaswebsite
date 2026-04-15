@@ -28,4 +28,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Evaluation of epithelial-to-mesenchymal transition and Ki-67 index in aggressive papillary thyroid cancer</li>
   </ol>
 </nav>
-```

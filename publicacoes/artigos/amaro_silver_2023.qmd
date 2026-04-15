@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Silver Nanoclusters Tunable Visible Emission and Energy Transfer to Yb3+ Ions in Co-Doped GeO2-PbO Glasses for Photonic Applications</li>
   </ol>
 </nav>
-```

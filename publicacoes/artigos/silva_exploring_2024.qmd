@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Exploring the luminescence properties and dosimetric characteristics of CaSO4:Tb, CaSO4:Mn, and CaSO4:Mn,Tb phosphors synthesized by slow evaporation route</li>
   </ol>
 </nav>
-```

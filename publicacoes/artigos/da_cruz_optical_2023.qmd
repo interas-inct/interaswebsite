@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Optical Properties of Human Skin Phototypes and Their Correlation with Individual Angle Typology</li>
   </ol>
 </nav>
-```

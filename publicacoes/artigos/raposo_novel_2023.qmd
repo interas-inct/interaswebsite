@@ -30,4 +30,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">A Novel Strategy Based on Zn(II) Porphyrins and Silver Nanoparticles to Photoinactivate Candida albicans</li>
   </ol>
 </nav>
-```

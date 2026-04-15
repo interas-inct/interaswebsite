@@ -1,0 +1,28 @@
+---
+title: "DFT to study the structural, optoelectronic and mechanical properties of CuNiPd and Cu2PPd2 alloys"
+date: 2025-08-01
+author:
+  - name: Pereira Dos Santos, Caroline
+  - name: Prado Silva, Carlos Henrique
+  - name: Silva Santos, Marcelo Franklin Da
+  - name: Pereira De Novais, Érico Raimundo
+  - name: Nascimento Souza, Divanizia Do
+  - name: Santos Rezende, Marcos Vinicius Dos
+  - name: Lima Ferreira Novais, Andréa De
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Alloys and Compounds"
+  volume: 1038
+  doi: "10.1016/j.jallcom.2025.182830"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">DFT to study the structural, optoelectronic and mechanical properties of CuNiPd and Cu2PPd2 alloys</li>
+  </ol>
+</nav>

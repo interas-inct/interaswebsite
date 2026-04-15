@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Pre-clinical training, technical adjustment and human case experience of transoral robotic surgery using Versius System</li>
   </ol>
 </nav>
-```

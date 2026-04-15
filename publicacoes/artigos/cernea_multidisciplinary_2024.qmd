@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Multidisciplinary approach in head and neck cancer</li>
   </ol>
 </nav>
-```

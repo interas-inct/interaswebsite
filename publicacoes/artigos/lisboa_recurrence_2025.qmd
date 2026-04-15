@@ -1,0 +1,29 @@
+---
+title: "Recurrence of laryngeal squamous cell carcinoma in patients undergoing organ preservation therapy: Are there symptoms associated with recurrence?"
+date: 2025-07-01
+author:
+  - name: Lisboa, Sonyara Rauedys
+  - name: Rocha, Daniel Abreu
+  - name: Mejia, Richard Godoy
+  - name: Sasaki, Adolfo Cotarelli
+  - name: Rosenfeld, Matheus Gerhard
+  - name: Matos, Leandro Luongo
+  - name: Ramos, Daniel Marin
+  - name: Kulcsar, Marco Aurélio Vamondes
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101640"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Recurrence of laryngeal squamous cell carcinoma in patients undergoing organ preservation therapy: Are there symptoms associated with recurrence?</li>
+  </ol>
+</nav>

@@ -1,0 +1,33 @@
+---
+title: "Promotion effect of nickel on the stability of NiMnAl catalysts for the PET glycolysis"
+date: 2025-10-01
+author:
+  - name: Nascimento, Hezrom S.
+  - name: França, Rharyne H.M.
+  - name: Lima, Stevie H.
+  - name: Arcanjo, Ana P.
+  - name: França, Elvis J.
+  - name: Castro, Aline M.
+  - name: Dias, Marcos L.
+  - name: Landers, Richard
+  - name: Barbosa, Celmy M.B.M.
+  - name: Frety, Roger
+  - name: Pimentel, Maria Fernanda
+  - name: Pacheco, Jose G.A.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Catalysis Today"
+  volume: 458
+  doi: "10.1016/j.cattod.2025.115376"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Promotion effect of nickel on the stability of NiMnAl catalysts for the PET glycolysis</li>
+  </ol>
+</nav>

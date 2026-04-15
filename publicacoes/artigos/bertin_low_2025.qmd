@@ -1,0 +1,24 @@
+---
+title: "The low evidence to treat elderly patients with head and neck cancer"
+date: 2025-12-01
+author:
+  - name: Bertin, Beatriz
+  - name: Kowalski, Luiz Paulo
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Oral Oncology"
+  volume: 171
+  doi: "10.1016/j.oraloncology.2025.107764"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">The low evidence to treat elderly patients with head and neck cancer</li>
+  </ol>
+</nav>

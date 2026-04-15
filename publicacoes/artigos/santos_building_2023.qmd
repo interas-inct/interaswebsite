@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Building up europium thulium co-doped yttria nanoparticles with electron paramagnetic resonance response by colloidal synthesis</li>
   </ol>
 </nav>
-```

@@ -1,0 +1,23 @@
+---
+title: "Response on the comment: Comment on 'Infrared spectroscopy for fast screening of diabetes and periodontitis' authored by Ivan Bratchenko and Lyudmila Bracthenko"
+date: 2025-12-01
+author:
+  - name: Nogueira, Marcelo Saito
+  - name: Carvalho, Luis Felipe Das Chagas E Silva De
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Photodiagnosis and Photodynamic Therapy"
+  volume: 56
+  doi: "10.1016/j.pdpdt.2025.105252"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Response on the comment: Comment on 'Infrared spectroscopy for fast screening of diabetes and periodontitis' authored by Ivan Bratchenko and Lyudmila Bracthenko</li>
+  </ol>
+</nav>

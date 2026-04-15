@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Advances in Metallic-Based Localized Surface Plasmon Sensors for Enhanced Tropical Disease Detection: A Comprehensive Review</li>
   </ol>
 </nav>
-```

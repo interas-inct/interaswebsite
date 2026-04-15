@@ -1,0 +1,27 @@
+---
+title: "One toxin, two outcomes: Indoxyl sulfate drives renal but not cardiac injury Post-AKI"
+date: 2025-11-01
+author:
+  - name: Fogaça-Ruiz, Fernanda
+  - name: Falconi, Carlos Alexandre
+  - name: Parletta, Aline Cristina
+  - name: Sanz, Carmen Lucia
+  - name: Nakao, Lia Sumie
+  - name: Carneiro-Ramos, Marcela Sorelli
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Biochemical and Biophysical Research Communications"
+  volume: 789
+  doi: "10.1016/j.bbrc.2025.152842"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">One toxin, two outcomes: Indoxyl sulfate drives renal but not cardiac injury Post-AKI</li>
+  </ol>
+</nav>

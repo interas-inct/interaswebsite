@@ -33,4 +33,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Comparison of PBL Heights from Ceilometer Measurements and Greenhouse Gases Concentrations in São Paulo</li>
   </ol>
 </nav>
-```

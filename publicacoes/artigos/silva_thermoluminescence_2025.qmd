@@ -1,0 +1,24 @@
+---
+title: "Thermoluminescence and optically stimulated luminescence of CaSO4:Mn,Tb with different dopant concentrations"
+date: 2025-12-01
+author:
+  - name: Silva, A.M.B.
+  - name: Souza, D.N.
+  - name: Caldas, L.V.E.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 237
+  doi: "10.1016/j.radphyschem.2025.113032"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Thermoluminescence and optically stimulated luminescence of CaSO4:Mn,Tb with different dopant concentrations</li>
+  </ol>
+</nav>

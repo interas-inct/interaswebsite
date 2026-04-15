@@ -10,7 +10,7 @@ author:
   - name: Wetter, Niklaus U.
   - name: Muramatsu, Mikiya
 abstract: > 
-  textlessptextgreaterAn alternative method to obtain the internal stress distribution in photoelastic materials using digital holography (DH) is presented. Two orthogonally polarized holograms were used to obtain the phase maps and analyzed using the proposed approach. This method directly determines the stress distributions from the phase differences obtained in the reconstructed phase maps, unlike methods obtained by photoelasticity. Optical information, such as index of refraction, phase differences, etc., are not measured directly in traditional photoelasticity. However, this approach was validated with both the finite element method and the RGB (red, green, and blue) photoelasticity method that is traditionally used.textless/ptextgreater
+  <p>An alternative method to obtain the internal stress distribution in photoelastic materials using digital holography (DH) is presented. Two orthogonally polarized holograms were used to obtain the phase maps and analyzed using the proposed approach. This method directly determines the stress distributions from the phase differences obtained in the reconstructed phase maps, unlike methods obtained by photoelasticity. Optical information, such as index of refraction, phase differences, etc., are not measured directly in traditional photoelasticity. However, this approach was validated with both the finite element method and the RGB (red, green, and blue) photoelasticity method that is traditionally used.</p>
 categories: [article]
 citation: 
   container-title: "AIMS Materials Science"
@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Holographic method for stress distribution analysis in photoelastic materials</li>
   </ol>
 </nav>
-```

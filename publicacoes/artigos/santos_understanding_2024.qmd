@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Understanding the optoelectronic and vibrational properties of MB<sub>4</sub>O<sub>7</sub> , using density functional theory, where M = Yb or Ce</li>
   </ol>
 </nav>
-```

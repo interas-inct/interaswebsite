@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Towards effective natural anthraquinones to mediate antimicrobial photodynamic therapy of cutaneous leishmaniasis</li>
   </ol>
 </nav>
-```

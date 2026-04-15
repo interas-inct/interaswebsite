@@ -1,0 +1,32 @@
+---
+title: "Dataset of Fourier transform infrared (FTIR) spectra of a primary amine, selected aldehydes, and their Schiff bases acquired using the Invenio-R spectrometer"
+date: 2025-08-01
+author:
+  - name: Manap, Mohd Rashidi Abdull
+  - name: Sani, Umar
+  - name: Yahaya, Musbahu
+  - name: Ismail, Ahmad Zaidi
+  - name: Kholili, Qhurratul Aina
+  - name: Hasan, Fatin Abu
+  - name: Jamil, Siti Nurul Ain Md
+  - name: Dzingelevičienė, Reda
+  - name: Saiful, Saiful
+  - name: Senesi, Giorgio S.
+  - name: Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Data in Brief"
+  volume: 61
+  doi: "10.1016/j.dib.2025.111741"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Dataset of Fourier transform infrared (FTIR) spectra of a primary amine, selected aldehydes, and their Schiff bases acquired using the Invenio-R spectrometer</li>
+  </ol>
+</nav>

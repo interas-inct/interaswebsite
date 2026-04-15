@@ -21,4 +21,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">LASERTERAPIA DIANTE DO CONTROLE DA DOR E DOS PROCESSOS INFLAMATÓRIOS</li>
   </ol>
 </nav>
-```

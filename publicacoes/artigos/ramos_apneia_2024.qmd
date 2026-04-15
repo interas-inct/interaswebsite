@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">APNEIA COMO FATOR DE RISCO PARA O BRUXISMO DO SONO</li>
   </ol>
 </nav>
-```

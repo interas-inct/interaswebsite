@@ -519,4 +519,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Effect of the COVID-19 pandemic on surgery for indeterminate thyroid nodules (THYCOVID): a retrospective, international, multicentre, cross-sectional study</li>
   </ol>
 </nav>
-```

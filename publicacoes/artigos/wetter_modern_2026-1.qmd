@@ -1,0 +1,24 @@
+---
+title: "Modern High-Efficiency Solid State Lasers"
+date: 2026-02-01
+author:
+  - name: Wetter, N U
+  - name: Prado, F M
+abstract: > 
+  Abstract This work reviews recent advancements in modern neodymium-doped solid-state lasers, with a particular emphasis on Nd:YLF. Key innovations include highly efficient passively Q-switched configurations and the demonstration of novel emission wavelengths. Nd:YLF lasers achieved record-breaking efficiencies in both traditional and in-band pumping schemes, with a notable demonstration of 41 mJ pulse energy and 46 MW peak power in a sub-nanosecond Q-switched system employing a Cr⁴⁺:YAG saturable absorber and a side-pumping scheme. Nd:YAG systems achieved 40 mJ pulse energy with an 18 ns duration, underscoring their suitability for laser designation applications. Additionally, new wavelengths at 863 nm and 1370 nm were demonstrated in Nd:YLF crystals, enabling applications such as blue light generation and astrophysical studies. Multichromatic emissions were also investigated, highlighting the potential of Nd-doped lasers to produce simultaneous outputs at multiple wavelengths. These findings emphasize the versatility, efficiency, and scientific importance of Nd-doped lasers, paving the way for further innovations in laser technology.
+categories: [article]
+citation: 
+  container-title: "Journal of Physics: Conference Series"
+  volume: 3183
+  issue: 1
+  doi: "10.1088/1742-6596/3183/1/012001"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Modern High-Efficiency Solid State Lasers</li>
+  </ol>
+</nav>

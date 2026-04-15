@@ -1,0 +1,27 @@
+---
+title: "Knowledge about head and neck cancer among adolescents"
+date: 2025-07-01
+author:
+  - name: Vasconcellos, Vinicius M.
+  - name: Matos, Leandro Luongo
+  - name: Hojaij, Flavio Carneiro
+  - name: Alves, Edevaldo Miguel
+  - name: Martins, Beatriz Costa N.
+  - name: Nava, Arthur C.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101608"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Knowledge about head and neck cancer among adolescents</li>
+  </ol>
+</nav>

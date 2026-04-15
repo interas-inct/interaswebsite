@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">USO DO LASER DE ALTA POTÊNCIA NA CORREÇÃO DO AUMENTO GENGIVAL: RELATO DE CASO</li>
   </ol>
 </nav>
-```

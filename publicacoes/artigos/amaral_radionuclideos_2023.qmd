@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">RADIONUCLÍDEOS NATURAIS EM SOLOS DA REGIÃO METROPOLITANA DO RECIFE, PERNAMBUCO, E RISCOS ASSOCIADOS</li>
   </ol>
 </nav>
-```

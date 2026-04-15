@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Autocorrelation Optical Coherence Tomography (Au-OCT) of Complex Morphologies and Moving Samples</li>
   </ol>
 </nav>
-```

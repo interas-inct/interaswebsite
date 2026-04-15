@@ -1,0 +1,28 @@
+---
+title: "From AKI to CKD: Role of miRNAs in disease progression"
+date: 2025-10-01
+author:
+  - name: Carneiro-Ramos, Marcela Sorelli
+  - name: Neres-Santos, Raquel Silva
+  - name: Da Silva, Jéssica Verônica
+  - name: Bedin, Beatriz Favero
+  - name: Parletta, Aline Cristina
+  - name: Honda, Lara Mei
+  - name: Junho, Carolina Victoria Cruz
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Life Sciences"
+  volume: 378
+  doi: "10.1016/j.lfs.2025.123836"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">From AKI to CKD: Role of miRNAs in disease progression</li>
+  </ol>
+</nav>

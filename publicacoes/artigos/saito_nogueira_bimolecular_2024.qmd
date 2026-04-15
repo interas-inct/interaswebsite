@@ -30,4 +30,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Bimolecular Profile of Tobacco Users by Infrared Spectroscopy and Machine Learning Approaches</li>
   </ol>
 </nav>
-```

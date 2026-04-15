@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Development of CaSO4:RE,Li (RE = Tm, Eu, Tb) composites for thermally or optically stimulated luminescence dosimetry</li>
   </ol>
 </nav>
-```

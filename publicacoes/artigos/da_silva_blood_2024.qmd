@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Blood collection tube components interference on spectral signatures of chronic kidney disease probed by micro-reflectance Fourier-transform infrared spectroscopy on serum</li>
   </ol>
 </nav>
-```

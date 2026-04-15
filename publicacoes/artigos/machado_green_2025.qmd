@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Green synthesis of silica-coated gold nanoparticles employing femtosecond laser, solid targets, and water</li>
   </ol>
 </nav>
-```

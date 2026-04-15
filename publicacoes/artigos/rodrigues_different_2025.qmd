@@ -1,0 +1,28 @@
+---
+title: "Different treatment modalities for advanced laryngeal cancer: improvement of oncological outcomes after tumor board implementation"
+date: 2025-01-01
+author:
+  - name: Rodrigues, Mariana Gonçalves
+  - name: Ramos, Daniel Marin
+  - name: De Matos, Leandro Luongo
+  - name: Lin, Chin Shien
+  - name: Takahashi, Jorge Tomio
+  - name: Chamel, Tiago Wanderley Diniz
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Clinics"
+  volume: 80
+  doi: "10.1016/j.clinsp.2025.100836"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Different treatment modalities for advanced laryngeal cancer: improvement of oncological outcomes after tumor board implementation</li>
+  </ol>
+</nav>

@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Sub-nanosecond, 41 mJ pulse energy, passively Q-switched Nd:YLF laser</li>
   </ol>
 </nav>
-```

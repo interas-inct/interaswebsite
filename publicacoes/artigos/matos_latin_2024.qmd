@@ -46,7 +46,7 @@ author:
   - name: Conway, David
   - name: Virani, Shama
   - name: Brennan, Paul
-  - name: {HEADSpAcE Consortium}
+  - name: HEADSpAcE Consortium
 abstract: > 
   Head and neck squamous cell carcinoma (HNSCC) is well known as a serious health problem worldwide, especially in low-income countries or those with limited resources, such as most countries in Latin America. International guidelines cannot always be applied to a population from a large region with specific conditions. This study established a Latin American guideline for care of patients with head and neck cancer and presented evidence of HNSCC management considering availability and oncologic benefit. A panel composed of 41 head and neck cancer experts systematically worked according to a modified Delphi process on (1) document compilation of evidence-based answers to different questions contextualized by resource availability and oncologic benefit regarding Latin America (region of limited resources and/or without access to all necessary health care system infrastructure), (2) revision of the answers and the classification of levels of evidence and degrees of recommendations of all recommendations, (3) validation of the consensus through two rounds of online surveys, and (4) manuscript composition. The consensus consists of 12 sections: Head and neck cancer staging, Histopathologic evaluation of head and neck cancer, Head and neck surgery—oral cavity, Clinical oncology—oral cavity, Head and neck surgery—oropharynx, Clinical oncology—oropharynx, Head and neck surgery—larynx, Head and neck surgery—larynx/hypopharynx, Clinical oncology—larynx/hypopharynx, Clinical oncology—recurrent and metastatic head and neck cancer, Head and neck surgery—reconstruction and rehabilitation, and Radiation therapy. The present consensus established 48 recommendations on HNSCC patient care considering the availability of resources and focusing on oncologic benefit. These recommendations could also be used to formulate strategies in other regions like Latin America countries. , This study formulated 48 recommendations for the care of HNSCC patients, accounting for resource availability and prioritizing oncological benefits.
 categories: [article]
@@ -64,4 +64,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Latin American Consensus on the Treatment of Head and Neck Cancer</li>
   </ol>
 </nav>
-```

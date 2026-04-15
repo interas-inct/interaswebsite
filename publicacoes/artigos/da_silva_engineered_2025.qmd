@@ -1,0 +1,30 @@
+---
+title: "Engineered Nanoparticles Enhance Photodynamic Inactivation Against the WHO Fungal Priority Pathogens. A Systematic Review"
+date: 2025-09-01
+author:
+  - name: Da Silva, Abdênego R.
+  - name: Raposo, Bruno L.
+  - name: De Lima, Geyse S.
+  - name: Bueno-Janice, Jacqueline C.
+  - name: Sellera, Fábio P.
+  - name: Cabral Filho, Paulo E.
+  - name: Fontes, Adriana
+  - name: Ribeiro, Martha S.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "BioNanoScience"
+  volume: 15
+  issue: 3
+  doi: "10.1007/s12668-025-01932-4"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Engineered Nanoparticles Enhance Photodynamic Inactivation Against the WHO Fungal Priority Pathogens. A Systematic Review</li>
+  </ol>
+</nav>

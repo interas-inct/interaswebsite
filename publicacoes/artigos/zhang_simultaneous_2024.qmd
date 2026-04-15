@@ -48,4 +48,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Simultaneous Retrieval Algorithm of Water Cloud Optical and Microphysical Properties by High-Spectral-Resolution Lidar</li>
   </ol>
 </nav>
-```

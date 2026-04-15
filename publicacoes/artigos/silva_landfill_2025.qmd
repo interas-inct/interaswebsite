@@ -1,0 +1,29 @@
+---
+title: "Landfill methane emission: a case study using inversion methods, satellite and CRDS-based observations"
+date: 2025-04-01
+author:
+  - name: Silva, Thaís Andrade Da
+  - name: Andrade, Izabel Da Silva
+  - name: Araújo, Elaine Cristina
+  - name: Corrêa, Thaís
+  - name: Pellegrinetti Mendes, Alex Carlos
+  - name: Ribeiro, Flávia Noronha Dutra
+  - name: Andrade, Maria De Fátima
+  - name: Landulfo, Eduardo
+abstract: > 
+  This study uses in situ measurements, satellite data, and modeling techniques to investigate methane (CH 4 ) emissions from the Caieiras landfill in São Paulo, Brazil. Methane is the second most significant greenhouse gas due to its high heating potential. Previous studies have shown that landfills can be considered the super-emitters of methane. Quantifying its emissions is essential to comprehending the emissions patterns of this emitter, promoting an improvement in data from inventories. Multiple platforms were used to obtain the data and better characterize the landfill. Satellite data from TROPOMI and EMIT were analyzed during the present study to characterize emission feathers. The results showed consistent emissions over 4 years, as shown by the inversions obtained using TROPOMI data. EMIT could identify one plume originating in the landfill dispersed over the city’s populated area. The in situ data were acquired near the Caieiras landfill using a greenhouse gas analyzer with integrated off-axis cavity output spectroscopy (OA-ICOS), a high-precision method to measure gases in the atmosphere. Three campaigns were conducted in 2023 on February 14, July 6, and November 22. The results obtained in all three campaigns showed median concentration values above 2 ppm, reaching values close to 35 ppm. These data were integrated into the AERMOD dispersion model, combined with meteorological data, and estimated methane emission rates, revealing variability of concentrations, where emission rates were 12,974.4 kg/h, 11,284.92 kg/h and 23,472 kg/h, respectively, for 3 days of sampling. The integrated approach in this study promotes valuable insights into landfill emissions and emphasizes targeted strategies for mitigating greenhouse gases. Results support the elaboration of policies to enhance waste management and reduce the climate impact produced by waste.
+categories: [article]
+citation: 
+  container-title: "Frontiers in Earth Science"
+  volume: 13
+  doi: "10.3389/feart.2025.1549385"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Landfill methane emission: a case study using inversion methods, satellite and CRDS-based observations</li>
+  </ol>
+</nav>

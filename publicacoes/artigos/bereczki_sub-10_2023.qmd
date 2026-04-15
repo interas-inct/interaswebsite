@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Sub-10 nm Nanoparticle Detection Using Multi-Technique-Based Micro-Raman Spectroscopy</li>
   </ol>
 </nav>
-```

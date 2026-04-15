@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Computed tomography imaging analysis of a fused filament fabrication (FFF) 3D printed neck-thyroid phantom for multidisciplinary purposes</li>
   </ol>
 </nav>
-```

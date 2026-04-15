@@ -1,0 +1,28 @@
+---
+title: "High-efficiency [18F]fluoride pre-concentration using a laser-micromachined anion-exchange micro-cartridge"
+date: 2025-03-21
+author:
+  - name: Gomes, Antonio Arleques
+  - name: Nario, Arian Pérez
+  - name: Lapolli, André Luis
+  - name: Samad, Ricardo Elgul
+  - name: Bernardes, Emerson Soares
+  - name: De Rossi, Wagner
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "EJNMMI Radiopharmacy and Chemistry"
+  volume: 10
+  issue: 1
+  doi: "10.1186/s41181-025-00334-x"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">High-efficiency [18F]fluoride pre-concentration using a laser-micromachined anion-exchange micro-cartridge</li>
+  </ol>
+</nav>

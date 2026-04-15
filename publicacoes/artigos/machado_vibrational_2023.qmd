@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Vibrational spectra of human tissues: Experimental data and density functional theory calculations comparison</li>
   </ol>
 </nav>
-```

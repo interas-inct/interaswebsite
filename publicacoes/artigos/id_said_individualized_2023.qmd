@@ -43,4 +43,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Individualized risk assessment of distant metastases in oral cavity carcinoma: a validated predictive-score model</li>
   </ol>
 </nav>
-```

@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Effect of Silver Nanoparticles on the Optical Properties of Double Line Waveguides Written by fs Laser in Nd3+-Doped GeO2-PbO Glasses</li>
   </ol>
 </nav>
-```

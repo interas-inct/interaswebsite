@@ -1,0 +1,26 @@
+---
+title: "Vibrational and electronic spectral analysis of Hepcidin-25 hormone: Perspectives for hyperinflammation diagnosis"
+date: 2026-01-01
+author:
+  - name: Alape, Julian M. Rayo
+  - name: Bandeira, Carla Carolina Silva
+  - name: Bonano, Giovana
+  - name: Nogueira, Juan J.
+  - name: Da Silva Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+  volume: 344
+  doi: "10.1016/j.saa.2025.126717"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Vibrational and electronic spectral analysis of Hepcidin-25 hormone: Perspectives for hyperinflammation diagnosis</li>
+  </ol>
+</nav>

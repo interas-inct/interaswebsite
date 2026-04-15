@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Non-ablative laser treatment for snoring and obstructive sleep apnea - a controlled randomized double-blind clinical trial</li>
   </ol>
 </nav>
-```

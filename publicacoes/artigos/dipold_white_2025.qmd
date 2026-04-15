@@ -1,0 +1,25 @@
+---
+title: "White Random Laser based on a Ho3+/Tm3+/Yb3+ doped GeO2-PbO glass"
+date: 2025-12-01
+author:
+  - name: Dipold, Jessica
+  - name: De Araújo, Cid B.
+  - name: Kassab, Luciana R.P.
+  - name: Wetter, Niklaus U.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Luminescence"
+  volume: 288
+  doi: "10.1016/j.jlumin.2025.121540"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">White Random Laser based on a Ho3+/Tm3+/Yb3+ doped GeO2-PbO glass</li>
+  </ol>
+</nav>

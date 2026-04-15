@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">CORRELAÇÃO ENTRE BRUXISMO E ANSIEDADE NA PANDEMIA DO COVID-19</li>
   </ol>
 </nav>
-```

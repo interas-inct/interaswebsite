@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Renocardiac Effects of p-Cresyl Sulfate Administration in Acute Kidney Injury Induced by Unilateral Ischemia and Reperfusion Injury In Vivo</li>
   </ol>
 </nav>
-```

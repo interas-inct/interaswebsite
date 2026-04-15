@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Mitigating skin tone bias in linear array in vivo photoacoustic imaging with short-lag spatial coherence beamforming</li>
   </ol>
 </nav>
-```

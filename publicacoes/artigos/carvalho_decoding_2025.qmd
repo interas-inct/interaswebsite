@@ -1,0 +1,33 @@
+---
+title: "Decoding E-Cigarette Secrets: Unveiling Saliva and E-Liquid Composition through Fourier-Transform Infrared Spectroscopy"
+date: 2025-04-01
+author:
+  - name: Carvalho, Bruna Fernandes Do Carmo
+  - name: Foiani, Letícia
+  - name: Zucco, Gabriela
+  - name: Faria, Natália De Carvalho
+  - name: Nepomuceno, Gabrielle
+  - name: Silva, Kethilyn Chris Sousa
+  - name: Borges, Roger
+  - name: Oliveira Alves, Mônica Ghislaine
+  - name: Pérez-Sayáns, Mário
+  - name: Martinho, Herculano Da Silva
+  - name: Almeida, Janete Dias
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "ACS Omega"
+  volume: 10
+  issue: 12
+  doi: "10.1021/acsomega.4c08648"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Decoding E-Cigarette Secrets: Unveiling Saliva and E-Liquid Composition through Fourier-Transform Infrared Spectroscopy</li>
+  </ol>
+</nav>

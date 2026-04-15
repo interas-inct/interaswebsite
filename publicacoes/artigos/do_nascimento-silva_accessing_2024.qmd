@@ -31,4 +31,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Accessing the Health Risk of Ingestion of Surface Water from Lucrécia and Parelhas Dams in Northeast Brazil Using the Sentinel Organism Drosophila melanogaster</li>
   </ol>
 </nav>
-```

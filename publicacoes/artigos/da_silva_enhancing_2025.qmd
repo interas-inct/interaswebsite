@@ -1,0 +1,33 @@
+---
+title: "Enhancing cementoenamel junction (CEJ) imaging using gold nanorods in optical coherence tomography (OCT)"
+date: 2025-11-10
+author:
+  - name: Da Silva, Carolina Pereira
+  - name: De Lima, Maria Heloísa Da Conceição Tavares
+  - name: Da Silva Júnior, Manoel Bernardo
+  - name: Cavalcanti, Marcela Rosa Nogueira
+  - name: De Andrade, Audrey Nunes
+  - name: Das, Avishek
+  - name: Pramanik, Manojit
+  - name: Da Silva, Daniela De Fátima Teixeira
+  - name: Zezell, Denise Maria
+  - name: Gomes, Anderson Stevens Leônidas
+  - name: Lopes, Daniela Siqueira
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Lasers in Medical Science"
+  volume: 40
+  issue: 1
+  doi: "10.1007/s10103-025-04735-x"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Enhancing cementoenamel junction (CEJ) imaging using gold nanorods in optical coherence tomography (OCT)</li>
+  </ol>
+</nav>

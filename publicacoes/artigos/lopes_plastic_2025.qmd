@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Plastic nests or blue nests? The need for taxonomic rigor in studies on interactions between birds and plastics</li>
   </ol>
 </nav>
-```

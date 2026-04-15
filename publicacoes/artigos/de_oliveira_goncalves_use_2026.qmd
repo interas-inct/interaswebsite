@@ -1,0 +1,28 @@
+---
+title: "The use of irradiation for production of oligochitosan conjugated with graphene oxide"
+date: 2026-02-01
+author:
+  - name: De Oliveira Gonçalves, Karina
+  - name: Duarte, Miguel
+  - name: Vieira, Daniel Perez
+  - name: Araújo, Sumair Gouveia
+  - name: Landini, Liliane
+  - name: Sakata, Solange Kazumi
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Radioanalytical and Nuclear Chemistry"
+  volume: 335
+  issue: 2
+  doi: "10.1007/s10967-025-10555-8"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">The use of irradiation for production of oligochitosan conjugated with graphene oxide</li>
+  </ol>
+</nav>

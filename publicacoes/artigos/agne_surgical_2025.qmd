@@ -1,0 +1,29 @@
+---
+title: "Surgical Management of Retropharyngeal Metastases From Papillary Thyroid Carcinoma: Transcervical and Transoral Robotic Approaches"
+date: 2025-10-01
+author:
+  - name: Agne, Guilherme Reimann
+  - name: Bento, Gustavo Nunes
+  - name: Belli, Marcelo
+  - name: Rossi, Camila Batista
+  - name: Matos, Leandro Luongo
+  - name: Lira, Renan Bezerra
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Background: Papillary thyroid carcinoma (PTC) typically has favorable outcomes, with surgery as the primary treatment. While metastases to central or lateral cervical lymph nodes are relatively common, retropharyngeal spread is rare. It often manifests as elevated serum thyroglobulin levels or iodine uptake in recurrent disease in asymptomatic patients. The resection through transcervical route offers good access but has potential complications. Transoral Robotic Surgery (TORS) has emerged as a viable alternative with reduced morbidity. Objectives: To describe a series of cases of PTC retropharyngeal metastasis treated with transcervical and transoral robotic surgical approaches, and to discuss the surgical therapeutic options. Methods: In a retrospective cohort of 1315 patients who underwent thyroid carcinoma surgery, 4 presented with retropharyngeal metastases. Results: In our study, 2 patients with retropharyngeal metastases were treated by open surgery (transcervical approach) and 2 by TORS. The mean patient age was 51.5 ± 12.4 years (3 females and 1 male). All cases involved classical PTC (1 microcarcinoma and 3 pT4). One patient had previously undergone total laryngectomy for laryngeal invasion. All cases were recurrences with the disease limited to the retropharyngeal space, diagnosed due to persistent high thyroglobulin levels. In all patients, prior lateral neck dissection had been performed. One patient had local recurrence after transcervical approach, the other evolved with successful oncological control. Patients who underwent robotic surgery experienced odynophagia during the first week but had no subsequent feeding difficulties. Conclusion: TORS offers potential advantages of being less invasive, associated with fewer complications, not leaving a visible scar, and maintaining favorable oncological outcomes. Patients who need concurrent lateral node dissection may benefit from a combined approach depending on the anatomical presentation of retropharyngeal metastasis.
+categories: [article]
+citation: 
+  container-title: "Annals of Otology, Rhinology & Laryngology"
+  volume: 134
+  issue: 10
+  doi: "10.1177/00034894251342422"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Surgical Management of Retropharyngeal Metastases From Papillary Thyroid Carcinoma: Transcervical and Transoral Robotic Approaches</li>
+  </ol>
+</nav>

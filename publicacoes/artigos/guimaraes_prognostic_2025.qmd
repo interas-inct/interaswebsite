@@ -1,0 +1,28 @@
+---
+title: "Prognostic stratification of stage III oral squamous cell carcinoma based on tumor extension, depth of invasion, and nodal status"
+date: 2025-08-01
+author:
+  - name: Guimarães, Yasmin Laryssa Moura
+  - name: Marinho, Pedro Burlacchini Sanches
+  - name: Azenha Da Silva, Flávia Mince
+  - name: Gama, Ricardo Ribeiro
+  - name: Köhler, Hugo Fontan
+  - name: Kowalski, Luiz Paulo
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Oral Oncology"
+  volume: 167
+  doi: "10.1016/j.oraloncology.2025.107420"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Prognostic stratification of stage III oral squamous cell carcinoma based on tumor extension, depth of invasion, and nodal status</li>
+  </ol>
+</nav>

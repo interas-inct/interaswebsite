@@ -6,7 +6,7 @@ author:
   - name: Matos, Leandro Luongo De
   - name: Dedivitis, Rogério Aparecido
 abstract: > 
-  Abstract Introduction The identification of thyroid cancer may be conducted through clinical detection, imaging method, and histopathological examination. Both solitary nodules and multinodular goiter are associated with malignancy. Objective To assess the risk factors for malignancy among patients with multinodular goiter submitted to total thyroidectomy. Methods A series of 712 consecutive patients, submitted to total thyroidectomy between 2005 and 2016 with multinodular goiter regarding clinical, ultrasound, and pathological variables, was retrospectively evaluated. Results There were 408 cases of papillary carcinoma (57.3%), with the remaining being benign. Gender had no statistical significance (p = 0.169) for malignancy, unlike the Bethesda index, higher age group (p = 0.005), shorter clinical history time (p = 0.036), smaller number of nodules (p textless 0.0001), and smaller nodule size (p textless 0.0001), which were related to malignancy. Conclusion The Bethesda index, older age group, shorter clinical history, smaller number of nodules, and smaller size of nodule were related to the diagnosis of papillary carcinoma.
+  Abstract Introduction The identification of thyroid cancer may be conducted through clinical detection, imaging method, and histopathological examination. Both solitary nodules and multinodular goiter are associated with malignancy. Objective To assess the risk factors for malignancy among patients with multinodular goiter submitted to total thyroidectomy. Methods A series of 712 consecutive patients, submitted to total thyroidectomy between 2005 and 2016 with multinodular goiter regarding clinical, ultrasound, and pathological variables, was retrospectively evaluated. Results There were 408 cases of papillary carcinoma (57.3%), with the remaining being benign. Gender had no statistical significance (p = 0.169) for malignancy, unlike the Bethesda index, higher age group (p = 0.005), shorter clinical history time (p = 0.036), smaller number of nodules (p < 0.0001), and smaller nodule size (p < 0.0001), which were related to malignancy. Conclusion The Bethesda index, older age group, shorter clinical history, smaller number of nodules, and smaller size of nodule were related to the diagnosis of papillary carcinoma.
 categories: [article]
 citation: 
   container-title: "International Archives of Otorhinolaryngology"
@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Risk Factors for Malignancy in Patients with Multinodular Goiter</li>
   </ol>
 </nav>
-```

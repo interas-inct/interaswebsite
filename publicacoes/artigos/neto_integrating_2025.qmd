@@ -1,0 +1,27 @@
+---
+title: "Integrating Raman spectroscopy and RT-qPCR for enhanced diagnosis of thyroid lesions: A comparative study of biochemical and molecular markers"
+date: 2025-08-01
+author:
+  - name: Neto, Lázaro P.M.
+  - name: Dos Santos, Laurita
+  - name: Carvalho, Luis Felipe C.S.
+  - name: Santos, André B.O.
+  - name: Martin, Airton A.
+  - name: Canevari, Renata A.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Pharmaceutical and Biomedical Analysis"
+  volume: 261
+  doi: "10.1016/j.jpba.2025.116844"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Integrating Raman spectroscopy and RT-qPCR for enhanced diagnosis of thyroid lesions: A comparative study of biochemical and molecular markers</li>
+  </ol>
+</nav>

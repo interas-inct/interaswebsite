@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Evaluation of the potential for greenhouse gas (CO2, CH4) emissions in the southern São Paulo coastal region, Cananéia-Iguape system</li>
   </ol>
 </nav>
-```

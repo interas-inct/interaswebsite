@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Effect of gamma radiation on the crack pattern of a styrene-acrylic emulsion dry droplet</li>
   </ol>
 </nav>
-```

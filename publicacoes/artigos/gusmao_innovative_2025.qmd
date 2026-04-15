@@ -1,0 +1,28 @@
+---
+title: "Innovative defect engineering: A novel synthesis approach for an efficient Ti3+-TiO2/SiO2 gas-phase-photocatalyst under UV–VIS radiation"
+date: 2025-07-01
+author:
+  - name: Gusmão, Carolina
+  - name: Palharim, Priscila Hasse
+  - name: Ramos, Bruno
+  - name: Gouvêa, Douglas
+  - name: Júnior, Orlando Rodrigues
+  - name: Teixeira, Antonio Carlos Silva Costa
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Ceramics International"
+  volume: 51
+  issue: 18
+  doi: "10.1016/j.ceramint.2025.03.172"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Innovative defect engineering: A novel synthesis approach for an efficient Ti3+-TiO2/SiO2 gas-phase-photocatalyst under UV–VIS radiation</li>
+  </ol>
+</nav>

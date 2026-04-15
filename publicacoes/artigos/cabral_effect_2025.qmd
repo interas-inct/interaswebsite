@@ -1,0 +1,27 @@
+---
+title: "Effect of Er:YAG Laser with or without fluoride on the prevention and progression of erosive tooth wear in primary enamel: an in vitro study"
+date: 2025-10-27
+author:
+  - name: Cabral, Camila Cardoso
+  - name: Yoshida, Mirian Lumi
+  - name: Cabral, Laís Maria Cardoso
+  - name: Zezell, Denise Maria
+  - name: Aranha, Ana Cecilia Correa
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Lasers in Medical Science"
+  volume: 40
+  issue: 1
+  doi: "10.1007/s10103-025-04713-3"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Effect of Er:YAG Laser with or without fluoride on the prevention and progression of erosive tooth wear in primary enamel: an in vitro study</li>
+  </ol>
+</nav>

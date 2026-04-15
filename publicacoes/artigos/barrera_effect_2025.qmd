@@ -1,0 +1,29 @@
+---
+title: "Effect of Ce3+ doping on the structural, optical, and dosimetric properties of magnesium-borate glasses"
+date: 2025-10-01
+author:
+  - name: Barrera, Gerardo R.
+  - name: Almeida, Adriel S.
+  - name: Vidigal, Bruno M.
+  - name: Silva, Anderson M.B.
+  - name: Nunes, Matheus C.S.
+  - name: Novais, Andrea L.F.
+  - name: Trindade, Neilo M.
+  - name: Souza, Divanizia N.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Applied Radiation and Isotopes"
+  volume: 224
+  doi: "10.1016/j.apradiso.2025.111942"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Effect of Ce3+ doping on the structural, optical, and dosimetric properties of magnesium-borate glasses</li>
+  </ol>
+</nav>

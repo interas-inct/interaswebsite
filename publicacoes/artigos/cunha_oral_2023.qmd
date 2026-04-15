@@ -28,4 +28,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Oral cancer and the importance of the dental surgeon for early diagnosis</li>
   </ol>
 </nav>
-```

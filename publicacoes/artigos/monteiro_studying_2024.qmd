@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Studying Scientific Collaboration Networks Using Social Network Analysis And Structural Equation Modeling</li>
   </ol>
 </nav>
-```

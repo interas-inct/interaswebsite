@@ -28,4 +28,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">The Role of Ceramics in Xingó History: An Archaeometric Approach</li>
   </ol>
 </nav>
-```

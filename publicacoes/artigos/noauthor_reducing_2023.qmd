@@ -2,7 +2,7 @@
 title: "Reducing the environmental impact of surgery on a global scale: systematic review and co-prioritization with healthcare workers in 132 countries"
 date: 2023-01-01
 author:
-  - name: NA
+  - name: Autor Desconhecido
 abstract: > 
   Resumo não disponível.
 categories: [article]
@@ -20,4 +20,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Reducing the environmental impact of surgery on a global scale: systematic review and co-prioritization with healthcare workers in 132 countries</li>
   </ol>
 </nav>
-```

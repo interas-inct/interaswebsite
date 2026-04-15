@@ -1,0 +1,31 @@
+---
+title: "Saliva Spectral Signature and LINE‐1 Methylation in Oral Cells: Impact of Air Pollution in São Paulo State Residents"
+date: 2026-01-01
+author:
+  - name: Nunes, Adriana Rocha
+  - name: Baroudi, Kusai
+  - name: Jaber, Mohamed
+  - name: Carvalho, Liebert Bernardes
+  - name: Toledo, Giovana Dos Santos
+  - name: Pereira, Thiago Martini
+  - name: Carvalho, Luis Felipe C. S. De
+  - name: Fisch, Gilberto
+  - name: Silva, Rodrigo A. Foganholi Da
+abstract: > 
+  Air pollution, characterized by the presence of pollutants in the air in large quantities, is one of the main factors degrading the quality of life, especially in industrialized urban centers. This study investigated how air pollution affects LINE‐1 methylation and expression in Taubaté and Lagoinha, cities selected for their contrasting characteristics regarding pollution. DNA and RNA samples were extracted to evaluate LINE‐1 methylation and LINE‐1. The bisulfite PCR technique was used to quantify methylation, whereas RT‐qPCR was employed to measure mRNA expression. Saliva spectral analysis was performed using FT‐IR spectroscopy. The results showed a significant difference in the methylation of the L1TD1 gene: In Taubaté, methylation levels were significantly lower, whereas LINE‐1 mRNA expression was higher compared to Lagoinha. Furthermore, spectral analysis revealed small variations in the intensities of phosphate bands in DNA, suggesting structural alterations. The inverse correlation between pollution levels and the methylation status of the LITD1 gene in oral mucosa cells indicates that the concentration of pollutants may contribute to genomic instability promoted by hypomethylation, potentially leading to the development of chronic diseases. These findings provide evidence that air pollution significantly impacts DNA methylation and LINE‐1 expression and alters the chemical composition of saliva, suggesting that these factors may serve as biomarkers for studies on pollution exposure and disease risk. Therefore, it is essential to implement public policies to reduce air pollution and protect health.
+categories: [article]
+citation: 
+  container-title: "Scientifica"
+  volume: 2026
+  issue: 1
+  doi: "10.1155/sci5/6254270"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Saliva Spectral Signature and LINE‐1 Methylation in Oral Cells: Impact of Air Pollution in São Paulo State Residents</li>
+  </ol>
+</nav>

@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Evaluation of conventional IMRT and VMAT strategies for postmastectomy radiation therapy after immediate implant-based reconstruction using the new ESTRO-ACROP contouring guidelines</li>
   </ol>
 </nav>
-```

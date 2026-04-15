@@ -28,4 +28,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Unveiling the Role of Rhenium Precursors in Supercritical CO₂ Hydrogenation: A Comparative Study of ReOx/TiO₂ Catalysts</li>
   </ol>
 </nav>
-```

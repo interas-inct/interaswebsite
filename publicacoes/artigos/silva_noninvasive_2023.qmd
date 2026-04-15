@@ -28,4 +28,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Noninvasive Red Laser Intervention before Radiotherapy of Triple-negative Breast Cancer in a Murine Model</li>
   </ol>
 </nav>
-```

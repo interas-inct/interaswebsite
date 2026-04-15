@@ -1,0 +1,38 @@
+---
+title: "Exploring TROP2 expression in oropharyngeal squamous cell carcinoma: Association with prognosis and tumor immune microenvironment composition"
+date: 2025-10-01
+author:
+  - name: Siqueira, Juliana Mota
+  - name: Heguedusch, Daniele
+  - name: Cunha, Mateus Trinconi
+  - name: De Sousa, Luana Guimaraes
+  - name: Marques-Piubelli, Mario L.
+  - name: Carvalho, Giovanna Lopes
+  - name: Hoff, Camilla Oliveira
+  - name: Bonini, Flavia
+  - name: Mitani, Yoshitsugu
+  - name: Spiotto, Michael T.
+  - name: Goepfert, Ryan
+  - name: Nunes, Fabio Daumas
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+  - name: McGrail, Daniel J
+  - name: El-Naggar, Adel K.
+  - name: Ferrarotto, Renata
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Oral Oncology"
+  volume: 169
+  doi: "10.1016/j.oraloncology.2025.107634"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Exploring TROP2 expression in oropharyngeal squamous cell carcinoma: Association with prognosis and tumor immune microenvironment composition</li>
+  </ol>
+</nav>

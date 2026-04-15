@@ -1,0 +1,31 @@
+---
+title: "Microplastic Deposits Prediction on Urban Sandy Beaches: Integrating Remote Sensing, GNSS Positioning, µ-Raman Spectroscopy, and Machine Learning Models"
+date: 2025-03-05
+author:
+  - name: Ferreira, Anderson Targino Da Silva
+  - name: Oliveira, Regina Célia De
+  - name: Siegle, Eduardo
+  - name: Ribeiro, Maria Carolina Hernandez
+  - name: Esteves, Luciana Slomp
+  - name: Kuznetsova, Maria
+  - name: Dipold, Jessica
+  - name: Freitas, Anderson Zanardi De
+  - name: Wetter, Niklaus Ursus
+abstract: > 
+  This study focuses on the deposition of microplastics (MPs) on urban beaches along the central São Paulo coastline, utilizing advanced methodologies such as remote sensing, GNSS altimetric surveys, µ-Raman spectroscopy, and machine learning (ML) models. MP concentrations ranged from 6 to 35 MPs/m2, with the highest densities observed near the Port of Santos, attributed to industrial and port activities. The predominant MP types identified were foams (48.7%), fragments (27.7%), and pellets (23.2%), while fibers were rare (0.4%). Beach slope and orientation were found to facilitate the concentration of MP deposition, particularly for foams and pellets. The study’s ML models showed high predictive accuracy, with Random Forest and Gradient Boosting performing exceptionally well for specific MP categories (pellet, fragment, fiber, foam, and film). Polymer characterization revealed the prevalence of polyethylene, polypropylene, and polystyrene, reflecting sources such as disposable packaging and industrial raw materials. The findings emphasize the need for improved waste management and targeted urban beach cleanups, which currently fail to address smaller MPs effectively. This research highlights the critical role of combining in situ data with predictive models to understand MP dynamics in coastal environments. It provides actionable insights for mitigation strategies and contributes to global efforts aligned with the Sustainable Development Goals, particularly SDG 14, aimed at conserving marine ecosystems and reducing pollution.
+categories: [article]
+citation: 
+  container-title: "Microplastics"
+  volume: 4
+  issue: 1
+  doi: "10.3390/microplastics4010012"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Microplastic Deposits Prediction on Urban Sandy Beaches: Integrating Remote Sensing, GNSS Positioning, µ-Raman Spectroscopy, and Machine Learning Models</li>
+  </ol>
+</nav>

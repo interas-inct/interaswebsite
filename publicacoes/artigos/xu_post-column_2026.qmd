@@ -1,0 +1,29 @@
+---
+title: "Post-column derivatization high-performance liquid chromatography-ultraviolet-ultraviolet (HPLC-UV) method for the detection of Kryptofix 2.2.2 content in Positron Emission Tomography (PET) tracers"
+date: 2026-03-01
+author:
+  - name: Xu, Lei
+  - name: Dong, Zhenhao
+  - name: Zhang, Hong
+  - name: Gomes, Antonio Arleques
+  - name: De Rossi, Wagner
+  - name: Wang, Jing
+  - name: Nario, Arian Pérez
+  - name: He, Qinggang
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Nuclear Medicine and Biology"
+  volume: 154-155
+  doi: "10.1016/j.nucmedbio.2026.109610"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Post-column derivatization high-performance liquid chromatography-ultraviolet-ultraviolet (HPLC-UV) method for the detection of Kryptofix 2.2.2 content in Positron Emission Tomography (PET) tracers</li>
+  </ol>
+</nav>

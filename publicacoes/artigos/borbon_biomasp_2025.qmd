@@ -1,0 +1,76 @@
+---
+title: "The BIOMASP+ project on biosphere-atmosphere exchanges and their role in air pollution in the subtropical megacity of São Paulo: motivations, methods and preliminary observations"
+date: 2025-11-17
+author:
+  - name: Borbon, Agnès
+  - name: Fornaro, Adalgiza
+  - name: Oliveira, Amauri P.
+  - name: Souza, Silvia R.
+  - name: De Brito, Joel F.
+  - name: Jaffrezo, Jean-Luc
+  - name: Staudt, Michael
+  - name: Ynoue, Rita Y.
+  - name: Codato, Georgia
+  - name: Sánchez, Maciel P.
+  - name: Silveira, Lucas C.
+  - name: Rizzo, Luciana
+  - name: Anselmo-Moreira, Fernanda
+  - name: Brugère, Etienne
+  - name: Fombelle, Pauline
+  - name: Rocco, Manon
+  - name: Domingues, Leonardo
+  - name: Carbone, Samara
+  - name: Catharino, Eduardo L. M.
+  - name: Colomb, Aurélie
+  - name: Florêncio, Jacques
+  - name: Gandolfo, A.
+  - name: Jamar, Marina
+  - name: Kempf, J.
+  - name: Nascimento, Alex
+  - name: Murana, Olatunde
+  - name: Petit, Jean-Eudes
+  - name: Zacharias, Daniel C.
+  - name: Wu, Junteng
+  - name: Albinet, Alexandre
+  - name: Araújo, Hugo H.
+  - name: Baray, Jean-Luc
+  - name: Bertrand, Marie
+  - name: Campos, Maria L. A. M.
+  - name: Chiari, Lucas
+  - name: Crouzet, Armelle
+  - name: Dominutti, Pamela A.
+  - name: Dusanter, Sébastien
+  - name: Furlan, Cláudia Maria
+  - name: Da Costa, Bruno Ruiz Brandão
+  - name: Lopez, Morgan
+  - name: Martins, Jean
+  - name: Martins, Tarcísio F.
+  - name: Mazzei, Kátia
+  - name: Meireles, Camila S.
+  - name: Moreira, Gregori A.
+  - name: Landulfo, Eduardo
+  - name: Filho, Edson P. Marques
+  - name: Ramonet, Michel
+  - name: Riffault, Véronique
+  - name: Santos, Ávila B.
+  - name: Paim, Bruna L.
+  - name: Silva, Luzimar C.
+  - name: Soares, Graciele D. D.
+  - name: Uzu, Gaëlle
+  - name: Xian, Weixin
+abstract: > 
+  Abstract Air pollution, especially in urban areas, is the result of a complex mixture of natural and anthropogenic emissions and their atmospheric processing. It causes millions of premature deaths worldwide and affects plant metabolism, which in turn alters the emissions of Biogenic Volatile Organic Compound (BVOCs) by plants. By taking the subtropical Metropolitan Area of São Paulo (MASP) as a natural laboratory, the BIOMASP+ project (BIOsphere-atmosphere interactions in the Metropolitan Area of São Paulo - plus ) aims to evaluate the interplay between the biosphere and secondary pollution (ozone and SOA formation and aging). The Brazilian Atlantic Forest (Mata Atlântica) is the target ecosystem as the fifth biodiversity hotspot in the world. Here we present the scientific motivations of the project, its methodology and the preliminary observations from the Special Observation Periods of year 2023 (SOP1, 2, 3 and 4). BIOMASP+ is (i) integrative, by combining in-situ/remote/laboratory observations and modeling, (ii) multidisciplinary, addressing micrometeorology, urban climate, atmospheric chemistry and biology. The project involves multiple nested scales: from leaf to above-canopy levels, from very short time (microseconds) to multi-year scale, from few millimeters (turbulence scale) to synoptic scale. In particular, the experimental effort relies on the implementation of two contrasting supersites (primary forest and urban forest) with a 30-m and 20-m flux towers, respectively, and a variety of state-of-the-art instruments. Ambient observations and the quantification of BVOC emissions have highlighted the complex interactions between meteorology, atmospheric composition of pollution, biogenic emissions of representative remnants of the Atlantic Forest and anthropogenic emissions.
+categories: [article]
+citation: 
+  container-title: "Bulletin of the American Meteorological Society"
+  doi: "10.1175/BAMS-D-23-0161.1"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">The BIOMASP+ project on biosphere-atmosphere exchanges and their role in air pollution in the subtropical megacity of São Paulo: motivations, methods and preliminary observations</li>
+  </ol>
+</nav>

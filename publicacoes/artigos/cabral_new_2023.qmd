@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">New insights in photodynamic inactivation of Leishmania amazonensis: A focus on lipidomics and resistance</li>
   </ol>
 </nav>
-```

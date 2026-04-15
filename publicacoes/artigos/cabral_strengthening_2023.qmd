@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Strengthening collaborations at the Biology-Physics interface: trends in antimicrobial photodynamic therapy</li>
   </ol>
 </nav>
-```

@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Congenital Midline Cervical Cleft and Thyroglossal Duct Fibrous Cord-Like, is There a Mixed Presentation?</li>
   </ol>
 </nav>
-```

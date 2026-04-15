@@ -1,0 +1,24 @@
+---
+title: "Formation of dysprosium doped yttria (YDy) powders with EPR response"
+date: 2026-04-01
+author:
+  - name: Santos, S.C.
+  - name: Rodrigues, O.
+  - name: Caldas, L.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Next Materials"
+  volume: 11
+  doi: "10.1016/j.nxmate.2026.101760"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Formation of dysprosium doped yttria (YDy) powders with EPR response</li>
+  </ol>
+</nav>

@@ -1,0 +1,26 @@
+---
+title: "Luminescent and dosimetric properties of CaSO4:RE,Mn (RE = Dy, Tb, Tm, Yb, Eu, Ce) phosphors synthesized by the slow evaporation method"
+date: 2026-03-01
+author:
+  - name: Silva, Anderson M.B.
+  - name: Junot, Danilo O.
+  - name: Trindade, Neilo M.
+  - name: Souza, Divanizia N.
+  - name: Caldas, Linda V.E.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Measurements"
+  volume: 192
+  doi: "10.1016/j.radmeas.2026.107624"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Luminescent and dosimetric properties of CaSO4:RE,Mn (RE = Dy, Tb, Tm, Yb, Eu, Ce) phosphors synthesized by the slow evaporation method</li>
+  </ol>
+</nav>

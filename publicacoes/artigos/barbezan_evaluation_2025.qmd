@@ -1,0 +1,34 @@
+---
+title: "Evaluation of<sup>198</sup> Au Nanoparticles Coated with Gum Arabic for Prostate Cancer: A Contextual Comparison with BSA-Coated"
+date: 2025-07-22
+author:
+  - name: Barbezan, Angélica Bueno
+  - name: Rosero, Wilmmer Alexander Arcos
+  - name: Vieira, Daniel Perez
+  - name: Rigo, Maria Eduarda Zaganin
+  - name: Silva, Giovana Dias Da
+  - name: Rodrigues, Alex Alves
+  - name: Almeida, Luís Fernando De
+  - name: Da Silva, Fabio Fernando Alves
+  - name: González Rivera, Andy
+  - name: Silva, Natanael Gomes Da
+  - name: Soares Bernardes, Emerson
+  - name: Rostelato, Maria Elisa C. M.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "ACS Omega"
+  volume: 10
+  issue: 28
+  doi: "10.1021/acsomega.5c01385"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of<sup>198</sup> Au Nanoparticles Coated with Gum Arabic for Prostate Cancer: A Contextual Comparison with BSA-Coated</li>
+  </ol>
+</nav>

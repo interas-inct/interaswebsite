@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Infrared spectroscopy as a predictive tool for the severity of COVID-19 using patient's saliva: A strategy to avoid hyperinflammation</li>
   </ol>
 </nav>
-```

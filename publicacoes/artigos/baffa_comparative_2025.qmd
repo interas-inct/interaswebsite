@@ -1,0 +1,27 @@
+---
+title: "A comparative analysis of deep learning architectures for thyroid tissue classification with hyperspectral imaging"
+date: 2025-08-26
+author:
+  - name: Baffa, Matheus De Freitas Oliveira
+  - name: Zezell, Denise Maria
+  - name: Bachmann, Luciano
+  - name: Pereira, Thiago Martini
+  - name: Felipe, Joaquim Cezar
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Scientific Reports"
+  volume: 15
+  issue: 1
+  doi: "10.1038/s41598-025-16060-y"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A comparative analysis of deep learning architectures for thyroid tissue classification with hyperspectral imaging</li>
+  </ol>
+</nav>

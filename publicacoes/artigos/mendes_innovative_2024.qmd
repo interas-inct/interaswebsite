@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Innovative methodology for noninvasive spatial mapping of gold nanoparticle distribution in tissues: potential applications in biomedical imaging and therapy</li>
   </ol>
 </nav>
-```

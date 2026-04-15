@@ -1,0 +1,28 @@
+---
+title: "Can the co-localization of CD8+, PD-1, PD-L1 AND PD-L2 patterns provide guidance in clinical outcomes of patients with head and neck cutaneous squamous cell carcinoma?"
+date: 2025-09-01
+author:
+  - name: Bento, Gustavo Nunes
+  - name: De Oliveira Santos, Andre Bandiera
+  - name: Matos, Leandro Luongo
+  - name: Faquin, William C.
+  - name: Pai, Sara I.
+  - name: Cernea, Claudio Roberto
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  issue: 5
+  doi: "10.1016/j.bjorl.2025.101632"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Can the co-localization of CD8+, PD-1, PD-L1 AND PD-L2 patterns provide guidance in clinical outcomes of patients with head and neck cutaneous squamous cell carcinoma?</li>
+  </ol>
+</nav>

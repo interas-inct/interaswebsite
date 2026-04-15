@@ -55,4 +55,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">New Insights on the Mechanisms of Myocardial Injury in Hypertensive Patients With COVID-19</li>
   </ol>
 </nav>
-```

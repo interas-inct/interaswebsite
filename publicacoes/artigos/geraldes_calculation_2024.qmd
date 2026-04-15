@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Calculation of the Budget of Uncertainty on Measurements Size Nanoparticles Using Dynamic Light Scattering</li>
   </ol>
 </nav>
-```

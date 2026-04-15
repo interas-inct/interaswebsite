@@ -1,0 +1,28 @@
+---
+title: "National trends in laryngectomy and the influence of hospital volume on short-term outcomes in Brazil: A 16-year cross-sectional analysis"
+date: 2025-11-01
+author:
+  - name: Martins, Rafael Filipe Dal Ben
+  - name: Quirino, Bruna Andressa
+  - name: Matos, Leandro Luongo
+  - name: Teivelis, Marcelo Passos
+  - name: Wolosker, Nelson
+  - name: Leite, Ana Kober Nogueira
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  issue: 6
+  doi: "10.1016/j.bjorl.2025.101659"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">National trends in laryngectomy and the influence of hospital volume on short-term outcomes in Brazil: A 16-year cross-sectional analysis</li>
+  </ol>
+</nav>

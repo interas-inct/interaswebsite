@@ -1,0 +1,28 @@
+---
+title: "Ordering of diphenylalanine micro/nanotubes prepared in PDMS microchannels with and without electric field"
+date: 2026-05-01
+author:
+  - name: Carlos, Giovana Bonano
+  - name: Bandeira, Carla Carolina Silva
+  - name: Batista, André Mourão
+  - name: Elegbe, Benjamin Osebi
+  - name: Lima, Eduardo C.
+  - name: Marques, Breno
+  - name: Martinho, Herculano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Materials Science and Engineering: B"
+  volume: 327
+  doi: "10.1016/j.mseb.2026.119285"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Ordering of diphenylalanine micro/nanotubes prepared in PDMS microchannels with and without electric field</li>
+  </ol>
+</nav>

@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Potential Role of Fourier Transform Infrared Spectroscopy as a Screening Approach for Breast Cancer</li>
   </ol>
 </nav>
-```

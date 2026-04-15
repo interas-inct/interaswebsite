@@ -31,4 +31,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Comprehensive Glycoprofiling of Oral Tumors Associates N-Glycosylation With Lymph Node Metastasis and Patient Survival</li>
   </ol>
 </nav>
-```

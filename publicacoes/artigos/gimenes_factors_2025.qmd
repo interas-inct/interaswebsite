@@ -1,0 +1,26 @@
+---
+title: "Factors associated with post‑operative complications in oral carcinoma: Prospective study"
+date: 2025-07-01
+author:
+  - name: Gimenes, Paulo Victor Sola
+  - name: Rocha, Daniel Abreu
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Cernea, Claudio Roberto
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101610"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Factors associated with post‑operative complications in oral carcinoma: Prospective study</li>
+  </ol>
+</nav>

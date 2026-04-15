@@ -1,0 +1,28 @@
+---
+title: "Etching on the edge: enamel loss under repeated and active HCl applications as a resin infiltration pretreatment"
+date: 2025-01-01
+author:
+  - name: Manna, Maria Paula Novaes Camargo
+  - name: Pereira, Talita Portela
+  - name: Iatarola, Bruna De Oliveira
+  - name: Vertuan, Mariele
+  - name: Magalhães, Ana Carolina
+  - name: Zezell, Denise Maria
+  - name: Francisconi-Dos-Rios, Luciana Fávaro
+abstract: > 
+  Abstract Considering that a single passive application of hydrochloric acid (HCl) as a resin infiltration pretreatment can remove between 20 and 45 µm of enamel and cause etching that extends up to 2 mm beyond the white spot lesions (WSLs), it is plausible that its repeated and active applications could result in a greater amount of dental tissue being removed. Objective To evaluate the enamel surface loss and micromorphology after etching with 15% HCl using two application methods (passive-P and active-A) and varying numbers of applications (C-placebo – 120 s; 1x HCl – 120 s; 2x HCl – 120 s + 120 s; 3x HCl – 120 s + 120 s + 120 s). Methodology Bovine incisors with ≤0.3 µm initial curvature were randomized into eight groups (n=12) based on microhardness, followed by WSL simulation. A central window was etched according to experimental conditions, and surface loss was assessed using optical profilometry and micromorphology via scanning electron microscopy (SEM). Two-way ANOVA and Tukey's test were used for surface loss, and the chi-square test evaluated the association of experimental conditions with etching patterns (α=0.05). Results 1xP generated intermediate mean surface loss, positioned between the values observed for passive control (PC) and active control (AC), and those for 2xP and 3xP. Losses from active applications were significantly higher than passive ones and were increased by the number of applications. SEM showed Types II and III etching patterns and Type II was more frequent. There was no association between treatment and etching pattern. Conclusion Multiple and active HCl applications may raise concerns about removal of the remaining tooth structure, challenging the principles of minimal intervention dentistry.
+categories: [article]
+citation: 
+  container-title: "Journal of Applied Oral Science"
+  volume: 33
+  doi: "10.1590/1678-7757-2025-0103"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Etching on the edge: enamel loss under repeated and active HCl applications as a resin infiltration pretreatment</li>
+  </ol>
+</nav>

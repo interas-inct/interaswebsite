@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Metastatic Castration-Resistant Prostate Cancer in Brazil: a Real-World Investigation Using INCA Database</li>
   </ol>
 </nav>
-```

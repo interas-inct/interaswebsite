@@ -1,0 +1,32 @@
+---
+title: "Triboelectrochemical Performance of Electron Beam–Melted Ti‐6Al‐4V‐ELI for Biomedical Applications"
+date: 2025-01-01
+author:
+  - name: Pieretti, E. F.
+  - name: Silva, L. C. E.
+  - name: Ribeiro, M. S.
+  - name: De Rossi, W.
+  - name: Antunes, R. A.
+  - name: Oliveira, M. C. L.
+  - name: Piaggio, D.
+  - name: Cruz, F. P. A.
+  - name: Da Paz, J. O.
+  - name: Das Neves, M. D. M.
+abstract: > 
+  Titanium alloys have been widely used for biomaterials’ production due to their high physicochemical stability, mechanical resistance, and biocompatibility. Currently, additive manufacturing (AM) techniques using electron beam melting (EBM) technology have been used to produce implantable medical and dental devices. In the present work, the effect of five different scanning speed on the tribocorrosion behavior of Ti‐6Al‐4V‐ELI (extra low interstitials) alloy was evaluated in Ringer’s saline solution, at 25°C, under a 10‐N normal force in both cathodic and anodic regions to provide a basis for properly deriving the tribological constants of this EBM alloy. A tribometer coupled with a potentiostat/galvanostat, was used to rub the Ti‐6Al‐4V‐ELI disks against alumina balls. The tribocorrosion tests were carried out for 50 min for each sample. The open circuit potential and corrosion current densities were monitored for 10 min, then concomitant with wear tests during 30 min, and finally for more 10 min, without wear. The scratched surfaces were characterized by confocal laser scanning microscopy. The results indicated that the tribocorrosion behavior is influenced by the Ti‐6Al‐4V‐ELI surface finishing. The open circuit potential quickly dropped from −0.55 to −0.75 (V/ Ag/AgCl ) for all samples during tribological application, then returned to nobler values after the application was removed, with the highest values being obtained for Disks 2 and 4. An opposite effect was observed during the chronoamperometry tests. The wear rate depends on the electrolyte, which serves as both a corrosive environment and a tribological lubricant and is closely linked to the speed variation in the EBM manufacturing process. In all cases, the disks produced with EBM scan speed Parameters 1 and 5 showed the highest wear rates.
+categories: [article]
+citation: 
+  container-title: "Advances in Materials Science and Engineering"
+  volume: 2025
+  issue: 1
+  doi: "10.1155/amse/8059229"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Triboelectrochemical Performance of Electron Beam–Melted Ti‐6Al‐4V‐ELI for Biomedical Applications</li>
+  </ol>
+</nav>

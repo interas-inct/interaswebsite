@@ -1,0 +1,26 @@
+---
+title: "The effect of gamma-irradiated recycled polyolefins as asphalt binder modifiers"
+date: 2025-05-20
+author:
+  - name: Pinheiro, Gustavo
+  - name: Dipold, Jessica
+  - name: Freitas, Anderson Zanardi
+  - name: Vasconcelos, Kamilla
+  - name: Wetter, Niklaus
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Road Materials and Pavement Design"
+  volume: 26
+  doi: "10.1080/14680629.2025.2489028"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">The effect of gamma-irradiated recycled polyolefins as asphalt binder modifiers</li>
+  </ol>
+</nav>

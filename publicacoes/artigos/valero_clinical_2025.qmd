@@ -1,0 +1,38 @@
+---
+title: "A Clinical Nomogram to Predict Survival Outcomes in Patients with Well-Differentiated Thyroid Cancer"
+date: 2025-04-01
+author:
+  - name: Valero, Cristina
+  - name: Eagan, Alana
+  - name: Adilbay, Dauren
+  - name: Matsuura, Danielli
+  - name: Harries, Victoria
+  - name: Shaha, Ashok R.
+  - name: Shah, Jatin P.
+  - name: Tuttle, R. Michael
+  - name: Akhmedin, Darkhan
+  - name: Pinheiro, Renan Aguera
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz P.
+  - name: Adilbayev, Galym
+  - name: Kadyrbayeva, Rabiga
+  - name: Patel, Snehal G.
+  - name: Ganly, Ian
+abstract: > 
+  Background: The current American Joint Committee on Cancer 8th edition staging system on thyroid cancer describes outcomes for populations of patients with well-differentiated thyroid cancer (WDTC) and not individual patients. The aim of this study was to create a clinical nomogram that can be used to predict survival in individual patients with WDTC. Methods: A single institutional cohort of 8535 patients with WDTC treated with primary surgery at the Memorial Sloan Kettering Cancer Center was used to create a predictive nomogram for disease-specific survival (DSS) as a retrospective cohort study. The nomogram was created using DSS as the dependent variable, and the independent variables used were sex, age, pathology subtype, and TNM stage. An external validation cohort of 519 patients from three different international centers was used to assess the accuracy and generalizability of the nomogram. Results: Sex, age, pathology subtype, T stage, N stage, and M stage were significant predictors of DSS on univariable analysis. The nomogram created using all these variables showed an extremely high concordance index (0.963; SE 0.012). This nomogram was validated on the external patient cohort with a high concordance index (0.810; SE: 0.070). Conclusions: We describe a predictive nomogram that accurately predicts DSS in individual patients with WDTC. The external validation illustrates its generalizability. This nomogram will help in counseling individual patients on prognosis and may identify patients who could benefit from more aggressive therapy.
+categories: [article]
+citation: 
+  container-title: "Thyroid®"
+  volume: 35
+  issue: 4
+  doi: "10.1089/thy.2024.0486"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">A Clinical Nomogram to Predict Survival Outcomes in Patients with Well-Differentiated Thyroid Cancer</li>
+  </ol>
+</nav>

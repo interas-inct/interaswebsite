@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Luminescence characterization of BioGlass undoped and doped with europium and silver ions</li>
   </ol>
 </nav>
-```

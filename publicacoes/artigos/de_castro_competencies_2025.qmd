@@ -1,0 +1,32 @@
+---
+title: "Competencies in Head and Neck Surgery teaching for medical internship. Position statement of Brazilian Head and Neck Surgery Society"
+date: 2025-11-01
+author:
+  - name: De Castro, Mario Augusto Ferrari
+  - name: Dedivitis, Rogerio Aparecido
+  - name: De Matos, Fatima Cristina Mendes
+  - name: Nakai, Marianne Yumi
+  - name: De Matos, Leandro Luongo
+  - name: Kulcsar, Marco Aurelio Vamondes
+  - name: Hojaij, Flavio Carneiro
+  - name: Chone, Carlos Takahiro
+  - name: Souza, Ana Paula
+  - name: Muller, Giovana Meira
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  issue: 6
+  doi: "10.1016/j.bjorl.2025.101715"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Competencies in Head and Neck Surgery teaching for medical internship. Position statement of Brazilian Head and Neck Surgery Society</li>
+  </ol>
+</nav>

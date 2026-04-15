@@ -1,0 +1,28 @@
+---
+title: "Prevalence of tonsillar human papillomavirus infection in low-risk individuals without cancer"
+date: 2025-06-03
+author:
+  - name: Silva, Jéssica Boscariol Da
+  - name: Silva, Aline Oliveira
+  - name: Sacoman, Luciana Reis Rosa
+  - name: Matos, Leandro Luongo
+  - name: Frizzarini, Ronaldo
+  - name: Moyses, Raquel Ajub
+  - name: Levi, José Eduardo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "einstein (São Paulo)"
+  volume: 23
+  doi: "10.31744/einstein_journal/2025AO1715"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Prevalence of tonsillar human papillomavirus infection in low-risk individuals without cancer</li>
+  </ol>
+</nav>

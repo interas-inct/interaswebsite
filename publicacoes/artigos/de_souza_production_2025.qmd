@@ -1,0 +1,26 @@
+---
+title: "Production and characterization of texture in PCD cutting tools with femtosecond laser: Analysis of texture quality and surface integrity in the turning of AA2011-T4 aluminum"
+date: 2025-12-01
+author:
+  - name: De Souza, Felipe Chagas Rodrigues
+  - name: De Rossi, Wagner
+  - name: Da Silva, Leonardo Rosa Ribeiro
+  - name: De Paula, Fábio Rüstow
+  - name: Machado, Álisson Rocha
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Tribology International"
+  volume: 212
+  doi: "10.1016/j.triboint.2025.110977"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Production and characterization of texture in PCD cutting tools with femtosecond laser: Analysis of texture quality and surface integrity in the turning of AA2011-T4 aluminum</li>
+  </ol>
+</nav>

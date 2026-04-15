@@ -1,0 +1,27 @@
+---
+title: "Photobiomodulation therapy and 5% minoxidil in female pattern hair loss: a case series focusing on hair growth phases over a shorter timeframe"
+date: 2025-12-10
+author:
+  - name: Ferreira Rodrigues, Denise
+  - name: Lazzeri Cortez, Gabriel
+  - name: Bagatin, Ediléia
+  - name: Mendonça Do Nascimento, Mauricio
+  - name: Simões Ribeiro, Martha
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Lasers in Medical Science"
+  volume: 40
+  issue: 1
+  doi: "10.1007/s10103-025-04780-6"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Photobiomodulation therapy and 5% minoxidil in female pattern hair loss: a case series focusing on hair growth phases over a shorter timeframe</li>
+  </ol>
+</nav>

@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Improved relative gain in Nd3+doped GeO2-PbO glass with double waveguides irradiated by femtosecond laser micromachining and decorated with Au nanoparticles</li>
   </ol>
 </nav>
-```

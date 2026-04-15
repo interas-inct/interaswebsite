@@ -1,0 +1,27 @@
+---
+title: "Controlling Alicyclobacillus acidoterrestris spores contamination on orange surfaces using different photosensitizers and light sources"
+date: 2025-01-01
+author:
+  - name: Prado-Silva, Leonardo Do
+  - name: Brancini, Guilherme Thomaz Pereira
+  - name: Bachmann, Luciano
+  - name: Oliveira, Kleber Thiago De
+  - name: Braga, Gilberto Úbida Leite
+  - name: Sant’Ana, Anderson S.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Food Control"
+  volume: 167
+  doi: "10.1016/j.foodcont.2024.110798"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Controlling Alicyclobacillus acidoterrestris spores contamination on orange surfaces using different photosensitizers and light sources</li>
+  </ol>
+</nav>

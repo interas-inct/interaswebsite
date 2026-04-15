@@ -1,0 +1,33 @@
+---
+title: "Can oral squamous cell carcinoma xenografts tumors mirror the original tumor microenvironment? An immunohistochemical analysis"
+date: 2026-03-01
+author:
+  - name: Dutra, Mateus José
+  - name: Louredo, Brendo Vinicius Rodrigues
+  - name: De Sousa-Neto, Sebastião Silvério
+  - name: Bezerra, Hélen Kaline Farias
+  - name: Prado-Ribeiro, Ana Carolina
+  - name: Matos, Leandro Luongo
+  - name: Silveira, Felipe Martins
+  - name: Martins, Manoela Domingues
+  - name: Kowalski, Luiz Paulo
+  - name: Vargas, Pablo Agustin
+  - name: Wagner, Vivian Petersen
+abstract: > 
+  Abstract This study aimed to characterize the tumor microenvironment (TME) in patient-derived xenograft (PDX) models of oral squamous cell carcinoma (OSCC) and compare histological findings with primary tumors of origin (PTT). OSCC samples from five donor patients were implanted into NOD/SCID mice (PDX0) and subsequently re-implanted into new animals (PDX1), yielding three groups for analysis: PTT, PDX0, and PDX1 ( n = 5 each). Histological slides with sections were stained with hematoxylin and eosin for grade analysis and subjected to immunohistochemical reactions with antibodies against SMA, CD4, CD8, CD31, CD34, Claudin-1, Vimentin, and Ki-67. Multiple comparisons were performed between samples (PTT, PDX0, and PDX1). The histological grade of PDX0 and PDX1 tumors showed instability across passages. The expression of SMA, claudin-1, vimentin, and Ki-67 was maintained, with no significant differences between PDX0 and PDX1 when compared with PTT. In contrast, the expression of CD4, CD8, CD31, and CD34 was significantly reduced in PDX0 and PDX1 tumors compared with PTT. OSCC PDX tumors may exhibit instability in the degree of differentiation compared with the donor tumors across passages, as well as alterations in certain components of the TME, including cancer-associated fibroblasts, epithelial–mesenchymal transition–related features, and cellular proliferation characteristics.
+categories: [article]
+citation: 
+  container-title: "Virchows Archiv"
+  volume: 488
+  issue: 3
+  doi: "10.1007/s00428-026-04399-0"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Can oral squamous cell carcinoma xenografts tumors mirror the original tumor microenvironment? An immunohistochemical analysis</li>
+  </ol>
+</nav>

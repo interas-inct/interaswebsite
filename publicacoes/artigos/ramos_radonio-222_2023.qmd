@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Radônio-222 indoor e associação com risco de câncer de pulmão na Região Metropolitana de Recife, Brasil</li>
   </ol>
 </nav>
-```

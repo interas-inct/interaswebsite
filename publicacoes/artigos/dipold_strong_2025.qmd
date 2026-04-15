@@ -1,0 +1,27 @@
+---
+title: "Strong enhancement of effective refractive index in structured colloids (TiO<sub>2</sub> @Silica): Localization of light"
+date: 2025-01-01
+author:
+  - name: Dipold, Jessica
+  - name: Wetter, Niklaus U.
+  - name: Marques, Francisco C.
+  - name: Dogariu, Aristide
+  - name: Jiménez-Villar, Ernesto
+abstract: > 
+  A large enhancement of the effective refractive index experienced by Raman photons is demonstrated in a scattering medium comprising spatially-correlated photonic structures of core–shell TiO2@Silica scatterers plus silica NPs suspended in ethanol. , We use non-resonant Raman scattering to demonstrate a large enhancement of the effective refractive index experienced by Raman photons in a scattering medium comprising spatially-correlated photonic structures of core–shell TiO 2 @Silica scatterers mixed with silica nanoparticles and suspended in ethanol. We show that the high refractive index extends outside the physical boundary of the medium, which is attributed to the evanescent contributions of electromagnetic modes that are strongly localized within the medium. Notably, the effective enhancement can be observed even at very low intensities of Raman emission. This anomalous non-linear phenomenon could be explained by the successive polarization of valence electrons to virtual states induced by the strong photon correlations in the strongly localized electromagnetic modes. The enhancement of refractive index and its extension in the vicinity of the medium's interface provide new opportunities for controlling the electromagnetic fields in advanced photonic devices.
+categories: [article]
+citation: 
+  container-title: "Nanoscale"
+  volume: 17
+  issue: 6
+  doi: "10.1039/D4NR03626C"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Strong enhancement of effective refractive index in structured colloids (TiO<sub>2</sub> @Silica): Localization of light</li>
+  </ol>
+</nav>

@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Targeting effective treatment to cutaneous Leishmaniasis: A preclinical investigation on photodynamic therapy mediated by the water-soluble Zn(II) porphyrin, ZnTnHex-2-PyP4+</li>
   </ol>
 </nav>
-```

@@ -1,0 +1,28 @@
+---
+title: "Evaluation of clinical outcomes after partial horizontal laryngectomy"
+date: 2025-07-01
+author:
+  - name: Rocha, Daniel Abreu
+  - name: De Alvarenga, Gustavo Fernandes
+  - name: Ramos, Daniel Marin
+  - name: De Matos, Leandro Luongo
+  - name: Dedivitis, Rogerio Aparecido
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Cernea, Claudio Roberto
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101614"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of clinical outcomes after partial horizontal laryngectomy</li>
+  </ol>
+</nav>

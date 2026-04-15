@@ -1,0 +1,27 @@
+---
+title: "Microwave-assisted digestion for multi-elemental determination in beans, basil, and mint by ICP OES and flame photometry: An eco-friendly alternative"
+date: 2025-07-01
+author:
+  - name: Da Silva, Iago J.S.
+  - name: Da Silva, Micherlane M.
+  - name: Da Silva, Ryan G.M.F.
+  - name: De França, Elvis J.
+  - name: Da Silva, Maria J.
+  - name: Kato, Mario T.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Food Chemistry"
+  volume: 481
+  doi: "10.1016/j.foodchem.2025.143970"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Microwave-assisted digestion for multi-elemental determination in beans, basil, and mint by ICP OES and flame photometry: An eco-friendly alternative</li>
+  </ol>
+</nav>

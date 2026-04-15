@@ -1,0 +1,41 @@
+---
+title: "Overview of care for head and neck Cancer cases in Brazilian Cancer Centers during the COVID-19 pandemic"
+date: 2025-07-01
+author:
+  - name: Gonçalves, Sergio
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: De Matos, Leandro Luongo
+  - name: Guilherme Vartanian, José
+  - name: De Carvalho, Genival Barbosa
+  - name: Dias, Fernando Luiz
+  - name: De Farias, Terence Pires
+  - name: Neto, Emilio Tosto
+  - name: Santos, Carlos Roberto Dos
+  - name: Silva, Lucas Gomes
+  - name: Javaroni, Afonso Do Carmo
+  - name: Ramos, Gyl Henrique Albrecht
+  - name: Cavalheiro, Beatriz Godoy
+  - name: Carlos De Oliveira, José
+  - name: De Cicco, Rafael
+  - name: De Mello, Luiz Eduardo Barbalho
+  - name: De Melo Junior, Bartolomeu Cavalcanti
+  - name: Santos, Luiz Roberto Medina Dos
+  - name: Goulart, Rafael Nunes
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101638"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Overview of care for head and neck Cancer cases in Brazilian Cancer Centers during the COVID-19 pandemic</li>
+  </ol>
+</nav>

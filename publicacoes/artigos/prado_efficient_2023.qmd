@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Efficient Trichromatic Nd:YLF Laser Emitting at 1047 nm, 1053 nm and 1314 nm</li>
   </ol>
 </nav>
-```

@@ -1,0 +1,27 @@
+---
+title: "Survival patterns and prognostic stratification based on distant metastasis characteristics in oral squamous cell carcinoma"
+date: 2025-10-01
+author:
+  - name: Marinho, Pedro Burlacchini Sanches
+  - name: Silva, Flávia Mince Azenha Da
+  - name: Gama, Ricardo Ribeiro
+  - name: Moyses, Raquel Ajub
+  - name: Kowalski, Luiz Paulo
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Oral Oncology"
+  volume: 169
+  doi: "10.1016/j.oraloncology.2025.107615"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Survival patterns and prognostic stratification based on distant metastasis characteristics in oral squamous cell carcinoma</li>
+  </ol>
+</nav>

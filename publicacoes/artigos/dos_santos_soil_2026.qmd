@@ -1,0 +1,28 @@
+---
+title: "Soil attributes are key drivers of calcium, potassium, and magnesium concentrations and stocks in a tropical dry forest"
+date: 2026-05-01
+author:
+  - name: Dos Santos, Alice Batista
+  - name: Silva, Ana Cristiana
+  - name: Tabarelli, Marcelo
+  - name: Barros, Maria Fabiola
+  - name: De Franca, Elvis Joacir
+  - name: Lins, Silvia Rafaela Machado
+  - name: Vanderlei, Renato Soares
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Arid Environments"
+  volume: 235
+  doi: "10.1016/j.jaridenv.2026.105604"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Soil attributes are key drivers of calcium, potassium, and magnesium concentrations and stocks in a tropical dry forest</li>
+  </ol>
+</nav>

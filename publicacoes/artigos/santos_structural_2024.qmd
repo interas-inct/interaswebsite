@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Structural, vibrational, and luminescent properties of pure and Ce-doped magnesium lithium aluminoborate glass</li>
   </ol>
 </nav>
-```

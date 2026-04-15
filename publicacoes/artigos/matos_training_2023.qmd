@@ -20,4 +20,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Training of head and neck surgeons in Brazil: biannual evaluation by the Brazilian Society of Head and Neck Surgery</li>
   </ol>
 </nav>
-```

@@ -1,0 +1,33 @@
+---
+title: "Does the diameter of the thoracic inlet influence the formation of retrosternal goiter?"
+date: 2025-07-01
+author:
+  - name: Pasquel, Leonardo Daniel Manzano
+  - name: Rocha, Daniel Abreu
+  - name: Guimaraes, Yasmin Laryssa Moura
+  - name: De Alvarenga, Gustavo Fernandes
+  - name: Kase, Mauricio
+  - name: Magalhãnes, Júlia Scomparin
+  - name: Elia Gomes, Regina Lúcia
+  - name: Neto, Ledo Mazzei Massoni
+  - name: Mahmoud, Renata Lorencetti
+  - name: De Matos, Leandro Luongo
+  - name: De Araujo Filho, Vergilius José Furtado
+  - name: Cernea, Claudio Roberto
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101597"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Does the diameter of the thoracic inlet influence the formation of retrosternal goiter?</li>
+  </ol>
+</nav>

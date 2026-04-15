@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Effect of thulium on promotion of dose-response behaviour of yttria based rods by Electron Paramagnetic Resonance</li>
   </ol>
 </nav>
-```

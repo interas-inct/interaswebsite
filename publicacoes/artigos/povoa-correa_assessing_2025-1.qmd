@@ -1,0 +1,39 @@
+---
+title: "Assessing liver disease in cyanotic CHD using multiparametric MRI: a call to prevent future burden"
+date: 2025-12-01
+author:
+  - name: Póvoa-Corrêa, Mariana
+  - name: Innocenzi, Adriana M.
+  - name: Fernandes, Fernanda P.
+  - name: Costermani, Igor
+  - name: Secco, José Carlos P.
+  - name: Terzi, Flávia V.O.
+  - name: Pittella, Ana Maria
+  - name: Rangel, Isabela
+  - name: Barbosa, Rosa Célia P.
+  - name: Medei, Emiliano
+  - name: Silvestre-Sousa, Andrea
+  - name: Rodrigues, Rosana S.
+  - name: Luiz, Ronir R.
+  - name: Perez, Renata M.
+  - name: Camargo, Gabriel C.
+  - name: Parente, Daniella
+  - name: Moll-Bernardes, Renata
+abstract: > 
+  Abstract Background & aims: Patients with cyanotic CHD and those with metabolic dysfunction–associated steatotic liver disease are at risk of liver fibrosis. We compared hepatic extracellular volumes and native T1 values to better understand the burden of liver disease in these populations. Methods: The sample comprised 136 patients in 5 groups: control ( n = 23), metabolic dysfunction–associated steatotic liver disease [mild (F0–F1) and significant (F2–F4) fibrosis; n = 45], repaired tetralogy of Fallot ( n = 30), and Fontan circulation ( n = 38). Differences were assessed using linear regression models, with adjustment for the body mass index and sex. Results: The hepatic extracellular volume was significantly larger in the Fontan group (43.96% ± 4.22%) than in the other groups, even with adjustment. Patients with Fallot had significantly larger extracellular volumes (36.77% ± 5.63%) than did controls and mild liver disease ( p < 0.001 and p = 0.011, respectively), although smaller extracellular volumes than patients with significant liver disease ( p = 0.042). These trends were corroborated by native T1 values, which were highest in patients with Fontan (1013.7 ± 86.1 ms), although not significantly different from patients with F2–F4 steatotic liver disease. Conclusions: The potential burden of CHD-related hepatic injury and steatotic liver disease highlights the importance of early identification. Given the possible additional risk of liver fibrosis in patients with coexisting metabolic dysfunction and CHD, comprehensive clinical management should prioritise regular metabolic risk assessment and the promotion of a healthy lifestyle to reduce the likelihood of liver disease development in this vulnerable population.
+categories: [article]
+citation: 
+  container-title: "Cardiology in the Young"
+  volume: 35
+  issue: 12
+  doi: "10.1017/S1047951125110792"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Assessing liver disease in cyanotic CHD using multiparametric MRI: a call to prevent future burden</li>
+  </ol>
+</nav>

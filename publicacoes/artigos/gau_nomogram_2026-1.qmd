@@ -1,0 +1,47 @@
+---
+title: "Nomogram for Risk-Adaptive Estimation of the Locoregional Control Benefit Following Postoperative Radiation Therapy for Pathologic N0 Oral Cavity Cancer: A Retrospective Analysis"
+date: 2026-02-01
+author:
+  - name: Gau, Max
+  - name: Su, Jie
+  - name: Huang, Shao Hui
+  - name: Alfaraj, Fatimah A.
+  - name: Olson, Robert
+  - name: Marta, Gustavo N.
+  - name: Kowalski, Luiz P.
+  - name: Kohler, Hugo F.
+  - name: De Matos, Leandro Luongo
+  - name: Moraes, Fabio Y.
+  - name: Xu, Wei
+  - name: Sanz-Garcia, Enrique
+  - name: Hahn, Ezra
+  - name: Kim, John J.
+  - name: McPartlin, Andrew
+  - name: O’Sullivan, Brian
+  - name: Tsai, C. Jillian
+  - name: Waldron, John
+  - name: Prisman, Eitan
+  - name: Irish, Jonathan C.
+  - name: Yao, Christopher M.K.L.
+  - name: De Almeida, John R.
+  - name: Goldstein, David P.
+  - name: Hope, Andrew
+  - name: Hosni, Ali
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "International Journal of Radiation Oncology*Biology*Physics"
+  volume: 124
+  issue: 2
+  doi: "10.1016/j.ijrobp.2025.09.011"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Nomogram for Risk-Adaptive Estimation of the Locoregional Control Benefit Following Postoperative Radiation Therapy for Pathologic N0 Oral Cavity Cancer: A Retrospective Analysis</li>
+  </ol>
+</nav>

@@ -1,0 +1,25 @@
+---
+title: "Towards Integrated Photonics: a review of femtosecond laser-written double-line waveguides in GeO2-PbO glasses"
+date: 2026-06-01
+author:
+  - name: Fernandes, Thiago Vecchi
+  - name: Wetter, Niklaus Ursus
+  - name: De Rossi, Wagner
+  - name: Kassab, Luciana Reyes Pires
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Optical Materials"
+  volume: 174
+  doi: "10.1016/j.optmat.2026.118013"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Towards Integrated Photonics: a review of femtosecond laser-written double-line waveguides in GeO2-PbO glasses</li>
+  </ol>
+</nav>

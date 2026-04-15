@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">A Medicina Nuclear no Sistema Único de Saúde</li>
   </ol>
 </nav>
-```

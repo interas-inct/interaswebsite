@@ -76,4 +76,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">IL-1β enhances susceptibility to atrial fibrillation in mice by acting through resident macrophages and promoting caspase-1 expression</li>
   </ol>
 </nav>
-```

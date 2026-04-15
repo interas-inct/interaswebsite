@@ -30,4 +30,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Comparison of three 18F-labeled 2-nitroimidazoles for imaging hypoxia in breast cancer xenografts: [18F]FBNA, [18F]FAZA and [18F]FMISO</li>
   </ol>
 </nav>
-```

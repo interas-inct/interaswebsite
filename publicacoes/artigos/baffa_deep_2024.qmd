@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Deep neural networks can differentiate thyroid pathologies on infrared hyperspectral images</li>
   </ol>
 </nav>
-```

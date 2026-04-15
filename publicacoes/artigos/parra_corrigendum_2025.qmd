@@ -1,0 +1,29 @@
+---
+title: "Corrigendum to “Microplastics in Santos São Vicente estuarine – Hotspot in sediments caused by low energy hydrodynamic events in strongly populated areas” [Mar. Pollut. Bull. (2024) 117286]"
+date: 2025-02-01
+author:
+  - name: Parra, Duclerc Fernandes
+  - name: Gimiliani, Giovana Teixeira
+  - name: Dos Santos, Jacinete Lima
+  - name: Wetter, Niklaus Ursus
+  - name: Schepis, William Rodriguez
+  - name: Bereczki, Allan
+  - name: Da Cunha Pascoal, Diego Roberto
+  - name: Cotrim, Marycel Elena Barboza
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Marine Pollution Bulletin"
+  volume: 211
+  doi: "10.1016/j.marpolbul.2024.117449"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Corrigendum to “Microplastics in Santos São Vicente estuarine – Hotspot in sediments caused by low energy hydrodynamic events in strongly populated areas” [Mar. Pollut. Bull. (2024) 117286]</li>
+  </ol>
+</nav>

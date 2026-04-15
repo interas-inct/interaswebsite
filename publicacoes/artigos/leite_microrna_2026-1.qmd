@@ -1,0 +1,32 @@
+---
+title: "MicroRNA signatures associated with radioiodine refractoriness and tumor dedifferentiation in metastatic papillary thyroid carcinoma"
+date: 2026-03-09
+author:
+  - name: Leite, Ana Kober
+  - name: Saito, Kelly Cristina
+  - name: Theodoro, Thérèse Rachell
+  - name: Pasini, Fátima Solange
+  - name: Alves, Venâncio Avancini Ferreira
+  - name: Kowalski, Luiz Paulo
+  - name: Pinhal, Maria Aparecida Silva
+  - name: Menderico, Gilberto Mendes Junior
+  - name: Kimura, Edna Teruko
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Endocrine"
+  volume: 91
+  issue: 1
+  doi: "10.1007/s12020-025-04510-6"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">MicroRNA signatures associated with radioiodine refractoriness and tumor dedifferentiation in metastatic papillary thyroid carcinoma</li>
+  </ol>
+</nav>

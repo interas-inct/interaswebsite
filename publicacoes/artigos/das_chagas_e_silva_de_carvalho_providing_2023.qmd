@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Providing potential solutions by using FT-IR spectroscopy for biofluid analysis: Clinical impact of optical screening and diagnostic tests</li>
   </ol>
 </nav>
-```

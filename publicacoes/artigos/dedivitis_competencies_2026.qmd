@@ -1,0 +1,33 @@
+---
+title: "Competencies in head and neck surgery teaching for specialty residents. Position statement of Brazilian Head and Neck Surgery Society"
+date: 2026-01-01
+author:
+  - name: Dedivitis, Rogério Aparecido
+  - name: Castro, Mario Augusto Ferrari De
+  - name: Matos, Fátima Cristina Mendes De
+  - name: Nakai, Marianne Yumi
+  - name: Matos, Leandro Luongo De
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Chone, Carlos Takahiro
+  - name: Kowalski, Luiz Paulo
+  - name: Dias, Fernando Luiz
+  - name: Martins, André Cruz
+  - name: Silva, Bruna Carteiro
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 92
+  issue: 1
+  doi: "10.1016/j.bjorl.2025.101710"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Competencies in head and neck surgery teaching for specialty residents. Position statement of Brazilian Head and Neck Surgery Society</li>
+  </ol>
+</nav>

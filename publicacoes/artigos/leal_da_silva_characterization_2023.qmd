@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Characterization of the photoelastic dispersion coefficient using polarized digital holography</li>
   </ol>
 </nav>
-```

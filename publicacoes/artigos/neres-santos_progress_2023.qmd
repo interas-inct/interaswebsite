@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Progress and Challenges of Understanding Cardiorenal Syndrome Type 3</li>
   </ol>
 </nav>
-```

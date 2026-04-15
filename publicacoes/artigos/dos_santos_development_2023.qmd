@@ -31,4 +31,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Development of glycan-targeted nanoparticles as a novel therapeutic opportunity for gastric cancer treatment</li>
   </ol>
 </nav>
-```

@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Infrared spectroscopy for fast screening of diabetes and periodontitis</li>
   </ol>
 </nav>
-```

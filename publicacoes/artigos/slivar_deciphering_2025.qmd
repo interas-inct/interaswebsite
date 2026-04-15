@@ -1,0 +1,29 @@
+---
+title: "Deciphering <span style='font-variant:small-caps;'>NOTCH1</span> as a Biomarker in Adenoid Cystic Carcinoma: Insights From a Systematic Review With Meta‐Analysis"
+date: 2025-09-01
+author:
+  - name: Slivar, Isabela De Sousa
+  - name: Zanesco, Bruno De Andrade
+  - name: Martins, Manoela Domingues
+  - name: Matos, Leandro Luongo
+  - name: Nunes, Fábio Daumas
+  - name: Schuch, Lauren Frenzel
+  - name: Wagner, Vivian Petersen
+abstract: > 
+  ABSTRACT Background Most studies suggest that NOTCH1 alterations are associated with prognosis in adenoid cystic carcinoma (ACC), but findings remain fragmented. We conducted an integrative analysis to evaluate the prognostic value of NOTCH1‐related biomarkers in ACC. Methods A comprehensive search was conducted across multiple databases. Inclusion criteria comprised studies examining NOTCH1‐related features at ACC diagnosis and their relation with survival outcomes. Meta‐analysis was performed on studies sharing similar methodology. Results Twelve studies met the eligibility criteria. NOTCH1 mutational status, Notch1 immunoexpression, and NICD1 immunoexpression were associated either with overall, disease‐free or progression‐free survival. Methodological disparities hindered integration of results. Meta‐analyses of HRs were conducted with 2 studies for each index factor, revealing a 2.31‐fold increased risk of death for primary ACC cases with NOTCH1 mutations, a 2.6‐fold increased risk of death for those exhibiting positive NICD1 expression and a 1.91‐fold heightened risk of disease recurrence for cases with high Notch1 expression. Conclusion This comprehensive review underscores the prognostic relevance of NOTCH1 in ACC, indicating its potential as a valuable risk stratification tool.
+categories: [article]
+citation: 
+  container-title: "Journal of Oral Pathology & Medicine"
+  volume: 54
+  issue: 8
+  doi: "10.1111/jop.70028"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Deciphering <span style='font-variant:small-caps;'>NOTCH1</span> as a Biomarker in Adenoid Cystic Carcinoma: Insights From a Systematic Review With Meta‐Analysis</li>
+  </ol>
+</nav>

@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Princípios fisicos básicos do exame de tomografia de coerência óptica</li>
   </ol>
 </nav>
-```

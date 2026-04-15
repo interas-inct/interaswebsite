@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Pluronic F-127 Hydrogels Containing Copper Oxide Nanoparticles and a Nitric Oxide Donor to Treat Skin Cancer</li>
   </ol>
 </nav>
-```

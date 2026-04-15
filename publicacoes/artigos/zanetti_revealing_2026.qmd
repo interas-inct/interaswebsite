@@ -1,0 +1,32 @@
+---
+title: "Revealing microplastic and anthropogenic microparticles contamination in tidal blue carbon ecosystems from eastern Brazil"
+date: 2026-04-01
+author:
+  - name: Zanetti, Daniela Gadens
+  - name: De Oliveira Gomes, Luiz Eduardo
+  - name: Gomes, Mitchael Micael Silva
+  - name: De Araújo, Eduardo Nery Duarte
+  - name: De Lima Barizão, Ana Carolina
+  - name: Batista, Anderson Antônio
+  - name: Dipold, Jessica
+  - name: Wetter, Niklaus Ursus
+  - name: De Freitas, Anderson Zanardi
+  - name: Bom, Fabio Cavalca
+  - name: Sá, Fabian
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Marine Pollution Bulletin"
+  volume: 225
+  doi: "10.1016/j.marpolbul.2026.119221"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Revealing microplastic and anthropogenic microparticles contamination in tidal blue carbon ecosystems from eastern Brazil</li>
+  </ol>
+</nav>

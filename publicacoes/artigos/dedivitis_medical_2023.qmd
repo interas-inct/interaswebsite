@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Medical students’ and residents’ views on euthanasia</li>
   </ol>
 </nav>
-```

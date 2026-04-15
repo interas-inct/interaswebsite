@@ -1,0 +1,32 @@
+---
+title: "Evaluation of antimicrobial photodynamic therapy with Butyl toluidine blue O for inactivation of Aggregatibacter actinomycetemcomitans biofilm"
+date: 2026-03-01
+author:
+  - name: Tortamano, Ana Carolina A. C.
+  - name: Kassa, Claudio T.
+  - name: Magalhães, Fabiana D.
+  - name: Ferreira, Giovanna Fontgalland
+  - name: De Holanda Lima, Shirlene
+  - name: Pavani, Christiane
+  - name: Rodriguez, Valherya S.
+  - name: Kato, Ilka T.
+  - name: Wainwright, Mark
+  - name: Prates, Renato Araujo
+abstract: > 
+  Abstract As an adjunctive intervention to mechanical periodontal treatment, antimicrobial photodynamic therapy aims to induce the production of reactive oxygen species, thereby reducing microbial infection. Butyl toluidine blue O, a novel photosensitizer from the phenothiazine family, was developed through physicochemical modifications of the structure of toluidine blue, demonstrating decreased aggregation and increased singlet oxygen production and lipophilicity. The objective of this study was to evaluate the effects of butyl toluidine blue O on Aggregatibacter actinomycetemcomitans biofilm. A biofilm was grown on bovine dental samples, followed by the application of antimicrobial photodynamic therapy. The experimental design included the following groups: Control, Light, incubation with PS without irradiation (0), and three aPDT groups (1, 3, or 5 min of irradiation time duration). A laser with a wavelength of 660 nm and 100 mW of radiant power was employed. After the procedures, the samples were cultivated under microaerophilic conditions, counted, and converted into colony-forming units for analysis and comparison. The samples exhibiting statistically significant differences were analyzed through scanning electron microscopy. Antimicrobial photodymanic therapy with 5 min irradiation period achieved a 99.99% reduction in biofilm microbial load. In conclusion, the approach mediated by butyl toluidine blue O demonstrated efficacy against A. actinomycetemcomitans biofilm.
+categories: [article]
+citation: 
+  container-title: "Photochemical & Photobiological Sciences"
+  volume: 25
+  issue: 3
+  doi: "10.1007/s43630-026-00851-x"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of antimicrobial photodynamic therapy with Butyl toluidine blue O for inactivation of Aggregatibacter actinomycetemcomitans biofilm</li>
+  </ol>
+</nav>

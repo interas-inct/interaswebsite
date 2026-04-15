@@ -1,0 +1,28 @@
+---
+title: "Random Lasers Based on Tellurite and Germanate Glasses and Glass-Ceramics Doped with Rare-Earth Ions"
+date: 2025-04-30
+author:
+  - name: Da Silva, Davinson M.
+  - name: Câmara, Josivanir G.
+  - name: Wetter, Niklaus U.
+  - name: Dipold, Jessica
+  - name: Kassab, Luciana R. P.
+  - name: De Araújo, Cid B.
+abstract: > 
+  Random lasers (RLs) based on glasses and glass-ceramics doped with rare-earth ions (REI) deserve great attention because of their specific physical properties such as large thermal stability, possibility to operate at high intensities, optical wavelength tunability, and prospects to operate Fiber-RLs, among other characteristics of interest for photonic applications. In this article, we present a brief review of experiments with RLs based on tellurite and germanate glasses and glass-ceramics doped with neodymium (Nd³⁺), erbium (Er³⁺), and ytterbium (Yb³⁺) ions. The glass samples were fabricated using the melt-quenching technique followed by controlled crystallization to achieve the glass-ceramics. Afterwards, the samples were crushed to obtain the powder samples for the RLs experiments. The experiments demonstrated RLs emissions at various wavelengths, with feedback mechanisms due to light scattering at grain/air and crystalline/glass interfaces. The phenomenon of replica symmetry breaking was verified through statistical analysis of the RLs intensity fluctuations, indicating a photonic phase-transition (corresponding to the RL threshold) analogous to the paramagnetic-to-spin glass transition in magnetic materials. The various results reported here highlight the potential of glasses and glass-ceramics for the development of RLs with improved performance in terms of reduction of laser threshold and large lifetime of the active media in comparison with organic materials.
+categories: [article]
+citation: 
+  container-title: "Micromachines"
+  volume: 16
+  issue: 5
+  doi: "10.3390/mi16050550"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Random Lasers Based on Tellurite and Germanate Glasses and Glass-Ceramics Doped with Rare-Earth Ions</li>
+  </ol>
+</nav>

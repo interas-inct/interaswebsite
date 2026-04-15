@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Microplastics in Santos São Vicente estuarine – Hotspot in sediments caused by low energy hydrodynamic events in strongly populated areas</li>
   </ol>
 </nav>
-```

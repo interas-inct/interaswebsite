@@ -1,0 +1,24 @@
+---
+title: "Evaluation of the Uncertainty in the Measurement of Nanoparticle Size and Concentration by Single Particle Inductively Coupled Plasma Mass Spectrometry Technique"
+date: 2025-01-01
+author:
+  - name: N. Geraldes, Adriana
+  - name: A. Hortellani, Marcos
+  - name: C. M. Rostelato, Maria Elisa
+  - name: E. S. Sarkis, Jorge
+abstract: > 
+  Single-particle inductively coupled plasma-mass spectrometry (sp-ICP-MS) is a powerful technique that enables the simultaneous measurement of nanoparticle size and the quantification of metal-containing nanoparticles at real concentrations. These measurements are critical for understanding the potential uses of nanoparticles in various fields. However, sp-ICP-MS is not yet considered a mature methodology. Standardization is necessary, particularly in assessing the reliability of size distribution measurements. This study aims to standardize sp-ICP-MS by assessing the reliability of size distribution measurements for polyvinylpyrrolidone-coated silver nanoparticles and quantifying the input quantities contributing to uncertainties. The uncertainties in calibration, repeatability, and trueness were evaluated based on the thresholds defined by International Organization for Standardization (ISO) standards. Calibration uncertainty was found to be 8.1%, while repeatability was 0.04%, both within the stipulated range of less than 10%. The expanded uncertainty was calculated to be 17%, with a 95% coverage probability for the reference material. Limits of detection (LOD) and quantification (LOQ) for dissolved concentration, particles per mL, and size were determined to be 0.37 µg L–1, 97.5 particles mL–1, and 24.6 nm, respectively. These results demonstrate that the reliability and repeatability of sp-ICP-MS meet ISO-defined thresholds, suggesting that with further standardization, sp-ICP-MS could become a reliable methodology for nanoparticle analysis.
+categories: [article]
+citation: 
+  container-title: "Journal of the Brazilian Chemical Society"
+  doi: "10.21577/0103-5053.20250011"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of the Uncertainty in the Measurement of Nanoparticle Size and Concentration by Single Particle Inductively Coupled Plasma Mass Spectrometry Technique</li>
+  </ol>
+</nav>

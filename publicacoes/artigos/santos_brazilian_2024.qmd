@@ -34,4 +34,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Brazilian Consensus on the Application of Thermal Ablation for Treatment of Thyroid Nodules: A Task Force Statement by the Brazilian Society of Interventional Radiology and Endovascular Surgery (SOBRICE), Brazilian Society of Head and Neck Surgery (SBCCP), and Brazilian Society of Endocrinology and Metabolism (SBEM)</li>
   </ol>
 </nav>
-```

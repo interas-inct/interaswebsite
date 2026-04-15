@@ -1,0 +1,30 @@
+---
+title: "Microplastics and POPs on the Southwestern Atlantic deep-sea floor: a study of megafauna and sediments"
+date: 2026-03-01
+author:
+  - name: Stefanelli-Silva, Gabriel
+  - name: De Melo, Marcelo R.S.
+  - name: Pascoal, Diego R.C.
+  - name: Dipold, Jessica
+  - name: Wetter, Niklaus U.
+  - name: Freitas, Anderson Z.
+  - name: Taniguchi, Satie
+  - name: Montone, Rosalinda C.
+  - name: Sumida, Paulo Y.G.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Marine Pollution Bulletin"
+  volume: 224
+  doi: "10.1016/j.marpolbul.2025.119148"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Microplastics and POPs on the Southwestern Atlantic deep-sea floor: a study of megafauna and sediments</li>
+  </ol>
+</nav>

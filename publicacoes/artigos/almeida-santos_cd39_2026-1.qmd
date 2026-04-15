@@ -1,0 +1,39 @@
+---
+title: "CD39 regulates P2RX7-mediated lung necrotic lesions in severe experimental tuberculosis"
+date: 2026-03-01
+author:
+  - name: Almeida-Santos, Gislane
+  - name: Santiago-Carvalho, Igor
+  - name: Almeida, Fabrício Moreira
+  - name: Barbosa Bomfim, Caio César
+  - name: Santos E Silva, Juan Carlo
+  - name: Cantarini, Deborah Giovanna
+  - name: Silva, Camila Ramos
+  - name: Ribeiro, Martha Simões
+  - name: Do Nascimento, Rogério Silva
+  - name: De Gois Macedo, Bruna
+  - name: Lisboa Raeder, Paulo Henrique
+  - name: Teixeira-Xavier Junior, Joaquim
+  - name: Alvarez, José Maria
+  - name: Hirata, Mario Hiroyuki
+  - name: Coutinho-Silva, Robson
+  - name: Robson, Simon C.
+  - name: Amaral, Eduardo Pinheiro
+  - name: Lasunskaia, Elena
+  - name: D’Império Lima, Maria Regina
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Mucosal Immunology"
+  doi: "10.1016/j.mucimm.2026.03.007"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">CD39 regulates P2RX7-mediated lung necrotic lesions in severe experimental tuberculosis</li>
+  </ol>
+</nav>

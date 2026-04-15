@@ -1,0 +1,39 @@
+---
+title: "Explainability and privacy in AI-enabled crop monitoring: Trends and future directions in soybean research"
+date: 2026-03-01
+author:
+  - name: Barbedo, Jayme Garcia Arnal
+  - name: Da Silva, Marcelo Santos
+  - name: Cazzolato, Mirela Teixeira
+  - name: Valem, Lucas Pascotti
+  - name: Tinós, Renato
+  - name: Romero, Roseli Aparecida Francelin
+  - name: Murta, Luiz Otavio
+  - name: De Jesus Holanda, Adriano
+  - name: Felipe, Joaquim Cezar
+  - name: Pinheiro, José Baldin
+  - name: Chagas, José Tiago Barroso
+  - name: Da Silva, Roberto Fray
+  - name: Tetila, Everton Castelão
+  - name: De Castro Jorge, Lucio Andre
+  - name: Yuan, Huaqiang
+  - name: Li, Weiling
+  - name: Kotecha, Ketan
+  - name: Zhao, Liang
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Computers and Electronics in Agriculture"
+  volume: 243
+  doi: "10.1016/j.compag.2025.111392"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Explainability and privacy in AI-enabled crop monitoring: Trends and future directions in soybean research</li>
+  </ol>
+</nav>

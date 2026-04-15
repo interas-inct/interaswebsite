@@ -1,0 +1,33 @@
+---
+title: "ATR-FTIR and confocal microscopy evaluation of irrigation protocols: correlating dentin alteration and biofilm reduction"
+date: 2025-12-01
+author:
+  - name: Costa, Vanessa Abreu Sanches Marques
+  - name: Zancan, Rafaela Fernandes
+  - name: Tartari, Talita
+  - name: Albino, Carla Regina
+  - name: Weckwerth, Paulo Henrique
+  - name: Bachmann, Luciano
+  - name: Coelho, Letycia Accioly Simões
+  - name: Alcalde, Murilo Priori
+  - name: Da Silva, Guilherme Ferreira
+  - name: Duarte, Marco Antonio Hungaro
+  - name: Vivan, Rodrigo Ricci
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Clinical Oral Investigations"
+  volume: 29
+  issue: 12
+  doi: "10.1007/s00784-025-06662-1"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">ATR-FTIR and confocal microscopy evaluation of irrigation protocols: correlating dentin alteration and biofilm reduction</li>
+  </ol>
+</nav>

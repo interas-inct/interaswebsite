@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Evaluation of low-kV energy X-ray radiation effect on breast cancer cells incubated with gold nanoparticles capped with aminolevulinic acid, methyl aminolevulinate, and gamma-aminobutyric acid</li>
   </ol>
 </nav>
-```

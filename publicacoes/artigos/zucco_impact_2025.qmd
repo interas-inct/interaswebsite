@@ -33,4 +33,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Impact of crack cocaine on salivary nucleic acids, enzymes, esters, and lipids: A fourier-transform infrared spectroscopy study</li>
   </ol>
 </nav>
-```

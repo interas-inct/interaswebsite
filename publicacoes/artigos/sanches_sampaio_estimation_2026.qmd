@@ -1,0 +1,27 @@
+---
+title: "Estimation of skin optical properties with a Monte Carlo simulation and a genetic algorithm"
+date: 2026-01-20
+author:
+  - name: Sanches Sampaio, Murilo
+  - name: Barbosa Da Cruz Junior, Luismar
+  - name: Tinós, Renato
+  - name: Tan Moriyama, Lilian
+  - name: Bachmann, Luciano
+abstract: > 
+  Designing laser-based therapies and diagnostics requires knowledge of the tissue’s optical properties in order to avoid adverse effects such as burns and overdosing. These optical properties are usually estimated from measured reflectance and Monte Carlo (MC) light transport models, but most existing MC databases are built by sweeping parameters uniformly and often yield spectra that sit outside the range of real skin tones. This study closes this gap by guiding MC simulations with a color-space constraint. A three-layer skin model was implemented in PyXOpto, parameterized by biologically relevant variables and optimized by a genetic algorithm (GA) to ensure that the simulated colors remain within the bounds of the individual typology angle (ITA ∘ ). Validation against ex vivo human skin demonstrates high accuracy for different skin tones. These results indicate that the color-constrained framework can replicate and estimate the optical properties of real skin.
+categories: [article]
+citation: 
+  container-title: "Applied Optics"
+  volume: 65
+  issue: 3
+  doi: "10.1364/AO.579461"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Estimation of skin optical properties with a Monte Carlo simulation and a genetic algorithm</li>
+  </ol>
+</nav>

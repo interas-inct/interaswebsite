@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Caries Preventive Action of Nd:YAG and Fluoride in Three Different pH Conditions: FTIR Spectroscopy and SEM Evaluation</li>
   </ol>
 </nav>
-```

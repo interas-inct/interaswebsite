@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Thyroid hemiagenesis: description of two clinical cases, anatomical review, and critical synthesis of the literature</li>
   </ol>
 </nav>
-```

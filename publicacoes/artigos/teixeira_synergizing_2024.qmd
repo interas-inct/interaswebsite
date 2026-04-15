@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Synergizing Immune Balance: Curcumin Gold Nanoparticles and Ultrasound Irradiation for Macrophage Down-Regulation</li>
   </ol>
 </nav>
-```

@@ -1,0 +1,33 @@
+---
+title: "Burden of diffuse myocardial fibrosis assessed by cardiac magnetic resonance in repaired tetralogy of Fallot: A systematic review and meta-analysis"
+date: 2025-12-01
+author:
+  - name: Secco, José Carlos P.
+  - name: Schaustz, Eduardo
+  - name: Innocenzi, Adriana M.
+  - name: Fernandes, Fernanda.P.
+  - name: Medei, Emiliano
+  - name: Silvestre-Sousa, Andréa
+  - name: Camargo, Gabriel C.
+  - name: Luiz, Ronir R.
+  - name: Moreira, Jessica P.L.
+  - name: Magliano, Carlos A.S.
+  - name: Moll-Bernardes, Renata
+  - name: Póvoa-Corrêa, Mariana
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "International Journal of Cardiology Congenital Heart Disease"
+  volume: 22
+  doi: "10.1016/j.ijcchd.2025.100631"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Burden of diffuse myocardial fibrosis assessed by cardiac magnetic resonance in repaired tetralogy of Fallot: A systematic review and meta-analysis</li>
+  </ol>
+</nav>

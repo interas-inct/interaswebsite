@@ -1,0 +1,28 @@
+---
+title: "Remote team-based learning during COVID-19: lower academic performance is associated with the exclusion of test grades from final grades"
+date: 2025-01-24
+author:
+  - name: Magdalon, Juliana
+  - name: Matos, Leandro Luongo
+  - name: Aun, Marcelo Vivolo
+  - name: Madeira, Marcelo
+  - name: Pereira, Welbert De Oliveira
+  - name: Daniel, Durval Anibal
+  - name: Pires, Elda Maria Stafuzza Gonçalves
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Einstein (São Paulo)"
+  volume: 23
+  doi: "10.31744/einstein_journal/2025AO1007"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Remote team-based learning during COVID-19: lower academic performance is associated with the exclusion of test grades from final grades</li>
+  </ol>
+</nav>

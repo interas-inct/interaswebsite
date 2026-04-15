@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Comparison of biofilm models for producing artificial active white spot lesions</li>
   </ol>
 </nav>
-```

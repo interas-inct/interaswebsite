@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">In Vitro Bactericidal Activity of Biogenic Copper Oxide Nanoparticles for textitNeisseria gonorrhoeae with Enhanced Compatibility for Human Cells</li>
   </ol>
 </nav>
-```

@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Management of Stage III Oral Cavity Squamous Cell Carcinoma in Light of the New Staging System: a Critical Review</li>
   </ol>
 </nav>
-```

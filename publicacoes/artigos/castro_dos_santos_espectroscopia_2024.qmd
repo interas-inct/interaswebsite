@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Espectroscopia FT-IR para avaliação de pacientes com pré-diabetes Nidia</li>
   </ol>
 </nav>
-```

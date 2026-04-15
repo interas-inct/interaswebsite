@@ -1,0 +1,32 @@
+---
+title: "Unveiling the Effect of Scanning Speed on the Corrosion and Tribological Performance of Electron Beam Melted (EBM) Ti-6Al-4V-ELI Alloy"
+date: 2025-11-28
+author:
+  - name: Pieretti, Eurico Felix
+  - name: Piaggio, Davide
+  - name: Antunes, Renato Altobelli
+  - name: De Oliveira, Mara Cristina Lopes
+  - name: Da Silva, Luís Carlos Elias
+  - name: Silva, Camila Ramos
+  - name: Yoshimura, Tania Mateus
+  - name: De Rossi, Wagner
+  - name: Ribeiro, Martha Simões
+  - name: Das Neves, Maurício David Martins
+abstract: > 
+  The influence of electron beam melting (EBM) scan speed on the corrosion, nano-biotribological, and cellular adhesion properties of Ti-6Al-4V-ELI (extra low interstitials) was systematically investigated. Specimens were fabricated using five different scanning speeds, and tribological performance was assessed via reciprocating dry wear tests, while corrosion behaviour was evaluated through monitoring the open circuit potential and anodic potentiodynamic polarization tests in Ringer’s solution. Human fibroblasts from the FN1 cell line were used to assess cell adhesion. Specimens produced using scanning speeds of 4530 mm·s−1 and 4983 mm·s−1 exhibited increased passive current densities, indicating reduced corrosion protection, although all surfaces maintained the passive film characteristic. Tribological behaviour was strongly dependent on scan speed, with wear rate and penetration depth increasing at higher speeds; notably, an intermediate scan speed produced a surface with minimal wear and penetration depth despite a wide wear track, suggesting enhanced resistance to tribological degradation. Fibroblast cultures demonstrated robust adhesion and spindle-shaped morphology across all samples, with the disk produced using a scanning speed of 4983 mm·s−1 showing the highest surface coverage, highlighting the role of EBM process parameters in modulating surface properties relevant to cell–biomaterial interactions. These findings underscore the critical influence of scan speed on the multifunctional performance of Ti-6Al-4V-ELI for biomedical applications.
+categories: [article]
+citation: 
+  container-title: "Materials"
+  volume: 18
+  issue: 23
+  doi: "10.3390/ma18235367"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Unveiling the Effect of Scanning Speed on the Corrosion and Tribological Performance of Electron Beam Melted (EBM) Ti-6Al-4V-ELI Alloy</li>
+  </ol>
+</nav>

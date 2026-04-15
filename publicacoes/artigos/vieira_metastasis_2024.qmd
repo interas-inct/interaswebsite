@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Metastasis to the ciliary body and iris from a parotid carcinoma</li>
   </ol>
 </nav>
-```

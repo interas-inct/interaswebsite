@@ -1,0 +1,25 @@
+---
+title: "Nitric oxide tuning enhances cytotoxicity and reduces inflammation in prostate cancer nanotherapy"
+date: 2025-10-01
+author:
+  - name: Pieretti, Joana Claudio
+  - name: Armentano, Giovana Marchini
+  - name: Carneiro-Ramos, Marcela Sorelli
+  - name: Seabra, Amedea Barozzi
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Nitric Oxide"
+  volume: 158
+  doi: "10.1016/j.niox.2025.08.001"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Nitric oxide tuning enhances cytotoxicity and reduces inflammation in prostate cancer nanotherapy</li>
+  </ol>
+</nav>

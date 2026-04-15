@@ -1,0 +1,29 @@
+---
+title: "One Strain Many Compounds Approach for Anti- textitTrypanosoma cruzi Compounds: Empowering the Marine Bacterium textitMetabacillus indicus"
+date: 2025-05-01
+author:
+  - name: Andrade, Beatriz A.
+  - name: Dos Santos, Augusto L.
+  - name: Ferreira, Dayana A. S.
+  - name: Abiuzi, Mariana B.
+  - name: Vieira, Daniel P.
+  - name: Gonçalves, Marina M.
+  - name: Lago, João Henrique G.
+  - name: Sartorelli, Patricia
+  - name: Tempone, Andre G.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "ACS Omega"
+  doi: "10.1021/acsomega.4c10784"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">One Strain Many Compounds Approach for Anti- textitTrypanosoma cruzi Compounds: Empowering the Marine Bacterium textitMetabacillus indicus</li>
+  </ol>
+</nav>

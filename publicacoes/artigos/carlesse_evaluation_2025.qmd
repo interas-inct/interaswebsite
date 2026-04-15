@@ -1,0 +1,28 @@
+---
+title: "Evaluation of intraoperative subcutaneous anesthetic infiltration for pain management in patients undergoing total thyroidectomy"
+date: 2025-07-01
+author:
+  - name: Carlesse, Phamella
+  - name: Cardoso, Nathalia
+  - name: Harati, Tamara
+  - name: Lapichini, Bruna
+  - name: Partezani, Daniel Herman
+  - name: De Matos, Leandro Luongo
+  - name: Dedivitis, Rogério Aparecido
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101613"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of intraoperative subcutaneous anesthetic infiltration for pain management in patients undergoing total thyroidectomy</li>
+  </ol>
+</nav>

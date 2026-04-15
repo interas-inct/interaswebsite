@@ -30,4 +30,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Acquired Radiation Resistance Induces Thiol-dependent Cisplatin Cross-resistance</li>
   </ol>
 </nav>
-```

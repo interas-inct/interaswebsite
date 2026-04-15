@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Attenuation images of optical CT using Fricke xylenol orange gel for dose mapping in radiotherapy</li>
   </ol>
 </nav>
-```

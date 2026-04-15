@@ -1,0 +1,29 @@
+---
+title: "The brightness of lectins conjugated to quantum dots"
+date: 2025-04-01
+author:
+  - name: Lima, João V. A.
+  - name: Oliveira, Weslley F.
+  - name: Silva, Abdênego R.
+  - name: Melo, Francisco P. T.
+  - name: Ribeiro, Martha S.
+  - name: Cabral Filho, Paulo E.
+  - name: Fontes, Adriana
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Biophysical Reviews"
+  volume: 17
+  issue: 2
+  doi: "10.1007/s12551-025-01283-0"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">The brightness of lectins conjugated to quantum dots</li>
+  </ol>
+</nav>

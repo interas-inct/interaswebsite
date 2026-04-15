@@ -1,0 +1,29 @@
+---
+title: "Density functional theory to probe the structural and electronic properties of Pb2(PO4)2:x (x=Ce and V)"
+date: 2025-06-01
+author:
+  - name: De Assunção, João Marcos Batista
+  - name: Silva Machado Rodrigues, Jocelia
+  - name: Santos, Willian Oliveira
+  - name: Possa, Rosangela Dala
+  - name: De Novais, Erico Raimundo Pereira
+  - name: Machado, Aldimar Rodrigues
+  - name: Do Nascimento Souza, Divanizia
+  - name: De Lima Ferreira Novais, Andréa
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Computational Condensed Matter"
+  volume: 43
+  doi: "10.1016/j.cocom.2025.e01032"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Density functional theory to probe the structural and electronic properties of Pb2(PO4)2:x (x=Ce and V)</li>
+  </ol>
+</nav>

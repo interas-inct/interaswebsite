@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Investigation of dosimetric properties of CaSO4:Mn phosphor prepared using slow evaporation route</li>
   </ol>
 </nav>
-```

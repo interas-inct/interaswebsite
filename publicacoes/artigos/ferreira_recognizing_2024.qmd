@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Recognizing microplastic deposits on sandy beaches by altimetric positioning, μ-Raman spectroscopy and multivariate statistical models</li>
   </ol>
 </nav>
-```

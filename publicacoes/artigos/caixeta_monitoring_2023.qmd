@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Monitoring glucose levels in urine using FTIR spectroscopy combined with univariate and multivariate statistical methods</li>
   </ol>
 </nav>
-```

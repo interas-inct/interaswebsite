@@ -1,0 +1,29 @@
+---
+title: "Portable spatial frequency Domain imaging using Open-source tools"
+date: 2026-03-04
+author:
+  - name: Sampaio, Murilo S.
+  - name: Da Cruz Junior, Luismar B.
+  - name: Barros, Kaio B.
+  - name: Da Silva Oliveira, Julia C.
+  - name: F. G. Do Monte, Adamo
+  - name: Cunha, Diego M.
+  - name: Bachmann, Luciano
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Instrumentation Science & Technology"
+  volume: 54
+  issue: 2
+  doi: "10.1080/10739149.2025.2513279"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Portable spatial frequency Domain imaging using Open-source tools</li>
+  </ol>
+</nav>

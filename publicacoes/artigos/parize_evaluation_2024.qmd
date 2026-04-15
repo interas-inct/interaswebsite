@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Evaluation of Peri-Implantitis through Fourier-Transform Infrared Spectroscopy on Saliva</li>
   </ol>
 </nav>
-```

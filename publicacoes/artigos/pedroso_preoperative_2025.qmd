@@ -1,0 +1,39 @@
+---
+title: "Preoperative neoadjuvant chemotherapy or immunotherapy in head and neck cancer: A systematic review and meta-analysis of surgical risk and pathologic response"
+date: 2025-08-01
+author:
+  - name: Pedroso, Caique Mariano
+  - name: De Pauli Paglioni, Mariana
+  - name: Normando, Ana Gabriela Costa
+  - name: Chaves, Aline Lauda Freitas
+  - name: Kowalski, Luiz Paulo
+  - name: De Castro Júnior, Gilberto
+  - name: Matos, Leandro Luongo
+  - name: Willian Junior, William Nassib
+  - name: De Oliveira, Thiago Bueno
+  - name: De Marchi, Pedro
+  - name: Harada, Guilherme
+  - name: Mak, Milena Perez
+  - name: Lima, Carmen Silvia Passos
+  - name: Viani, Gustavo Arruda
+  - name: Moraes, Fabio Ynoe
+  - name: Gouveia, Andre Guimaraes
+  - name: Santos-Silva, Alan Roger
+  - name: Marta, Gustavo Nader
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Critical Reviews in Oncology/Hematology"
+  volume: 212
+  doi: "10.1016/j.critrevonc.2025.104742"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Preoperative neoadjuvant chemotherapy or immunotherapy in head and neck cancer: A systematic review and meta-analysis of surgical risk and pathologic response</li>
+  </ol>
+</nav>

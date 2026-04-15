@@ -32,4 +32,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Profile of MicroRNAs Associated with Death Due to Disease Progression in Metastatic Papillary Thyroid Carcinoma Patients</li>
   </ol>
 </nav>
-```

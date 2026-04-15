@@ -1,0 +1,31 @@
+---
+title: "Machine Learning for Predicting Malignant Transformation in Actinic Cheilitis: A Prognostic Support System Based on Demographic and Clinical Descriptors"
+date: 2026-01-19
+author:
+  - name: Correia‐Neto, Ivan José
+  - name: Da Costa, Alex Franco
+  - name: Araújo, Anna Luíza Damaceno
+  - name: Saldivia‐Siracusa, Cristina
+  - name: De Sá, Raísa Sales
+  - name: Pereira, Thiago Martini
+  - name: Vargas, Pablo Agustin
+  - name: Santos‐Silva, Alan Roger
+  - name: Kowalski, Luiz Paulo
+  - name: Moraes, Matheus Cardoso
+  - name: Lopes, Marcio Ajudarte
+abstract: > 
+  ABSTRACT Objective This study aimed to develop and evaluate Machine Learning models to predict the malignant transformation (MT) in patients with actinic cheilitis (AC). Methods Three hundred forty patients diagnosed with AC (322 in the no MT group, and 18 in the MT group) were carefully documented. The study used the Adaptive Synthetic Sampling to adaptively balance the dataset (322 in the no MT group and 319 in the MT group). Four supervised Machine Learning classifiers (Random Forest, Xtreme Gradient Boosting, Multilayer Perceptron, and Support Vector Machine) were trained and tested using 5‐fold cross‐validation to correlate inputs (clinical descriptors and demographic data) to outputs (MT). SHAP values were used to identify the most influential predictors of MT. Results The Xtreme Gradient Boosting model stood out, achieving 96.72% accuracy, 96.87% sensitivity, 96.57% specificity, 96.61% precision, 96.73% of F1‐Score, and 0.9498 AUC. Multilayer Perceptron showed the best sensitivity (98.44%), and Random Forest presented comparable results. In contrast, Support Vector Machine underperformed, with higher values of false negatives and false positives. Across models, ulceration, multifocality, and long‐standing lesions were the strongest predictors of MT, while small, asymptomatic, or solitary lesions were associated with lower risk. Conclusion The results revealed promising performance metrics for Xtreme Gradient Boosting and Multilayer Perceptron suggesting their potential value as tools in a support system for monitoring AC. Additionally, synthetic data proved constructive in training, enhancing the models' robustness and predictive capabilities.
+categories: [article]
+citation: 
+  container-title: "Journal of Oral Pathology & Medicine"
+  doi: "10.1111/jop.70113"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Machine Learning for Predicting Malignant Transformation in Actinic Cheilitis: A Prognostic Support System Based on Demographic and Clinical Descriptors</li>
+  </ol>
+</nav>

@@ -1,0 +1,33 @@
+---
+title: "Identification of Aerobic Salivary Microorganisms in Patients With Oral Squamous Cell Carcinoma Using MALDI‐TOF MS: Preliminary Findings From a Pilot Study"
+date: 2025-08-15
+author:
+  - name: Da Silva Moreira, Milena
+  - name: Schmitz, Giovanna
+  - name: De Sá Alves, Mariana
+  - name: Mendes, Maria Anita
+  - name: Alves, Mônica Ghislaine Oliveira
+  - name: Alves, Levy Anderson César
+  - name: Dias, Meriellen
+  - name: Bandeira, Celso Muller
+  - name: Nepomuceno, Gabrielle Luana Jimenez Teodoro
+  - name: Da Silva Martinho, Herculano
+  - name: Almeida, Janete Dias
+abstract: > 
+  ABSTRACT Rationale Oral squamous cell carcinoma (OSCC) is a multifactorial disease, and emerging evidence links the oral microbiome to its development. Rapid, noninvasive identification of salivary microorganisms may offer novel diagnostic and prognostic insights into oral cancer. Methods Salivary microbiota from OSCC patients and healthy individuals were analyzed using MALDI Biotyper. Saliva samples were cultured, and microbial identification was performed based on protein spectral profiles using an UltrafleXtreme MALDI‐TOF mass spectrometer. Results Thirteen OSCC patients (mean age 55 ± 11 years; 69% male) and nineteen healthy controls (mean age 55 ± 10 years; 79% male) were analyzed. Distinct microbial profiles were observed in OSCC patients, including pathogenic species previously associated with carcinogenesis, suggesting potential biomarkers for oral cancer. Conclusions The MALDI Biotyper is an effective, noninvasive tool for identifying salivary microbiota. Its application may support early diagnosis and prognosis of OSCC, reinforcing the significance of the oral microbiome in cancer etiology.
+categories: [article]
+citation: 
+  container-title: "Rapid Communications in Mass Spectrometry"
+  volume: 39
+  issue: 15
+  doi: "10.1002/rcm.10063"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Identification of Aerobic Salivary Microorganisms in Patients With Oral Squamous Cell Carcinoma Using MALDI‐TOF MS: Preliminary Findings From a Pilot Study</li>
+  </ol>
+</nav>

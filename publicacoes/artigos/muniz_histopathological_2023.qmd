@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Histopathological diagnosis of colon cancer using micro-FTIR hyperspectral imaging and deep learning</li>
   </ol>
 </nav>
-```

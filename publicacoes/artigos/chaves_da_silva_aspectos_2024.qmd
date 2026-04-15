@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">ASPECTOS A SEREM CONSIDERADOS EM AUDIODESCRIÇÃO DE IMAGENS EM FÍSICA COM VISTAS AO SEU ENTENDIMENTO POR PESSOAS COM DEFICIÊNCIA VISUAL</li>
   </ol>
 </nav>
-```

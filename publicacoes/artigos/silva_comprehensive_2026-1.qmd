@@ -1,0 +1,31 @@
+---
+title: "Comprehensive DFT study of the optoelectronic and thermomechanical properties of orthorhombic RbBaPO4 for device applications"
+date: 2026-04-01
+author:
+  - name: Silva, Carlos H.P.
+  - name: Santos, Marcelo F.S.
+  - name: De J. Pirôpo, Gilvan
+  - name: Cavalcanti, Ivana M.G.A.
+  - name: Lucena, Joéslei L.O.
+  - name: Novais, Érico R.P.
+  - name: Novais, Andrea L.F.
+  - name: Lalic, Milan V.
+  - name: Souza, Divanizia N.
+  - name: Dos S. Rezende, Marcos V.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Physica B: Condensed Matter"
+  volume: 728
+  doi: "10.1016/j.physb.2026.418404"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Comprehensive DFT study of the optoelectronic and thermomechanical properties of orthorhombic RbBaPO4 for device applications</li>
+  </ol>
+</nav>

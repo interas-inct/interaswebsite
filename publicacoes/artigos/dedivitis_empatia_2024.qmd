@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Empatia e espiritualidade em estudantes e residentes de Medicina</li>
   </ol>
 </nav>
-```

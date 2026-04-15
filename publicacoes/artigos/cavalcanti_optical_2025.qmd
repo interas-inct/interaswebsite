@@ -1,0 +1,26 @@
+---
+title: "Optical and structural properties of sunscreens evaluated by physical techniques with emphasis on zinc oxide: A critical review"
+date: 2025-12-01
+author:
+  - name: Cavalcanti, Ivana Mara Gomes Andersen
+  - name: Valeriano, Caio César Santos
+  - name: Marçal, Anderson Carlos
+  - name: De Lima Ferreira Novais, Andréa
+  - name: Do Nascimento Souza, Divanizia
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Applied Radiation and Isotopes"
+  volume: 226
+  doi: "10.1016/j.apradiso.2025.112217"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Optical and structural properties of sunscreens evaluated by physical techniques with emphasis on zinc oxide: A critical review</li>
+  </ol>
+</nav>

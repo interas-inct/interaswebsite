@@ -1,0 +1,31 @@
+---
+title: "Evaluation of Peri-Implantitis through Fourier-Transform Infrared Spectroscopy on Saliva"
+date: 2025-02-07
+author:
+  - name: Parize, Graziele
+  - name: Luana Jimenez, Gabrielle
+  - name: Shibli, Jamil Awad
+  - name: Siroma, Rafael
+  - name: Caetano, Matheus Willian
+  - name: Kim, Yeon Jung
+  - name: Braz-Silva, Paulo Henrique
+  - name: Da Silva Martinho, Herculano
+  - name: Pallos, Debora
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Proteome Research"
+  volume: 24
+  issue: 2
+  doi: "10.1021/acs.jproteome.4c00707"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of Peri-Implantitis through Fourier-Transform Infrared Spectroscopy on Saliva</li>
+  </ol>
+</nav>

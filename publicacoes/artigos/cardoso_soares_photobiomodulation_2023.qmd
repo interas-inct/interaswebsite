@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Photobiomodulation, Transmucosal Laser Irradiation of Blood, or B complex as alternatives to treat Covid-19 Related Long-Term Taste Impairment: double-blind randomized clinical trial</li>
   </ol>
 </nav>
-```

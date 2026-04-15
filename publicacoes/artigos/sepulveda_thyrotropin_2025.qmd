@@ -1,0 +1,35 @@
+---
+title: "Thyrotropin Modulates Calcium Handling and Contractility in Adult Cardiac Myocytes"
+date: 2025-11-01
+author:
+  - name: Sepúlveda, Marisa
+  - name: Racioppi, Florencia
+  - name: Burgos, Juan Ignacio
+  - name: Murillo, Alexandra
+  - name: Fernandez-Ruocco, Julieta
+  - name: Gonano, Luis
+  - name: Neiman, Gabriel
+  - name: Miriuka, Santiago
+  - name: Fellet, Andrea
+  - name: Casis, Oscar
+  - name: Medei, Emiliano
+  - name: Colareda, German
+  - name: Vila Petroff, Martín
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Heart, Lung and Circulation"
+  volume: 34
+  issue: 11
+  doi: "10.1016/j.hlc.2025.07.009"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Thyrotropin Modulates Calcium Handling and Contractility in Adult Cardiac Myocytes</li>
+  </ol>
+</nav>

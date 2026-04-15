@@ -1,0 +1,31 @@
+---
+title: "Long-Range Plume Transport from Brazilian Burnings to Urban São Paulo: A Remote Sensing Analysis"
+date: 2025-08-29
+author:
+  - name: Silva, Gabriel Marques Da
+  - name: Rodrigues, Mateus Fernandes
+  - name: Pelicer, Laura Silva
+  - name: Moreira, Gregori De Arruda
+  - name: Cacheffo, Alexandre
+  - name: Lopes, Fábio Juliano Da Silva
+  - name: Mello, Luisa D’Antola De
+  - name: Souza, Giovanni
+  - name: Landulfo, Eduardo
+abstract: > 
+  In 2024, Brazil experienced record-breaking wildfire activity, underscoring the escalating influence of climate change. This study examines the long-range transport of wildfire-generated aerosol plumes to São Paulo, combining multi-platform observations to trace their origin and properties. During August and September—a period marked by intense fire outbreaks in Pará and Mato Grosso do Sul—lidar measurements performed at São Paulo detected pronounced aerosol plumes. To investigate their source and characteristics, we integrated data from the Earth Cloud Aerosol and Radiation Explorer (EarthCARE) satellite, HYSPLIT back-trajectory modeling, and ground-based AERONET and Raman lidar measurements. Aerosol properties were derived from aerosol optical depth (AOD), Ångström exponent, and lidar ratio (LR) retrievals. Back-trajectory analysis identified three transport pathways originating from active fire zones, with coinciding AOD values (0.7–1.1) and elevated LR (60–100 sr), indicative of dense smoke plumes. Compositional analysis revealed a significant black carbon component, implicating wildfires near Corumbá (Mato Grosso do Sul) and São Félix do Xingu (Pará) as probable emission sources. These findings highlight the efficacy of satellite-based lidar systems, such as Atmospheric Lidar (ATLID) onboard EarthCARE, in atmospheric monitoring, particularly in data-sparse regions where ground instrumentation is limited.
+categories: [article]
+citation: 
+  container-title: "Atmosphere"
+  volume: 16
+  issue: 9
+  doi: "10.3390/atmos16091022"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Long-Range Plume Transport from Brazilian Burnings to Urban São Paulo: A Remote Sensing Analysis</li>
+  </ol>
+</nav>

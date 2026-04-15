@@ -32,4 +32,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Early-life metabolic dysfunction impairs cognition and mitochondrial function in mice</li>
   </ol>
 </nav>
-```

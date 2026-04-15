@@ -1,0 +1,29 @@
+---
+title: "An integrated platform for 2‐D and 3‐D optical and electrical mapping of arrhythmias in Langendorff‐perfused rabbit hearts"
+date: 2025-06-25
+author:
+  - name: Siles, Jimena
+  - name: Silva, Vinícius
+  - name: Neves, Tainan
+  - name: Sandoval, Italo
+  - name: Quadros, Angélica
+  - name: Weber, Giovanni
+  - name: Barquero, Óscar
+  - name: Uzelac, Ilija
+  - name: Salinet, João
+abstract: > 
+  Abstract Electrophysiological mapping is essential for understanding these mechanisms and guiding therapeutic treatments. However, approaches such as invasive electrical mapping, body surface mapping and electrocardiographic imaging face challenges, including low spatial resolution, far‐field interference and signal processing limitations. By contrast, panoramic optical mapping, using fluorescent dyes, offers high spatial resolution and allows direct measurement of cellular action potential ex situ . Can the integration of panoramic optical mapping with electrical mapping overcome the limitations of the above‐cited techniques and provide deeper insights into arrhythmic mechanisms? To investigate this, we developed an experimental setup that combines 3‐D panoramic optical mapping with multi‐electrode epicardial electrical mapping and non‐invasive electrical mapping (torso‐tank setup) for electrocardiographic imaging in Langendorff‐perfused rabbit hearts. Our results confirm the feasibility of using simultaneous optical and electrical mapping under sinus rhythm, as well as in atrial and ventricular arrhythmias, using time, frequency and phase analyses. During sinus rhythm and ventricular tachycardia, wavefront propagation showed concordance between modalities, where diverges are observed for atrial arrhythmias. Dominant frequency analysis could recover the frequency of activation better than the inverse of cycle length, and outcomes from all mapping modalities agreed. Reconstructed electrograms presented a good similarity compared to electrograms. By correlating optical and electrical mapping, clinically relevant arrhythmia markers and targets for ablation, from invasive and non‐invasive mapping can be better understood and localised. This platform could also serve as a test bed for studying drug effects, connecting changes from cellular action potential levels to whole‐heart electrophysiology. image Key points Cardiac arrhythmias are still a significant challenge in electrophysiology, with advancements in experimental and clinical research improving our understanding of mechanisms and target for ablation. Current electrical mapping technology, both invasive and non‐invasive, is used in science and by commercial systems to identify arrhythmic episodes and mechanisms, but has several limitations mimicking the true electrophysiology behaviour. Optical mapping uses fluorescent dyes to measure transmembrane action potentials with high spatial resolution. When combined with electrical mapping, it can enhance cardiac arrhythmia studies and mapping technologies. A novel 3‐D platform that integrates panoramic and electrical mapping techniques (epicardium, non‐invasive torso‐tank and electrocardiographic imaging) is presented and validated in isolated rabbit hearts, highlighting that the mapping strategies do not always agree, helping to further improve commercial systems.
+categories: [article]
+citation: 
+  container-title: "The Journal of Physiology"
+  doi: "10.1113/JP287815"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">An integrated platform for 2‐D and 3‐D optical and electrical mapping of arrhythmias in Langendorff‐perfused rabbit hearts</li>
+  </ol>
+</nav>

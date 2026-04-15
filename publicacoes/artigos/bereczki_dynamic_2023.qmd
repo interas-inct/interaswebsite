@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Dynamic stable ring resonator for high-power continuous single-frequency lasers: conditions for a compact resonator</li>
   </ol>
 </nav>
-```

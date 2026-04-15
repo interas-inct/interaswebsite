@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Strong Raman enhancement in structured colloids: localization of light</li>
   </ol>
 </nav>
-```

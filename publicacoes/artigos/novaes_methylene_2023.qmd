@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Methylene blue-mediated antimicrobial photodynamic therapy on chicken semen</li>
   </ol>
 </nav>
-```

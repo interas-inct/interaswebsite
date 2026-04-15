@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">X- ray experimental set-up for in-vitro nail test</li>
   </ol>
 </nav>
-```

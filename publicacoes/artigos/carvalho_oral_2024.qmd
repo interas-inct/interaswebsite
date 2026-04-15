@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Oral Mucosa and Saliva Alterations Related to Vape</li>
   </ol>
 </nav>
-```

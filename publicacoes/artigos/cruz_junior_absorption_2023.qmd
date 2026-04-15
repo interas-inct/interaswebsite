@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Absorption and reduced scattering coefficient estimation in pigmented human skin tissue by experimental colorimetric fitting</li>
   </ol>
 </nav>
-```

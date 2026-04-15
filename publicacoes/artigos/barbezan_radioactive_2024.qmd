@@ -33,4 +33,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Radioactive gold nanoparticles coated with BSA: A promising approach for prostate cancer treatment</li>
   </ol>
 </nav>
-```

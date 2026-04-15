@@ -42,4 +42,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Simultaneous profiling of dust aerosol mass concentration and optical properties with polarized high-spectral-resolution lidar</li>
   </ol>
 </nav>
-```

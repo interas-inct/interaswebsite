@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Proteção Radiológica em Ambientes de Medicina Veterinária de Aracaju: Observações de Inspeção Sanitária</li>
   </ol>
 </nav>
-```

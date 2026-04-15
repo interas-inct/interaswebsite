@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Revealing the intrinsic nature of Eu-doped lead phosphate: A study using density functional theory</li>
   </ol>
 </nav>
-```

@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">PANORAMA DOS EXAMES DE PET-CT – FDG- 18F NO CÂNCER DO COLO DO ÚTERO EM UMA INSTITUIÇÃO PRIVADA DO BRASIL</li>
   </ol>
 </nav>
-```

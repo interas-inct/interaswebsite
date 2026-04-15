@@ -1,0 +1,28 @@
+---
+title: "Artificial Intelligence in Laryngeal Cancer Management: Enhancing Guidelines or Redefining Standards?"
+date: 2025-12-01
+author:
+  - name: Dedivitis, Rogério Aparecido
+  - name: De Castro, Mario Augusto Ferrari
+  - name: Matos, Leandro Luongo
+  - name: Ribeiro, Daniel Araki
+  - name: Duarte, Bruno Pelison
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  ABSTRACT Objective To evaluate the accuracy of artificial intelligence (AI) in establishing clinical decision‐making in the treatment of advanced laryngeal cancer. Methods A structured question was elaborated for each of the seven recommendations chosen. Each Large Language Model (LLM) platform answered the questions. The Claude platform identified the differences between the guidelines and the responses generated and three specialists evaluated the impact of such differences. Results Of the 28 analyzed responses, 22 (78.6%) demonstrated content similarity with existing guidelines. Two responses showed that guidelines contained significantly more comprehensive content, three responses from LLMs provided additional content not demonstrated in the guidelines, and one response showed direct disagreement with established guidelines. Conclusion There was a 78.6% overlap in responses between guideline recommendations and LLMs. Therefore, while AI holds promise for transforming guideline creation, its integration into clinical practice must be carefully evaluated to ensure that it complements, rather than replaces, established expert‐driven protocols. Level of Evidence 4.
+categories: [article]
+citation: 
+  container-title: "Laryngoscope Investigative Otolaryngology"
+  volume: 10
+  issue: 6
+  doi: "10.1002/lio2.70296"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Artificial Intelligence in Laryngeal Cancer Management: Enhancing Guidelines or Redefining Standards?</li>
+  </ol>
+</nav>

@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Performance of cutting-tool patterns textured via ultrashort laser pulses in the turning of martensitic stainless steel under dry and lubricated conditions</li>
   </ol>
 </nav>
-```

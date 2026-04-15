@@ -1,0 +1,28 @@
+---
+title: "Cortisone Analysis by FTIR Spectroscopy: In Vitro Study"
+date: 2025-04-07
+author:
+  - name: Arcas, Luciana Paula Benício
+  - name: Da Silva, Sara Maria Santos Dias
+  - name: Arcas, Felipe Carlos Dias
+  - name: Alves, Flávio Henrique
+  - name: De Carvalho, Luís Felipe Das Chagas E Silva
+  - name: Amaral, Marina
+abstract: > 
+  Cortisol, known as the “stress hormone”, is vital for stress response, metabolism regulation, and immune function, and salivary cortisone reflects serum cortisol levels. The measurement of salivary cortisone levels has been proposed as an effective alternative method for estimating serum cortisol levels. Objective: This study aimed to evaluate the use of Fourier Transform Infrared Spectroscopy (FTIR) for salivary cortisone identification and quantification and to assess the impact of adding the surfactant TWEEN 80 to the analysis. Methods: Initially, cortisone was diluted in chloroform and methanol (5,000,000 µg/dL). FTIR spectra were obtained, and absorbance characteristics and peaks were identified. The spectrum of this initial dilution was processed using the Savitzky-Golay filter to evaluate peak heights at 1655 cm−1 and 1700 cm−1, and the effect of signal processing on these peaks was assessed. Additionally, two series of dilutions were performed by adding the surfactant TWEEN 80 at two different concentrations, and the effect of the surfactant on the cortisone spectra was evaluated to reduce noise and enhance the signal. Results: The spectra obtained from the cortisone solution were similar to those found in the literature for solid samples. The peak corresponding to the wavenumber range of 1600–1680 cm−1, related to the stretching bands of C=C, was found to be reliable for use in cortisone quantification studies. The standard deviation between the spectra of the same sample was less than 0.01. It was not possible to detect cortisone when TWEEN 80 was added; however, with signal processing, TWEEN 80 could be detected in quantities as low as 0.0033% of the solution. Conclusions: FTIR demonstrates potential as a non-invasive method for cortisone analysis. While Tween 80 aids in the dilution of cortisone in water, it obscures its spectrum.
+categories: [article]
+citation: 
+  container-title: "Processes"
+  volume: 13
+  issue: 4
+  doi: "10.3390/pr13041112"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Cortisone Analysis by FTIR Spectroscopy: In Vitro Study</li>
+  </ol>
+</nav>

@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Sialendoscopy for treatment of major salivary glands diseases: a comprehensive analysis of published systematic reviews and meta-analyses</li>
   </ol>
 </nav>
-```

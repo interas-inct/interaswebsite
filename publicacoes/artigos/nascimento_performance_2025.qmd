@@ -1,0 +1,26 @@
+---
+title: "Performance evaluation of a new dosimetric system for lens dosimetry made using 3D printing"
+date: 2025-07-01
+author:
+  - name: Nascimento, G.G.
+  - name: Rodrigues, O.
+  - name: Savi, M.
+  - name: Villani, D.
+  - name: Potiens, M.P.A.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Radiation Physics and Chemistry"
+  volume: 232
+  doi: "10.1016/j.radphyschem.2025.112701"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Performance evaluation of a new dosimetric system for lens dosimetry made using 3D printing</li>
+  </ol>
+</nav>

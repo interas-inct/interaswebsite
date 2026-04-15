@@ -1,0 +1,31 @@
+---
+title: "Unraveling the structural, optoelectronic, and mechanical properties of calcium sulfate"
+date: 2026-04-01
+author:
+  - name: Santos, Marcelo F.S.
+  - name: Silva, Carlos H.P.
+  - name: Cavalcanti, Ivana M.G.A.
+  - name: Junot, Danilo O.
+  - name: Silva, Anderson M.B.
+  - name: Rezende, Marcos V.S.
+  - name: Novais, Érico R.P.
+  - name: Caldas, Linda V.E.
+  - name: Novais, Andréa L.F.
+  - name: Souza, Divanizia N.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Computational Condensed Matter"
+  volume: 46
+  doi: "10.1016/j.cocom.2025.e01181"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Unraveling the structural, optoelectronic, and mechanical properties of calcium sulfate</li>
+  </ol>
+</nav>

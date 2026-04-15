@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Photodynamic therapy offers a novel approach to managing miltefosine-resistant cutaneous leishmaniasis</li>
   </ol>
 </nav>
-```

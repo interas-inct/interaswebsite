@@ -1,0 +1,28 @@
+---
+title: "Analysis of filters in the recovery of Cs, Co, U, and Th isotopes through chemical extraction"
+date: 2025-11-01
+author:
+  - name: Almeida, Matheus A. S.
+  - name: Silva, Paulo S. C.
+  - name: Raele, Marcus P.
+  - name: Vicente, Roberto
+  - name: Linhares, Horácio M. S. M. D.
+  - name: Neto, Miguel M.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Radioanalytical and Nuclear Chemistry"
+  volume: 334
+  issue: 11
+  doi: "10.1007/s10967-025-10502-7"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Analysis of filters in the recovery of Cs, Co, U, and Th isotopes through chemical extraction</li>
+  </ol>
+</nav>

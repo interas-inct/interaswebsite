@@ -1,0 +1,30 @@
+---
+title: "Sentinel lymph node biopsy in early oral cavity tumors: Evaluation of the oncologic efficacy compared to elective neck dissection"
+date: 2025-07-01
+author:
+  - name: Seferin, Marco Roberto
+  - name: Pinto, Fábio Roberto
+  - name: Lin, Chin Shien
+  - name: Leite, Ana Kober Nogueira
+  - name: Gimenes, Paulo Vitor Sola
+  - name: Dedivitis, Rogerio Aparecido
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Cernea, Claudio Roberto
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101639"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Sentinel lymph node biopsy in early oral cavity tumors: Evaluation of the oncologic efficacy compared to elective neck dissection</li>
+  </ol>
+</nav>

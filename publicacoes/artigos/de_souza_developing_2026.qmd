@@ -1,0 +1,26 @@
+---
+title: "Developing giant plasma membrane vesicles from textitLeishmania cells to investigate the role of membrane proteins in photodynamic inactivation"
+date: 2026-03-01
+author:
+  - name: De Souza, Maressa D. F.
+  - name: Ciancaglini, Pietro
+  - name: Itri, Rosangela
+  - name: Ribeiro, Martha S.
+abstract: > 
+  Abstract Interest in antimicrobial photodynamic therapy for treating cutaneous leishmaniasis has been rising, showing promising outcomes and good patient tolerance. In this study, we aimed to develop a protocol for producing giant plasma membrane vesicles (GPMVs) from Leishmania amazonensis promastigote cell membranes, focusing on the role of membrane‐embedded proteins during methylene blue (MB) photooxidation with red light. Membrane extraction was achieved via centrifugation with various sucrose gradients. We then generated GPMVs by electroformation, applying different frequencies and voltages over four cycles, and examined them using phase contrast optical microscopy. For MB photooxidation, GPMVs were dispersed in an aqueous solution with 50 μM MB and exposed to 665 nm light at 830 μW. A comparable approach was used for mimetic membranes (giant unilamellar vesicles, GUVs) made of Leishmania membrane lipids. MB photoactivation in GUVs caused a transient increase in membrane area and full permeability. Conversely, GPMVs showed an earlier onset of contrast loss but exhibited less overall contrast reduction and no expansion, indicating that membrane proteins in GPMVs modulate the response to oxidative stress. Real‐time monitoring revealed morphological changes in L. amazonensis promastigote cells consistent with apoptosis following photodynamic inactivation.
+categories: [article]
+citation: 
+  container-title: "Photochemistry and Photobiology"
+  volume: 102
+  issue: 2
+  doi: "10.1111/php.70000"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Developing giant plasma membrane vesicles from textitLeishmania cells to investigate the role of membrane proteins in photodynamic inactivation</li>
+  </ol>
+</nav>

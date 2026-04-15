@@ -1,0 +1,24 @@
+---
+title: "Processing and EPR characterization of europium, thulium co-doped yttria (YET) powders for radiation dosimetry"
+date: 2025-10-01
+author:
+  - name: Santos, S.C.
+  - name: Rodrigues, Jr O.
+  - name: Caldas, L.V. E.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Next Materials"
+  volume: 9
+  doi: "10.1016/j.nxmate.2025.101149"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Processing and EPR characterization of europium, thulium co-doped yttria (YET) powders for radiation dosimetry</li>
+  </ol>
+</nav>

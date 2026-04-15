@@ -1,0 +1,26 @@
+---
+title: "Porphyrin-coated gold nanoparticles associated with X-rays and proton therapy in the treatment of triple-negative breast cancer"
+date: 2026-01-01
+author:
+  - name: Silva, Camila Ramos
+  - name: Berionni, Guillaume
+  - name: Ribeiro, Martha Simões
+  - name: Heuskin, Anne-Catherine
+abstract: > 
+  AuNPs@TMPyP potentiate multimodal cancer therapy by redox imbalance and singlet oxygen under combined laser and ionizing radiation, resulting in enhanced triple-negative breast cancer death with reduced toxicity to healthy cells. Created with Biorender.com and DALL E 3. , Triple negative breast cancer (TNBC) is an aggressive subtype of breast cancer, known for its marked resistance to radiotherapy. Recent research has focused on developing innovative therapeutic strategies to overcome this challenge, with one promising approach being the combination of photodynamic therapy (PDT) and radiotherapy (RT). However, the potential of nanoparticles loaded with photosensitizers to enhance therapeutic efficacy, particularly in combination with charged particle therapies, such as proton therapy (PT), remains underexplored. In this study, we developed porphyrin-coated gold nanoparticles (AuNPs@TMPyP) to integrate PDT with RT using both photons and protons. PDT was performed using AuNPs@TMPyP (35 µg mL −1 gold content and 25 µM TMPyP) activated by a red laser (fluence: 40 J cm −2 ) and combined with either X-rays (225 kVp) or PT (10 keV µm −1 ). The combined treatment was evaluated for its effects on singlet oxygen generation, reactive oxygen species (ROS) production, mitochondrial membrane potential, and cell death pathways. Additionally, we assessed the survival fraction of both healthy and tumor breast cells. A 3D spheroid model was employed to further investigate the efficacy of the AuNPs@TMPyP-mediated PDT in combination with RT. Intracellular uptake of AuNPs@TMPyP significantly impaired antioxidant defenses, through reduction of thioredoxin reductase levels. Under combined treatment, we observed increased ROS production, reduced survival fraction, and loss of mitochondrial membrane potential, along with increased apoptosis. Our findings suggest that AuNPs@TMPyP-mediated PDT significantly enhances radiosensitization and amplifies the therapeutic response when combined with either X-rays or PT, while exhibiting selectivity toward tumor cells, positioning it as a promising strategy for treating TNBC.
+categories: [article]
+citation: 
+  container-title: "Nanoscale Advances"
+  volume: 8
+  issue: 6
+  doi: "10.1039/D5NA00927H"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Porphyrin-coated gold nanoparticles associated with X-rays and proton therapy in the treatment of triple-negative breast cancer</li>
+  </ol>
+</nav>

@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Immune Cells Are Differentially Modulated in the Heart and the Kidney during the Development of Cardiorenal Syndrome 3</li>
   </ol>
 </nav>
-```

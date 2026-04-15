@@ -1,0 +1,38 @@
+---
+title: "TROP2 Expression in Salivary Gland Adenoid Cystic Carcinoma (ACC) According to Histologic Subtype: Therapeutic Implications"
+date: 2025-09-01
+author:
+  - name: Siqueira, Juliana Mota
+  - name: Mitani, Yoshitsugu
+  - name: Marques‐Piubelli, Mario L.
+  - name: Hoff, Camilla Oliveira
+  - name: Bonini, Flavia
+  - name: De Sousa, Luana Guimaraes
+  - name: Mitani, Mutsumi
+  - name: Carvalho, Giovanna Lopes
+  - name: Nunes, Fabio Daumas
+  - name: Matos, Leandro Luongo
+  - name: Lin, Shiaw‐Yih
+  - name: Spiotto, Michael T.
+  - name: Hanna, Ehab Y.
+  - name: McGrail, Daniel J.
+  - name: El‐Naggar, Adel K.
+  - name: Ferrarotto, Renata
+abstract: > 
+  ABSTRACT Background Adenoid cystic carcinoma (ACC) is a common salivary gland carcinoma with high recurrence and distant metastasis rates. Currently, there is no standard systemic treatment available. TROP2 is a transmembrane glycoprotein involved in the oncogenesis of several tumors that can be therapeutically targeted by a TROP2‐antibody–drug conjugate (ADC). We aimed to characterize TROP2 expression in ACC and assess TROP2 as a potential therapeutic target. Methods TROP2 immunohistochemistry was performed in a tissue microarray including 165 ACC of salivary gland. The tumors were grouped according to the histological pattern as non‐solid, solid + non‐solid, or solid. TROP2 protein expression in ACC cell lines was assessed and subjected to drug screening with TROP2‐ADC. Results TROP2 expression was high in 59%, moderate in 30%, weak in 8%, and negative in 3% of cases. TROP2 expression was significantly higher in non‐solid compared with solid or solid + non‐solid ( p < 0.001). Notably, TROP2 expression was heterogenous among the dual cellular component, with TROP2 expression identified predominantly in the ductal and not in the myoepithelial cells. In vitro drug screening demonstrated that TROP2‐ADC had selective anti‐tumor effect in TROP2 expressing ACC cells. Conclusions TROP2 expression is prevalent in ACC, particularly in the ductal cell component of the non‐solid tumors. The pre‐clinical drug screening findings provide a biological rationale for exploring TROP2 as a therapeutic target in TROP2‐expressing ACC. Trial Registration clinicaltrials.gov : NCT05884320; NCI‐2023‐04260
+categories: [article]
+citation: 
+  container-title: "Journal of Oral Pathology & Medicine"
+  volume: 54
+  issue: 8
+  doi: "10.1111/jop.70008"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">TROP2 Expression in Salivary Gland Adenoid Cystic Carcinoma (ACC) According to Histologic Subtype: Therapeutic Implications</li>
+  </ol>
+</nav>

@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">A IMPORTÂNCIA DO TRATAMENTO ODONTOLÓGICOS EM PACIENTES SOB CUIDADOS PALIATIVOS</li>
   </ol>
 </nav>
-```

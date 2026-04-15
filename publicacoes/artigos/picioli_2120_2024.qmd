@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">2120: Dosimetric impact on fiducial array distortion for tracking in robotic radiosurgery: a phantom study</li>
   </ol>
 </nav>
-```

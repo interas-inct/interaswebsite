@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Study of the Effect of Nanosecond Laser Texturing on the Corrosion Behavior of Ti6Al4V and Ti6Al4V Parts Produced by Powder Bed Fusion</li>
   </ol>
 </nav>
-```

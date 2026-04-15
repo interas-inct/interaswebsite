@@ -1,0 +1,44 @@
+---
+title: "Challenges and Opportunities in Head and Neck Cancer Research in Developing Countries: Insights From a Fireside Chat"
+date: 2025-05-01
+author:
+  - name: Chaves, Aline Lauda Freitas
+  - name: Kowalski, Luiz Paulo
+  - name: Marta, Gustavo Nader
+  - name: Santos-Silva, Alan Roger
+  - name: Vieira Muniz, Luciana
+  - name: Mak, Milena Perez
+  - name: Gossling, Gustavo
+  - name: Guimaraes, Vítor Souza
+  - name: Oliveira De Castro Junior, Dalvaro
+  - name: De Oliveira, Thiago Bueno
+  - name: Lima, Carmen Silvia Passos
+  - name: Traldi Macedo, Ligia
+  - name: Jacinto, Alexandre Arthur
+  - name: Harada, Guilherme
+  - name: Barbosa, Malu Viter Da Rosa
+  - name: Santos, Izabella Costa
+  - name: Batalha Filho, Eronides Salustiano
+  - name: De Castro Junior, Gilberto
+  - name: De Marchi, Pedro Rafael Martins
+  - name: Matos, Leandro Luongo
+  - name: Curado, Maria Paula
+  - name: Mehanna, Hisham
+  - name: William, William Nassib
+abstract: > 
+  Head and neck squamous cell carcinoma (HNSCC) represents a significant public health burden in developing countries, where access to early diagnosis, comprehensive care, and research infrastructure is limited. This article synthesizes the insights generated during a Fireside Chat convened by members of the Latin American Cooperative Oncology Group (LACOG)—Head and Neck and the Brazilian Group of Head and Neck Cancer (GBCP), with the participation of international expert Professor Hisham Mehanna. The discussion addressed key challenges and opportunities in clinical and translational research within resource-constrained settings. Major themes included the unmet needs of patients with HNSCC, particularly regarding treatment-related toxicities and the need for biomarker-driven, personalized approaches. Barriers to research in low- and middle-income countries were explored, including patient comorbidities, late-stage presentation, and regulatory hurdles. The group emphasized the importance of pragmatic, context-sensitive research that reflects local disease burden, health care structures, and cultural factors. Capacity building, multidisciplinary teamwork, and integration of translational science into clinical care were highlighted as essential for advancing outcomes. The manuscript also outlines the preparedness of Brazilian centers for early-phase trials, strategies to enhance patient recruitment, and mechanisms to strengthen collaboration among researchers, governmental agencies, and industry. Successful models from LACOG and GBCP were presented to illustrate local leadership in advancing HNSCC research. Ultimately, the authors advocate for a coordinated national research agenda that positions Brazil and similar nations as meaningful contributors to the global head and neck cancer research landscape, fostering innovation while addressing the realities of under-represented populations.
+categories: [article]
+citation: 
+  container-title: "JCO Global Oncology"
+  issue: 11
+  doi: "10.1200/GO-25-00207"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Challenges and Opportunities in Head and Neck Cancer Research in Developing Countries: Insights From a Fireside Chat</li>
+  </ol>
+</nav>

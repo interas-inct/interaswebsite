@@ -1,0 +1,31 @@
+---
+title: "Rare Case of Vallecular Hemangioma With Complete Regression in an Adult Patient"
+date: 2026-02-01
+author:
+  - name: Agne, Guilherme Reimann
+  - name: Bento, Gustavo Nunes
+  - name: Belli, Marcelo
+  - name: Rossi, Camila Batista
+  - name: Lanzarin, Luciana Depiere
+  - name: Ogata, Daniel Cury
+  - name: Lira, Renan Bezerra
+  - name: Matos, Leandro Luongo
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "The Laryngoscope"
+  volume: 136
+  issue: 2
+  doi: "10.1002/lary.70128"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Rare Case of Vallecular Hemangioma With Complete Regression in an Adult Patient</li>
+  </ol>
+</nav>

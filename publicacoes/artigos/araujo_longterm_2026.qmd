@@ -1,0 +1,27 @@
+---
+title: "Long‐Term Control of Human Papillomavirus‐Related Focal Epithelial Hyperplasia in an Human Immunodeficiency Virus‐Positive Patient Using Methylene Blue‐Mediated Photodynamic Therapy. A Case Report"
+date: 2026-02-01
+author:
+  - name: Araújo, Juliana Cristina Oliverio De
+  - name: Paiva, Hermano Camelo
+  - name: Faara, Paula Margarida Meyer
+  - name: Junior, Og Fray
+  - name: Ribeiro, Martha Simões
+abstract: > 
+  ABSTRACT Background Human papillomavirus (HPV) infections are a major cause of oral lesions, and in individuals living with HIV, lesions such as focal epithelial hyperplasia (FEH) may persist or exhibit atypical features, potentially progressing to more severe conditions if untreated. Managing oral HPV lesions in immunocompromised patients is challenging, as conventional therapies may carry higher risks or show limited efficacy. Methods This study reports the case of a 49‐year‐old HIV‐positive male with valve disease and arthritis, requiring crutches for mobility. He presented with multiple painless oral lesions, diagnosed as FEH associated with oral HPV, and had previously undergone unsuccessful treatments. Photodynamic therapy (PDT) using methylene blue (MB) and a red laser was proposed as a treatment. Results Topical MB‐mediated PDT successfully cleared the FEH lesions, with no recurrence observed over 24 months. Conclusion PDT mediated by MB is an effective and affordable approach for treating FEH associated with HPV in immunosuppressed patients, offering favorable outcomes and improved quality of life.
+categories: [article]
+citation: 
+  container-title: "Lasers in Surgery and Medicine"
+  volume: 58
+  issue: 2
+  doi: "10.1002/lsm.70091"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Long‐Term Control of Human Papillomavirus‐Related Focal Epithelial Hyperplasia in an Human Immunodeficiency Virus‐Positive Patient Using Methylene Blue‐Mediated Photodynamic Therapy. A Case Report</li>
+  </ol>
+</nav>

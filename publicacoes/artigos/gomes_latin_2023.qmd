@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Latin America Optics and Photonics 2022: introduction to the feature issue</li>
   </ol>
 </nav>
-```

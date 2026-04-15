@@ -1,0 +1,33 @@
+---
+title: "Renewable Energy from Beach-Cast Seaweed: Calorific Power Heating Studies with Macroalgae"
+date: 2025-03-23
+author:
+  - name: Coelho, Fernando Pinto
+  - name: Sampaio, Everardo Valadares De Sá Barreto
+  - name: Barboza, Márcio Gomes
+  - name: Guedes-Coelho, Elica Amara Cecília
+  - name: Costa, Manoel Messias Da Silva
+  - name: Silva, Emerson Carlos Soares Da
+  - name: Carneiro, Victor Andrei Rodrigues
+  - name: Soares, Bruno Moreira
+  - name: França, Elvis Joacir De
+  - name: Menezes, Rômulo Simões Cezar
+  - name: Abreu, Cesar Augusto Moraes De
+abstract: > 
+  Some stretches of the Brazilian coast are regularly subject to a natural process of macroalgae deposition. In urban beach areas, public institutions responsible for cleaning collect this biomass and dispose of it in landfills. When this biomass is exposed to the sun for a long time in the littoral area, a decomposition process begins and causes greenhouse gas emission into the atmosphere. Macroalgae biomass is a natural resource that could be used for renewable energy, contributing to meeting the growing demand for low environmental impacts of energy, indicating the possibility of participating in sustainable development. The objective of this research was to evaluate the energetic potential of macroalgae biomass deposited on the Maceió coast; specifically, the combustion capacity of aggregate biomass and pellet biofuel produced with macroalgae. The research, which analysed 13 species, proceeded using a calorimetric pump methodology to determine the power heating value and a mass spectrophotometer to determine the available energetic chemical elements. The result of 8.82 MJ/Kg was similar to the main biomass used in Brazil, the sugarcane bagasse, evaluated at 8.91 MJ/Kg. Aggregated macroalgae biomass in condensed pellets with energetic composites obtained a value of 4823 Kcal/Kg, 1.2% more than the average of terrestrial biomass pellets. Therefore, these results show possibilities to produce biofuel using thermal energy from marine macroalgae biomass.
+categories: [article]
+citation: 
+  container-title: "Plants"
+  volume: 14
+  issue: 7
+  doi: "10.3390/plants14071005"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Renewable Energy from Beach-Cast Seaweed: Calorific Power Heating Studies with Macroalgae</li>
+  </ol>
+</nav>

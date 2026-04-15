@@ -1,0 +1,28 @@
+---
+title: "Physicochemical characterization of red pitaya (Hylocereus sp.) peel flour using FT-IR, Raman, and EPR spectroscopy: Effects of γ-irradiation on its intrinsic properties"
+date: 2026-08-01
+author:
+  - name: Rondán-Flores, Luz M.
+  - name: Villavicencio, Anna L.C.H.
+  - name: De Castro, Dione Pereira
+  - name: Wetter, Niklaus Ursus
+  - name: Rao, T.K. Gundu
+  - name: Canaza, Edwar A.
+  - name: Cano, Nilo F.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy"
+  volume: 356
+  doi: "10.1016/j.saa.2026.127720"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Physicochemical characterization of red pitaya (Hylocereus sp.) peel flour using FT-IR, Raman, and EPR spectroscopy: Effects of γ-irradiation on its intrinsic properties</li>
+  </ol>
+</nav>

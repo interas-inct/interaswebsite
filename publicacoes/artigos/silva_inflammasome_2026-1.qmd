@@ -1,0 +1,32 @@
+---
+title: "Inflammasome Activation by Neutrophil Extracellular Traps (NETs) in the MDA-MB-231 Human Breast Cancer Cell Line"
+date: 2026-02-27
+author:
+  - name: Silva, Alexander Gonçalves Da
+  - name: Pereira, Evellyn
+  - name: Almeida, Vitor H.
+  - name: Pinto, Laryssa D.
+  - name: Souza, Juliana L.
+  - name: Tilli, Tatiana M.
+  - name: Coutinho-Silva, Robson
+  - name: Medei, Emiliano
+  - name: Konig, Sandra
+  - name: Monteiro, Robson Q.
+abstract: > 
+  Inflammation is a key feature in breast cancer progression, with neutrophil extracellular traps (NETs) playing an important role. NETs are DNA-based structures released by neutrophils that can promote tumor adhesion, invasion, and immune evasion. Another crucial mechanism is the inflammasome, a multiprotein complex that drives inflammation through cytokine release. Both mechanisms are present in tumors and may act synergistically. In this study, we evaluated how isolated NETs modulate the NLRP3 inflammasome in a human breast cancer model. Exposure of MDA-MB-231 cells to NETs increased the expression of NLRP3, CASP1, and IL1B. Blocking IL-1R with Anakinra reduced IL1B expression, while inhibition of the P2X7 receptor with A740003 decreased NLRP3 and IL1B. ELISA confirmed that NETs stimulate IL-1β release, which was reduced by MCC950, Anakinra, and A740003. Functionally, NETs accelerated tumor cell migration, and this effect was inhibited by MCC950 and Anakinra. Bioinformatics analysis of TCGA breast cancer samples showed differential inflammasome gene expression among subtypes and a positive correlation between inflammasome components and NET-related genes. These findings highlight the interplay between inflammatory and immune mechanisms in breast cancer progression and may support the development of new therapeutic strategies.
+categories: [article]
+citation: 
+  container-title: "International Journal of Molecular Sciences"
+  volume: 27
+  issue: 5
+  doi: "10.3390/ijms27052230"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Inflammasome Activation by Neutrophil Extracellular Traps (NETs) in the MDA-MB-231 Human Breast Cancer Cell Line</li>
+  </ol>
+</nav>

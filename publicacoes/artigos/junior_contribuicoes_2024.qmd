@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">CONTRIBUIÇÕES DO PET/CT FDG-18F NA DETECÇÃO DE DOENÇA AVANÇADA NO CÂNCER DE MAMA</li>
   </ol>
 </nav>
-```

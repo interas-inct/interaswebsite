@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Diabetes Monitoring through Urine Analysis Using ATR-FTIR Spectroscopy and Machine Learning</li>
   </ol>
 </nav>
-```

@@ -38,4 +38,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Detection of serum biomarkers of HPV-16 driven oropharynx and oral cavity cancer in Brazil</li>
   </ol>
 </nav>
-```

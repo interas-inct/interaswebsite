@@ -1,0 +1,29 @@
+---
+title: "Integrated palliative care for patients with advanced head and neck cancer: a retrospective Brazilian cohort study of its impact at the end of life"
+date: 2025-09-08
+author:
+  - name: Eugenio, Cecilia
+  - name: Cernea, Claudio Roberto
+  - name: Kulcsar, Marco Aurelio Vamondes
+  - name: Chiba, Toshio
+  - name: Hojaij, Flavio Carneiro
+  - name: Ferreira, Giovanna Mattos
+  - name: Cerqueira, Yasmin Sá
+  - name: Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "einstein (São Paulo)"
+  volume: 23
+  doi: "10.31744/einstein_journal/2025AO1768"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Integrated palliative care for patients with advanced head and neck cancer: a retrospective Brazilian cohort study of its impact at the end of life</li>
+  </ol>
+</nav>

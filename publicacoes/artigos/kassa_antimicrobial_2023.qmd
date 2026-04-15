@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Antimicrobial photodynamic therapy mediated by methylene blue in surfactant vehicle as adjuvant to periodontal treatment. Randomized, controlled, double-blind clinical trial</li>
   </ol>
 </nav>
-```

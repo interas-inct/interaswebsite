@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">FRENECTOMIA LINGUAL COM LASER DE ALTA POTÊNCIA EM PACIENTE COM TRANSTORNO DO ESPECTRO AUTISTA - RELATO DE CASO</li>
   </ol>
 </nav>
-```

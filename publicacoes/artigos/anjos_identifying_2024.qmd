@@ -31,4 +31,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Identifying the Molecular Fingerprint of Beta-Lactams via Raman/SERS Spectroscopy Using Unconventional Nanoparticles for Antimicrobial Stewardship</li>
   </ol>
 </nav>
-```

@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Impact of extreme wildfires from the Brazilian Forests and sugarcane burning on the air quality of the biggest megacity on South America</li>
   </ol>
 </nav>
-```

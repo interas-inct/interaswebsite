@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Review of Advances in Coating and Functionalization of Gold Nanoparticles: From Theory to Biomedical Application</li>
   </ol>
 </nav>
-```

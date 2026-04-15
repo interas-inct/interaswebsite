@@ -1,0 +1,31 @@
+---
+title: "Machine learning combined with infrared spectroscopy for detection of hypertension pregnancy: towards newborn and pregnant blood analysis"
+date: 2025-03-27
+author:
+  - name: Da Silva, Sara Maria Santos Dias
+  - name: Nogueira, Marcelo Saito
+  - name: Rizzato, Jaqueline Maria Brandão
+  - name: De Lima Silva, Simone
+  - name: Cortelli, Sheila Cavalca
+  - name: Borges, Roger
+  - name: Da Silva Martinho, Herculano
+  - name: Silva, Rodrigo Augusto
+  - name: Das Chagas E Silva De Carvalho, Luis Felipe
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "BMC Pregnancy and Childbirth"
+  volume: 25
+  issue: 1
+  doi: "10.1186/s12884-024-06941-x"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Machine learning combined with infrared spectroscopy for detection of hypertension pregnancy: towards newborn and pregnant blood analysis</li>
+  </ol>
+</nav>

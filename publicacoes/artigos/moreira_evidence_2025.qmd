@@ -1,0 +1,46 @@
+---
+title: "Evidence of the consequences of the prolonged fire season on air quality and public health from 2024 São Paulo (Brazil) data"
+date: 2025-08-04
+author:
+  - name: Moreira, Gregori De A.
+  - name: Carbone, Samara
+  - name: Guerrero-Rascado, Juan Luis
+  - name: Andrade, Izabel Da S.
+  - name: Cacheffo, Alexandre
+  - name: Vélez-Pereira, Andrés M.
+  - name: Zamora-Ledezma, Ezequiel
+  - name: Thielen, Dirk
+  - name: Gomes, Antonio A.
+  - name: Duarte, Ediclê De S. F.
+  - name: Landulfo, Eduardo
+  - name: Lopes, Fábio J. Da S.
+  - name: Aveiro, Henrique M. P.
+  - name: Da Silva, Jonatan J.
+  - name: Pallotta, Juan
+  - name: Pelicer, Laura S.
+  - name: Souza, Luiz G. E.
+  - name: Tames, Maria F.
+  - name: Costa, Maria J.
+  - name: Puig, Marlon M. C.
+  - name: Cárdenas, Mary Luz Puche
+  - name: Rosa, Náiade R.
+  - name: Cariñanos, Paloma
+  - name: Diaz, Thiago P.
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Scientific Reports"
+  volume: 15
+  issue: 1
+  doi: "10.1038/s41598-025-08542-w"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Evidence of the consequences of the prolonged fire season on air quality and public health from 2024 São Paulo (Brazil) data</li>
+  </ol>
+</nav>

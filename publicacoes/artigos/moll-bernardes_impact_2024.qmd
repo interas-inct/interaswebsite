@@ -46,4 +46,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Impact of the immune profiles of hypertensive patients with and without obesity on COVID-19 severity</li>
   </ol>
 </nav>
-```

@@ -18,4 +18,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">First record of microplastic contamination in endemic Amazonian anurans: Can the size and behavior of species influence contamination?</li>
   </ol>
 </nav>
-```

@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">External Root Temperature and Its Relationship With Dentin Thickness During Gutta-Percha Removal Procedures With Ultrasound. An Ex Vivo Study</li>
   </ol>
 </nav>
-```

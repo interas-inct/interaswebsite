@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Chronic exposure to nitric oxide sensitizes prostate cancer cells and improved ZnO/CisPt NPs cytotoxicity and selectivity</li>
   </ol>
 </nav>
-```

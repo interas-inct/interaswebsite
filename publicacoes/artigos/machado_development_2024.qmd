@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Development of a pulsed laser deposition system suitable for radioactive thin films growth</li>
   </ol>
 </nav>
-```

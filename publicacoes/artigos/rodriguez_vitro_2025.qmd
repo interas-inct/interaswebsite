@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">In vitro study of the effects of diode laser on dentin hypersensitivity and evaluation of intra-pulpal temperature variation</li>
   </ol>
 </nav>
-```

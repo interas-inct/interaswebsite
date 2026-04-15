@@ -1,0 +1,31 @@
+---
+title: "Comparative FT-IR Spectroscopy Salivary Profiles of University Students: E-Cigarette Users vs Nonusers"
+date: 2026-01-13
+author:
+  - name: Ferreira, Camila Lopes
+  - name: Rocha, Emanuelly Caroline Dos Santos
+  - name: Reis, Yasmin Ferreira Azevedo Dos
+  - name: Zanon Guimarães, Raphael
+  - name: Silva, Sara Maria Santos Dias Da
+  - name: Paiva, Rodrigo Teodoro Gomes De
+  - name: Moraes, Jean Patrick Dos Santos
+  - name: Dos Santos, Laurita
+  - name: Carvalho, Luis Felipe Das Chagas E Silva De
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "ACS Omega"
+  volume: 11
+  issue: 1
+  doi: "10.1021/acsomega.5c10219"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Comparative FT-IR Spectroscopy Salivary Profiles of University Students: E-Cigarette Users vs Nonusers</li>
+  </ol>
+</nav>

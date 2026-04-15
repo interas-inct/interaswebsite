@@ -40,4 +40,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Immune Profile and MRI-Detected Cardiac Fibrosis and Edema in Hypertensive and Non-Hypertensive Patients with COVID-19</li>
   </ol>
 </nav>
-```

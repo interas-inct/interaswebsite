@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Recognition of breast cancer subtypes using FTIR hyperspectral data</li>
   </ol>
 </nav>
-```

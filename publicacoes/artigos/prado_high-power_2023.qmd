@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">High-power Nd:YLF four-level lasers with 68% slope efficiency</li>
   </ol>
 </nav>
-```

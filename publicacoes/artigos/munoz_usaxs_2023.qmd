@@ -31,4 +31,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">(U)SAXS characterization of porous microstructure of chert: insights into organic matter preservation</li>
   </ol>
 </nav>
-```

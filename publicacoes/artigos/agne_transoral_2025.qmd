@@ -1,0 +1,36 @@
+---
+title: "Transoral robotic thyroidectomy using Versius platform: a preclinical feasibility study in cadavers"
+date: 2025-07-25
+author:
+  - name: Agne, Guilherme Reimann
+  - name: Liberato, David Eduardo Zuluaga
+  - name: Ramos, Andressa Teruya
+  - name: Feitosa, Valdenor Neves
+  - name: Lira, Renan Bezerra
+  - name: Kulcsar, Marco Aurélio Vamondes
+  - name: Matos, Leandro Luongo
+  - name: Bento, Gustavo Nunes
+  - name: Bertelli, Antonio
+  - name: De Cicco, Rafael
+  - name: Debiasi, Gustavo Galvan
+  - name: Artifon, Everson Luiz Almeida
+  - name: Arora, Asit
+  - name: Kowalski, Luiz Paulo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Journal of Robotic Surgery"
+  volume: 19
+  issue: 1
+  doi: "10.1007/s11701-025-02546-4"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Transoral robotic thyroidectomy using Versius platform: a preclinical feasibility study in cadavers</li>
+  </ol>
+</nav>

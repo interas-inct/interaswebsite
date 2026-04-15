@@ -1,0 +1,24 @@
+---
+title: "Time heals. A study of thyroidectomy scars"
+date: 2025-07-01
+author:
+  - name: De Araujo Filho, Vergilius José Furtado
+  - name: De Araujo-Neto, Vergilius José Furtado
+  - name: De Matos, Leandro Luongo
+abstract: > 
+  Resumo não disponível.
+categories: [article]
+citation: 
+  container-title: "Brazilian Journal of Otorhinolaryngology"
+  volume: 91
+  doi: "10.1016/j.bjorl.2025.101641"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Time heals. A study of thyroidectomy scars</li>
+  </ol>
+</nav>

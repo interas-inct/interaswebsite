@@ -25,4 +25,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Blue nests: The use of plastics in the nests of the crested oropendola (Psarocolius decumanus) on the Brazilian Amazon coast</li>
   </ol>
 </nav>
-```

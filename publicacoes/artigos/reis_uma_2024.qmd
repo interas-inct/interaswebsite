@@ -23,4 +23,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Uma Sequência de Ensino Investigativa para o Estudo de Queda Livre dos Corpos</li>
   </ol>
 </nav>
-```

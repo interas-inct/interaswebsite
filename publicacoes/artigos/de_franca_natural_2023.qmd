@@ -29,4 +29,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Natural radioisotopes and chemical elements causing carcinogenic risks in soils of urban green spaces in the Metropolitan Region of Recife, Pernambuco, Brazil?</li>
   </ol>
 </nav>
-```

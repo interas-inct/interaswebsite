@@ -46,4 +46,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Management of Older Patients with Head and Neck Cancer: A Comprehensive Review</li>
   </ol>
 </nav>
-```

@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">A Clinical Appearance of Traumatic Fibroma with a Distinct and Rare Histological Diagnosis –insights of Pseudo Perineurioma – Case Report</li>
   </ol>
 </nav>
-```

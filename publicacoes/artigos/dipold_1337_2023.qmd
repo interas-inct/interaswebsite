@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">1337 nm Emission of a Nd3+-Doped TZA Glass Random Laser</li>
   </ol>
 </nav>
-```

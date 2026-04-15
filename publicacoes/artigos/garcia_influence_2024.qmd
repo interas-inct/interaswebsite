@@ -21,4 +21,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Influence of the Method of Calculating the Effective Atomic Number on the Estimate of Fluorescence Yield for Metal Alloys of Biomedical Interest</li>
   </ol>
 </nav>
-```

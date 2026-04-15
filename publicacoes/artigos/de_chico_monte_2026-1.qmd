@@ -1,0 +1,29 @@
+---
+title: "Monte Carlo simulations to evaluate geometric variations of a new Iodine-125 seed"
+date: 2026-04-01
+author:
+  - name: De Chico, Henrique Santos
+  - name: Angelocci, Lucas Verdi
+  - name: Antunes, Paula Cristina Guimarães
+  - name: De Souza, Carla Daruich
+  - name: Zeituni, Carlos Alberto
+  - name: Sgrignoli, Sabrina Spigaroli
+  - name: Rostelato, Maria Elisa Chuery Martins
+abstract: > 
+  Abstract The Nuclear and Energy Research Institute and the National Nuclear Energy Commission (IPEN-CNEN/SP) are developing a new Iodine-125 seed for use in brachytherapy. The manufacturing process includes cutting the titanium tube, welding the ends, and performing leak tests. Seed approval is based on a microscopic analysis of its external geometry. The dosimetric methodology follows Task Group 43 (TG-43), which adopts the Monte Carlo method as the standard simulation technique. However, TG-43 does not account for geometric variations that may occur during the manufacturing process. This study investigated two types of variation: (1) the seed width after welding, and (2) the random positions that the core may assume within the seed. A total of 100 simulations were performed for each variation. The width was measured experimentally using a caliper, after welding, while the core position was modeled using a random number generator, since it is not feasible to measure it directly. These values were used to generate 201 input files for simulations in MCNP 6.2: 100 for each investigated parameter and one for the reference geometry (IPEN-CNEN/SP seed). The results were analyzed using MATLAB through bidimensional matrices of 101 × 101 points. For each point in the matrix, the mean, standard deviation, relative difference (compared to the reference geometry), and Type A uncertainty were calculated. The main results were: a standard deviation of 0.6% and a relative difference of 11% for the seed width; and a standard deviation of 50% and a relative difference of 25% for the core position. The Type A uncertainty was below 0.3% in all cases.
+categories: [article]
+citation: 
+  container-title: "Biomedical Physics & Engineering Express"
+  volume: 12
+  issue: 2
+  doi: "10.1088/2057-1976/ae43ef"
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Monte Carlo simulations to evaluate geometric variations of a new Iodine-125 seed</li>
+  </ol>
+</nav>

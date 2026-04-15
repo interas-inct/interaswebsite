@@ -26,4 +26,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Step-by-step of 3D printing a head-and-neck phantom: Proposal of a methodology using fused filament fabrication (FFF) technology</li>
   </ol>
 </nav>
-```

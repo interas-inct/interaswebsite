@@ -24,4 +24,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Educação ambiental: um relato de experiência do programa residência pedagógica</li>
   </ol>
 </nav>
-```

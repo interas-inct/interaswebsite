@@ -27,4 +27,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Surface contaminants’ incorporation after nanosecond laser ablation</li>
   </ol>
 </nav>
-```

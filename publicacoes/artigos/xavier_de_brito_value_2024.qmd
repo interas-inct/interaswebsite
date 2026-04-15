@@ -36,4 +36,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Value of 123I-MIBG SPECT for the assessment of dysautonomia in patients with long COVID</li>
   </ol>
 </nav>
-```

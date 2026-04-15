@@ -22,4 +22,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Contribuições da metacognição na aprendizagem do teorema de Pitágoras por meio de um tema contemporâneo transversal</li>
   </ol>
 </nav>
-```

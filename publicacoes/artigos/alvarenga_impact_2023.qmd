@@ -30,4 +30,3 @@ citation:
     <li class="breadcrumb-item active" aria-current="page">Impact of the COVID-19 Pandemic on Brazilian Head and Neck Surgery Centers</li>
   </ol>
 </nav>
-```
