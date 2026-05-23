@@ -1,41 +1,19 @@
 ---
-title: "Management of Older Patients with Head and Neck Cancer: A Comprehensive Review"
-date: 2023-05-01
+title: "Management of Stage III Oral Cavity Squamous Cell Carcinoma in Light of the New Staging System: a Critical Review"
+date: 2023-02-01
 author:
-  - name: Matos, Leandro L.
-  - name: Sanabria, Alvaro
-  - name: Robbins, K. Thomas
-  - name: Halmos, Gyorgy B.
-  - name: Strojan, Primož
-  - name: Ng, Wai Tong
-  - name: Takes, Robert P.
-  - name: Angelos, Peter
-  - name: Piazza, Cesare
-  - name: De Bree, Remco
-  - name: Ronen, Ohad
-  - name: Guntinas-Lichius, Orlando
-  - name: Eisbruch, Avraham
-  - name: Zafereo, Mark
-  - name: Mäkitie, Antti A.
-  - name: Shaha, Ashok R.
-  - name: Coca-Pelaz, Andres
-  - name: Rinaldo, Alessandra
-  - name: Saba, Nabil F.
-  - name: Cohen, Oded
-  - name: Lopez, Fernando
-  - name: Rodrigo, Juan P.
-  - name: Silver, Carl E.
-  - name: Strandberg, Timo E.
-  - name: Kowalski, Luiz Paulo
-  - name: Ferlito, Alfio
+  - name: Matos, Leandro Luongo
+  - name: Guimarães, Yasmin Laryssa Moura
+  - name: Leite, Ana Kober
+  - name: Cernea, Claudio Roberto
 abstract: > 
   Resumo não disponível.
 categories: [article]
 citation: 
-  container-title: "Advances in Therapy"
-  volume: 40
-  issue: 5
-  doi: "10.1007/s12325-023-02460-x"
+  container-title: "Current Oncology Reports"
+  volume: 25
+  issue: 2
+  doi: "10.1007/s11912-022-01353-6"
 ---
 
 ```{=html}
@@ -43,6 +21,6 @@ citation:
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
     <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Management of Older Patients with Head and Neck Cancer: A Comprehensive Review</li>
+    <li class="breadcrumb-item active" aria-current="page">Management of Stage III Oral Cavity Squamous Cell Carcinoma in Light of the New Staging System: a Critical Review</li>
   </ol>
 </nav>

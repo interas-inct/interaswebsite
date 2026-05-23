@@ -1,18 +1,24 @@
 ---
-title: "Evaluation of conventional IMRT and VMAT strategies for postmastectomy radiation therapy after immediate implant-based reconstruction using the new ESTRO-ACROP contouring guidelines"
-date: 2024-03-01
+title: "Evaluation of the potential for greenhouse gas (CO2, CH4) emissions in the southern São Paulo coastal region, Cananéia-Iguape system"
+date: 2024-01-01
 author:
-  - name: Araujo, Andreyson S.
-  - name: Silva, Rogério M. V.
-  - name: Souza, Divanizia.N.
+  - name: Araujo, Elaine C.
+  - name: Correa, Thais
+  - name: Andrade, Izabel Da S.
+  - name: Macedo, Fernanda De M.
+  - name: Marques, Marcia T.
+  - name: Andrade, Thais
+  - name: Souto-Oliveira, Carlos Eduardo
+  - name: Braga, Elisabete S.
+  - name: Andrade, Maria De F.
+  - name: Landulfo, Eduardo
 abstract: > 
   Resumo não disponível.
 categories: [article]
 citation: 
-  container-title: "Radiation and Environmental Biophysics"
-  volume: 63
-  issue: 1
-  doi: "10.1007/s00411-024-01059-2"
+  container-title: "Ocean and Coastal Research"
+  volume: 72
+  doi: "10.1590/2675-2824072.22121"
 ---
 
 ```{=html}
@@ -20,6 +26,6 @@ citation:
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
     <li class="breadcrumb-item"><a href="../index.html">Publicações</a></li>
-    <li class="breadcrumb-item active" aria-current="page">Evaluation of conventional IMRT and VMAT strategies for postmastectomy radiation therapy after immediate implant-based reconstruction using the new ESTRO-ACROP contouring guidelines</li>
+    <li class="breadcrumb-item active" aria-current="page">Evaluation of the potential for greenhouse gas (CO2, CH4) emissions in the southern São Paulo coastal region, Cananéia-Iguape system</li>
   </ol>
 </nav>

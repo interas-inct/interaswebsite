@@ -1,6 +1,8 @@
 # --- Carregar bibliotecas necessárias ---
 library(biblio)
 library(glue)
+library(here)
+library(fs)
 
 # --- Configurações ---
 bib_file_path <- "INTERAS_20260415_ate202604.bib"
@@ -13,7 +15,7 @@ if (!dir.exists(output_dir)) {
   dir.create(output_dir, showWarnings = FALSE, recursive = TRUE)
   cat("Diretório '", output_dir, "' criado com sucesso.\n")
 } else {
-  unlink(glue(output_dir,"/*.qmd"))
+  unlink(dir_ls(path=path(here(),output_dir)))
   cat("Arquivos .qmd antigos removidos\n")
 }
 

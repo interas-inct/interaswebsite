@@ -1,0 +1,39 @@
+---
+title: "2º Wokshop Anual do INTERAS"
+author: "Mário O. de Menezes"
+date: "2026-05-23"
+categories: [evento, pesquisa, interas]
+---
+
+# 2º Workshop do INCT das Radiações na Saúde: Ciência e Colaboração no Instituto D'Or
+
+O avanço científico nacional depende, fundamentalmente, da articulação e da troca de saberes entre os grandes centros de pesquisa. No dia 25 de maio de 2026, o cenário da pesquisa em radiações ionizantes terá um marco importante com a realização do **2º Workshop do INCT das Radiações na Saúde**.
+
+Este encontro anual, que figura como uma etapa fundamental para o cumprimento dos objetivos e metas dos Institutos Nacionais de Ciência e Tecnologia (INCTs), será realizado no Instituto D'Or de Pesquisa e Ensino (IDOR), na cidade de São Paulo. O evento não é apenas uma formalidade administrativa, mas um momento estratégico para a consolidação de redes de colaboração entre instituições de peso, como o IPEN (Instituto de Pesquisas Energéticas e Nucleares), UFABC, UFRJ, USP e outras entidades parceiras.
+
+### A Importância da Reunião Anual
+
+As reuniões anuais dos INCTs são vitais para o monitoramento da produção científica e para o alinhamento das ações de pesquisa. O workshop permite que pesquisadores, discentes e colaboradores discutam os resultados obtidos, apresentem avanços tecnológicos e debatam os desafios futuros na aplicação de radiações ionizantes voltadas à saúde humana. A presença do CNPq como fomentador reafirma o caráter de excelência e a necessidade de prestar contas sobre o impacto do projeto na comunidade científica e na sociedade.
+
+### Destaques da Programação
+
+O workshop contará com um dia intensivo de atividades, começando às 08h30 com a abertura oficial e apresentação dos relatórios de progresso pelos coordenadores Denise Zezell e Emiliano Medei. 
+
+A dinâmica do evento foi desenhada para maximizar a interação entre os participantes:
+
+* **Sessões Orais:** O cronograma prevê uma série de apresentações de 15 minutos (12 minutos de exposição e 3 minutos para discussão), permitindo uma visão panorâmica da diversidade de pesquisas conduzidas sob o guarda-chuva do instituto.
+* **Sessões de Pôsteres:** Dois momentos dedicados (das 10h15 às 10h45 e das 15h45 às 16h30) serão reservados para a apresentação de pôsteres, espaço essencial para que estudantes e jovens pesquisadores possam expor seus dados e receber *feedback* qualificado de especialistas da área.
+
+A programação contará com a apresentação de 23 pesquisadores do INTERAS, mostrando rapidamente os resultados, desafios e oportunidades de seus trabalhos e grupos de pesquisa. O dia será encerrado com uma sessão dedicada a ações conjuntas, visando fortalecer as parcerias institucionais para o próximo ciclo de trabalho.
+
+### Informações do Evento
+
+Para facilitar o acesso às informações, compilamos abaixo os dados principais:
+
+::: {.callout-important title="2º Workshop do INCT de Radiações Ionizantes na Saúde"}
+**Data:** 2026-05-25  
+**Local:** "Instituto D'Or de Pesquisa e Ensino (Av. Brigadeiro Luís Antônio, 5001 - Jardim Paulista)"  
+**Realizacao:** "INCT das Radiações na Saúde / CNPq / INTERAS"
+::: 
+
+A participação ativa nestes eventos é o que garante que a ciência brasileira mantenha seu alto nível de competitividade e relevância social. Esperamos todos os membros e colaboradores para um dia de muito aprendizado e progresso científico.
