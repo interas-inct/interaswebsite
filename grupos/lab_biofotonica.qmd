@@ -6,6 +6,7 @@ categories:
   - diagnostico
   - terapias
   - dados
+  - inteligência artificial
   - formacao
 ---
 
