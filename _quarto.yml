@@ -23,7 +23,7 @@ website:
     id: news-braqui-2026
     icon: play-btn
     dismissable: true
-    content: "📢 **Novos Vídeos divulgando pesquisas realizadas no INTERAS**. [Assista aqui](/videos/index.qmd)"
+    content: "📢 **2º Workshop Anual do INTERAS**. [Veja notícia](/noticias/index.qmd)"
     type: primary
   page-navigation: true
   favicon: images/favicon.ico
