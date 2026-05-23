@@ -3,6 +3,7 @@ title: "2º Wokshop Anual do INTERAS"
 author: "Mário O. de Menezes"
 date: "2026-05-23"
 categories: [evento, pesquisa, interas]
+image: "noticia_site_interas_2oWorkshop_202605.jpg"
 ---
 
 # 2º Workshop do INCT das Radiações na Saúde: Ciência e Colaboração no Instituto D'Or
