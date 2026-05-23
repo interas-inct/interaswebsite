@@ -63,7 +63,7 @@ website:
     left: 
      - text: |
           <img src="/images/3125_bordas_minimas_redim.png" alt="INTERAS" height="40">
-    center: "Copyright 2025 INTERAS"
+    center: "Copyright 2026 INTERAS"
     right: 
       - icon: github
         href: https://github.com/ipencnensp/interaswebsite

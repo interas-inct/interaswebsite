@@ -3,6 +3,7 @@ title: "INTERAS co-organiza o IX NanoMat"
 author: "Mário O. de Menezes"
 date: "2026-05-07"
 categories: [evento, pesquisa, nanomateriais]
+image: "evento-286384-banner.jpeg"
 ---
 
 

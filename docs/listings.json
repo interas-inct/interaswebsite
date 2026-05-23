@@ -843,6 +843,7 @@
   {
     "listing": "/grupos.html",
     "items": [
+      "/grupos/resgroup_cinas.html",
       "/grupos/lab_biofotonica.html",
       "/grupos/lab_cardioimunologia.html",
       "/grupos/lab_imunologiacardio_ufabc.html",

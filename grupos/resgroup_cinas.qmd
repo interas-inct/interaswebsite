@@ -1,0 +1,104 @@
+---
+title: "Grupo de Pesquisas em Computação e Inteligência Artificial em Nuclear e Saúde"
+description: "O Grupo de Computação e Inteligência Artificial em Nuclear e Saúde (CINAS) atua na fronteira do conhecimento, preenchendo a lacuna entre o desenvolvimento algorítmico e a aplicação crítica em infraestruturas nucleares e ambientes clínicos. Nossa missão é desenvolver metodologias que incorporam o conhecimento físico e biológico (domain knowledge) dentro da arquitetura de modelos inteligentes."
+image: "/images/grupos/logo_CINAS_348x348.png"
+categories:
+  - inteligência artificial
+  - computação científica
+  - dados
+  - formacao
+---
+
+## Sobre o Grupo
+
+O CINAS consolida uma iniciativa de pesquisa translacional situada na convergência entre a Ciência da Computação Avançada e as Ciências das Radiações.
+
+Em um cenário global onde a transformação digital redefine paradigmas científicos, operamos sob a premissa de que a próxima fronteira da inovação nuclear e médica virá da inteligência extraída dos dados.
+
+Com sede no Instituto de Pesquisas Energéticas e Nucleares - IPEN-CNEN, o Grupo de Pesquisa em Computação e Inteligência Artificial em Nuclear e Saúde (CINAS) do IPEN é coordenado pelo [Dr. Mário Olímpio de Menezes](/pessoas/pesquisador/mario-olimpio-de-menezes.qmd).
+
+
+Visite a [página do Grupo para conhecer mais!](https://cinas.ipen.br){target="_blank"}
+
+
+
+::: {.panel-tabset}
+
+### Membros do Laboratório
+
+::: {.card}
+::: {.card-body}
+::: {.card-text}
+#### Coordenação
+
+[Dr. Mário Olímpio de Menezes](/pessoas/pesquisador/mario-olimpio-de-menezes.qmd)
+
+#### Pós Docs
+Aline Araújo Perini (co-orientação)
+
+#### Mestrandos
+
+**Acadêmico**
+
+Gabriel Caldana Guimarães  
+Luiza Manso  
+Márcio de Aguiar dos Santos  
+Nathália Luzia Aidar Alves  
+
+
+<!-- Luciana Silva Albuquerque Melo (2025)   -->
+<!-- Patrícia Pedrosa Moreira Mendes (2023) -->
+<!-- Caroline Zeppellini dos Santos Emiliozzi (2023)   -->
+<!-- Cláudia Chamas (2021)   -->
+<!-- Glauber Mauch de Carvalho (2020)   -->
+
+
+
+**Profissional**
+
+
+Guilherme Cremasco  
+Jardson Oliveira Peixinho  
+Juciene dos Santos Batista  
+Larisse Neumann Bonatto  
+Lilian Polidório Caires  
+Wendell da Luz Silva  
+
+<!-- Erica Maurício Policarpo (2024)   -->
+<!-- Marcelo Moreira da Silva (2024)   -->
+<!-- Ana Karolina Defente Caetano (2024)   -->
+<!-- Carolina Roberta Caldeira -- co-orientação (2023)   -->
+<!-- Cíntia Maria Perotto Mesquita da Silva (2022) -->
+
+#### Iniciação Científica
+
+Marcelo Henrique da Cunha Ponciano  
+
+:::
+:::
+:::
+
+
+
+
+
+
+
+### Endereço de Correspondência
+
+::: {.card .border-primary .mb-3}
+
+::: {.card-body}
+#### Grupo de Pesquisas CINAS
+
+Research Reactors Center -- CERPQ  
+Nuclear and Energy Research Institute, IPEN-CNEN  
+Av. Prof. Lineu Prestes 2242  
+Cidade Universitária USP  
+CEP 05508-000  
+São Paulo-SP- BRAZIL
+
+:::
+:::
+
+:::
