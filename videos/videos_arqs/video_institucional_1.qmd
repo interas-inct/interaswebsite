@@ -1,0 +1,16 @@
+---
+title: "Vídeo Institucional - INTERAS 2026"
+date: "2026-06-16"
+description: "Vídeo Institucional do INTERAS"
+image: "video_institucional_1.jpg"
+categories: [Institucional]
+---
+
+### Descrição
+
+Este é um Vídeo Institucional sobre o INTERAS, que apresenta algumas das pesquisas que têm sido desenvolvidas nos diversos grupos e laboratórios que compõe o INCT Tecnologia das Radiações na Saúde (INTERAS)
+
+### Acesso ao Conteúdo
+
+* [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1nWzT88v6U-u_15PY-_t3TUcS_JoDt1Fo/view){target="_blank"}
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/CmzttRCwyw4JjPN){target="_blank"}
