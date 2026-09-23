@@ -1,0 +1,70 @@
+---
+title: "INCT INTERAS é selecionado para o Programa de Mentoria Jornada do Conhecimento (CNPq-EMBRAPII)"
+author: "Mário O. de Menezes"
+date: "2026-09-01"
+categories: [divulgação, institucional, CNPq, inovação]
+image: "featured.jpg"
+---
+
+O Instituto Nacional de Ciência e Tecnologia em Radiações na Saúde (**INCT INTERAS**) foi um dos 30 Institutos Nacionais de Ciência e Tecnologia selecionados em chamada pública promovida pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (**CNPq**) para integrar o programa de mentoria **Jornada do Conhecimento**, desenvolvido em parceria estratégica com a Empresa Brasileira de Pesquisa e Inovação Industrial (**EMBRAPII**).
+
+A iniciativa, que teve seu marco inaugural em agosto de 2026, foi concebida para aproximar a produção científica de excelência desenvolvida no âmbito dos INCTs aos mecanismos de inovação tecnológica e demandas reais do setor produtivo nacional.
+
+::: {.callout-note}
+### Sobre a Parceria CNPq-EMBRAPII
+O programa visa potencializar a capacidade de transferência de tecnologia e a maturidade operacional dos grupos de pesquisa, articulando a experiência das Unidades e Centros de Competência Embrapii com as competências de fronteira dos INCTs, com foco especial na superação dos desafios entre a pesquisa de bancada e a aplicação industrial (níveis de maturidade tecnológica TRL 4 a 7).
+:::
+
+### A Iniciativa e o Modelo Operacional
+
+O processo seletivo conduzido pelo CNPq contemplou 30 INCTs em todo o país. Para viabilizar uma dinâmica de trabalho colaborativa e aprofundada, os institutos participantes foram distribuídos em 10 grupos temáticos, cada qual composto por 3 INCTs e até 3 pesquisadores indicados por instituto.
+
+O **INTERAS** integra o **Grupo 8**, atuando em estreita cooperação com o **INCT de Ciências Moleculares (CiMol)** e o **INCT em Terapia Gênica (INTERGEN)**. 
+
+O primeiro ciclo do programa tem vigência de 12 meses (setembro de 2026 a junho de 2027) e funciona em formato de rodízio temático. A condução das atividades é liderada por uma equipe de 10 facilitadores especialistas vinculados a Unidades e Centros de Competência Embrapii de diferentes regiões do país.
+
+Para cada tema da programação, as atividades desenvolvem-se em ciclos de três semanas (com carga horária mínima de 20 horas), contemplando:
+
+1. **Diagnóstico inicial:** levantamento do estágio de maturidade e necessidades do grupo;
+2. **Encontros virtuais ao vivo:** discussões conceituadas e alinhamento de metodologias práticas;
+3. **Aplicação prática orientada:** elaboração de planos, ferramentas e modelos institucionais;
+4. **Plantões semanais de dúvidas:** sessões dedicadas para suporte contínuo aos participantes;
+5. **Avaliação e consolidação:** intervalos de síntese para aprimoramento contínuo dos processos.
+
+Toda a interação, gestão de cronogramas e compartilhamento de acervos documentais ocorrem por meio da plataforma integrada da Comunidade da Jornada do Conhecimento.
+
+### Eixos Temáticos de Capacitação
+
+Ao longo dos doze meses de mentoria, os pesquisadores percorrerão dez módulos voltados à estruturação institucional e à interação com o setor empresarial:
+
+* **Gestão de Projetos de PD&I com Empresas:** modelos de horizonte tecnológico, seleção de projetos e definição de indicadores-chave de desempenho (KPIs);
+* **Elaboração de Plano de Projeto de PD&I:** estruturação formal de propostas colaborativas;
+* **Registro de Entregáveis de PD&I:** metodologias de acompanhamento e validação de entregas técnicas;
+* **Estruturação de Processos Internos:** governança jurídica, administrativa e operacional de laboratórios de pesquisa;
+* **Prospecção de Projetos junto à Indústria:** identificação e atração de demandas do setor produtivo;
+* **Transferência de Tecnologia e Contratação:** melhores práticas de licenciamento, modelos contratuais e continuidade de projetos;
+* **Gestão e Negociação de Propriedade Intelectual:** proteção e valorização de ativos intelectuais em parcerias público-privadas;
+* **Estratégias de Comunicação:** divulgação científica orientada ao engajamento com empresas e sociedade;
+* **Relacionamento com Fundações de Apoio:** eficiência na conformidade e execução orçamentária;
+* **Estratégia de Captação de Recursos:** diversificação de fontes complementares de fomento.
+
+### A Participação do INTERAS
+
+Para representar o INCT INTERAS e multiplicar os conhecimentos adquiridos junto aos laboratórios e redes associadas, foram indicados três membros do comitê de pesquisadores do instituto:
+
+* [Prof. Dr. Emiliano Medei](/pessoas/coordenacao/emiliano-horacio-medei.qmd) (Vice-Coordenador do INTERAS e Professor Titular da UFRJ);
+* [Prof. Dr. Orlando Rodrigues Junior](/pessoas/pesquisador/orlando-rodrigues-junior.qmd) (Pesquisador Titular do IPEN-CNEN);
+* [Prof. Dr. Mário Olímpio de Menezes](/pessoas/pesquisador/mario-olimpio-de-menezes.qmd) (Pesquisador do IPEN-CNEN).
+
+O calendário oficial do programa foi aberto em **28 de agosto de 2026** com a reunião nacional de *kickoff*, na qual foram apresentados os facilitadores e as diretrizes do programa pela diretoria da Embrapii e do CNPq. As rodadas de atividades com os INCTs tiveram início em **1º de setembro de 2026**. 
+
+Além dos ciclos virtuais, o cronograma inclui a realização de três workshops temáticos híbridos/presenciais (previstos para dezembro de 2026, março de 2027 e maio de 2027), culminando no seminário de encerramento do primeiro ciclo em **22 de junho de 2027**.
+
+### Fortalecimento da Inovação em Radiações na Saúde
+
+A inserção do INTERAS na Jornada do Conhecimento representa um passo estratégico para consolidar a translação do conhecimento científico gerado no instituto em soluções aplicáveis à saúde pública e à indústria médica. 
+
+A capacitação em gestão de PD&I e prospecção industrial fortalecerá o ecossistema do INTERAS no desenvolvimento de novos radiofármacos, instrumentação de dosimetria, tecnologias biomédicas e nanossistemas terapêuticos, ampliando a sustentabilidade e o alcance social das pesquisas financiadas com recursos públicos.
+
+---
+*Para saber mais sobre o programa e acompanhar as iniciativas de inovação, acompanhe as atualizações institucionais no portal do [INCT INTERAS](https://interas.ipen.br/) e as ações conjuntas nos canais do [CNPq](https://www.gov.br/cnpq) e da [EMBRAPII](https://embrapii.org.br).*

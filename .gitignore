@@ -9,3 +9,4 @@ _freeze/**
 *_files/**
 *_cache**
 .positai
+local_only/**
