@@ -1,0 +1,16 @@
+---
+title: "Vídeo Institucional - Eixo Diagnóstico (INTERAS 2026)"
+date: "2026-09-24"
+description: "Vídeo Institucional do INTERAS - Eixo Diagnóstico"
+image: "video_institucional_diagnostico.jpg"
+categories: [Institucional, Diagnóstico]
+---
+
+### Descrição
+
+Este vídeo institucional apresenta as pesquisas desenvolvidas no **Eixo Diagnóstico** do INCT Tecnologia das Radiações na Saúde (INTERAS). O material aborda metodologias ópticas e espectroscópicas avançadas, incluindo a espectroscopia FTIR em biofluidos (como saliva) para detecção não invasiva de biomarcadores e o imageamento hiperespectral voltado ao diagnóstico precoce de câncer bucal.
+
+### Acesso ao Conteúdo
+
+* [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1r4J1SoyxJ6MMb_o6oXGq3u6LYqka73xH/view?usp=sharing){target="_blank"}
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/Ba6YeJ3H4FPNEff){target="_blank"}

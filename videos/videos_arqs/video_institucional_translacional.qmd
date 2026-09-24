@@ -1,0 +1,16 @@
+---
+title: "Vídeo Institucional - Eixo Pesquisa Translacional (INTERAS 2026)"
+date: "2026-09-24"
+description: "Vídeo Institucional do INTERAS - Eixo Pesquisa Translacional"
+image: "video_institucional_translacional.jpg"
+categories: [Institucional, Pesquisa Translacional]
+---
+
+### Descrição
+
+Este vídeo institucional detalha as pesquisas do **Eixo de Pesquisa Translacional** do INCT Tecnologia das Radiações na Saúde (INTERAS). O conteúdo destaca a síntese limpa de nanopartículas de ouro radiossensibilizadoras via laser pulsado de femtossegundo para potencialização da radioterapia, a caracterização em nanoescala e o imageamento molecular pioneiro em modelos vegetais por micro-PET/CT utilizando o radiofármaco traçador $^{18}\text{F-FDG}$.
+
+### Acesso ao Conteúdo
+
+* [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1erNYKSXGkhx7MWMzOOpbqI1s3NO90a9S/view?usp=sharing){target="_blank"}
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/Xiedp2xYfPxaXHZ){target="_blank"}

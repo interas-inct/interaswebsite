@@ -1,0 +1,53 @@
+---
+title: "INCT INTERAS lança série de vídeos institucionais dedicados aos seus eixos estratégicos de pesquisa"
+author: "Mário O. de Menezes"
+date: "2026-09-24"
+categories: [divulgação, institucional, vídeos, pesquisa]
+image: "featured.png"
+---
+
+O Instituto Nacional de Ciência e Tecnologia em Radiações na Saúde (**INCT INTERAS**) acaba de lançar uma trilogia de vídeos institucionais temáticos, concebida para aprofundar, detalhar e complementar a visão panorâmica apresentada em seu [Vídeo Institucional Geral](/videos/videos_arqs/video_institucional_1.qmd). A nova série audiovisual percorre as três vertentes científicas fundamentais que estruturam as pesquisas e inovações do Instituto: **Diagnóstico**, **Pesquisa Translacional** e **Tratamento**.
+
+Com sede no Instituto de Pesquisas Energéticas e Nucleares (**IPEN-CNEN**) e fomento do Conselho Nacional de Desenvolvimento Científico e Tecnológico (**CNPq**), Ministério da Ciência, Tecnologia e Inovação (**MCTI**) e da Fundação de Amparo à Pesquisa do Estado de São Paulo (**FAPESP**), o INTERAS mobiliza uma expressiva rede multidisciplinar de instituições parceiras em todo o Brasil — incluindo a Universidade de São Paulo (**USP**), Universidade Federal de São Paulo (**UNIFESP**), Universidade Federal do Rio de Janeiro (**UFRJ**), Universidade Federal do ABC (**UFABC**), Universidade Federal de Sergipe (**UFS**), Universidade do Estado do Amazonas (**UEA**) e Universidade Estadual Paulista (**UNESP**).
+
+As três novas produções têm como objetivo aproximar a comunidade científica, os profissionais de saúde e a sociedade das soluções desenvolvidas na fronteira do conhecimento entre a física das radiações, a fotônica, a nanotecnologia e a biomedicina.
+
+---
+
+### Eixo Diagnóstico: Precisão Espectroscópica e Biópsia Líquida Não Invasiva
+
+O primeiro vídeo da série mergulha nos laboratórios de **Diagnóstico**, apresentando metodologias ópticas e espectroscópicas de última geração dedicadas à identificação precoce e não invasiva de patologias graves:
+
+* **Espectroscopia FTIR (Infravermelho por Transformada de Fourier):** Utilização da assinatura molecular e vibracional de biofluidos — com ênfase na análise da saliva humana — para detecção de biomarcadores específicos sem a necessidade de intervenções invasivas.
+* **Imageamento Hiperespectral e Câncer Bucal:** Aplicação de sistemas ópticos avançados e inteligência artificial para mapear tecidos bucais em tempo real, permitindo a detecção de alterações pré-malignas e tumores em estágios iniciais, o que eleva substancialmente o prognóstico clínico e as chances de cura.
+* **Impacto Social e Clínico:** Redução do desconforto para o paciente, velocidade no diagnóstico e descentralização do rastreamento de lesões suspeitas para o sistema de saúde pública.
+
+### Eixo Pesquisa Translacional: Da Bancada Molecular à Avaliação Funcional
+
+O segundo vídeo aborda o papel da **Pesquisa Translacional**, atuando como elo crucial entre descobertas fundamentais de laboratório e a validação de ferramentas para aplicação biomédica e vegetal:
+
+* **Nanotecnologia Verde com Lasers de Femtossegundo:** Síntese de nanopartículas de ouro coloidais por ablação a laser pulsado ultracurto, garantindo máxima pureza química, estabilidade coloidal e isenção de resíduos tóxicos comuns a métodos químicos tradicionais.
+* **Radiossensibilização:** Estudo do mecanismo de intensificação de dose de radiação ionizante promovido por essas nanopartículas metálicas no microambiente celular, multiplicando o dano biológico nas células cancerosas enquanto preserva os tecidos adjacentes.
+* **Imageamento Molecular em Modelos Vegetais com Micro-PET/CT:** Emprego inovador do radiotraçador $^{18}\text{F-FDG}$ (fluorodesoxiglicose) e microtomografia por emissão de pósitrons acoplada a raio X para monitorar dinâmicas metabólicas e respostas fisiológicas de plantas a estresses ambientais, expandindo os horizontes da imagem molecular para além do modelo biomédico tradicional.
+
+### Eixo Tratamento: Terapias Fotônicas, Nanocarreadores e Interação Radiação-Matéria
+
+Fechando a trilogia, o terceiro vídeo expõe as frentes terapêuticas de ponta desenvolvidas pelo INTERAS voltadas à intervenção médica precisa e minimamente invasiva:
+
+* **Nanocarreadores Direcionados para Câncer de Próstata:** Projetos colaborativos interinstitucionais dedicados ao desenvolvimento de carreadores funcionalizados à base de ouro para entrega vetorizada de agentes terapêuticos e radiofármacos diretamente no tumor prostático, mitigando efeitos adversos sistêmicos.
+* **Lasers de Nd:YAG e Fotoabsorvedores Nanoparticulados:** Utilização de feixes laser no infravermelho próximo associados a agentes fotoabsorvedores em procedimentos odontológicos e tecidos moles, permitindo desinfecção profunda, descontaminação bacteriana e remodelamento tecidual controlado com alta precisão fototérmica.
+* **Preservação de Tecidos Sadios:** Otimização dos regimes de irradiação e dosimetria para maximizar o efeito curativo local, encurtar tempos de recuperação e oferecer opções terapêuticas menos debilitantes.
+
+---
+
+### Assista aos Vídeos na Galeria do INTERAS
+
+A série audiovisual integra o compromisso permanente do INCT INTERAS com a divulgação científica rigorosa e a transparência pública de seus resultados de pesquisa financiados com recursos públicos.
+
+::: {.callout-tip appearance="simple"}
+### [Acesse aqui a Galeria de Vídeos do INCT INTERAS](/videos/index.qmd)
+Confira os novos vídeos temáticos e o acervo completo de produções audiovisuais do Instituto, com opções de reprodução e download através dos servidores dedicados.
+:::
+
+---
+*Para mais detalhes sobre as linhas de pesquisa, publicações e oportunidades de colaboração, acompanhe as atualizações nos canais oficiais do [INCT INTERAS](https://www.interas.org/), do [IPEN-CNEN](https://www.gov.br/ipen) e das agências de fomento [CNPq](https://www.gov.br/cnpq), [MCTI](https://www.gov.br/mcti) e [FAPESP](https://fapesp.br).*

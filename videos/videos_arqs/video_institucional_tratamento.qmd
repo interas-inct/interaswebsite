@@ -1,0 +1,16 @@
+---
+title: "Vídeo Institucional - Eixo Tratamento (INTERAS 2026)"
+date: "2026-09-24"
+description: "Vídeo Institucional do INTERAS - Eixo Tratamento"
+image: "video_institucional_tratamento.jpg"
+categories: [Institucional, Tratamento]
+---
+
+### Descrição
+
+Este vídeo institucional apresenta as inovações terapêuticas desenvolvidas no **Eixo Tratamento** do INCT Tecnologia das Radiações na Saúde (INTERAS). São demonstradas pesquisas com nanocarreadores direcionados para terapia localizada do câncer de próstata, bem como a aplicação de lasers de Nd:YAG associados a fotoabsorvedores nanoparticulados na odontologia e em tecidos biológicos, visando intervenções com máxima preservação de tecidos saudáveis.
+
+### Acesso ao Conteúdo
+
+* [**Servidor Principal (Google Drive)**](https://drive.google.com/file/d/1vnTbGuDC0CR6Pyo0oz8KPH8rcNa4Trvg/view?usp=sharing){target="_blank"}
+* [**Servidor Alternativo (NextCloud CINAS-IPEN)**](https://cloud.cinas.ipen.br/s/FCZNKsf9A49FY4Q){target="_blank"}
